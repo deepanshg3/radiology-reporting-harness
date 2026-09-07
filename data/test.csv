@@ -1,0 +1,1696 @@
+﻿case_id,modality,body_part,study_description,patient_age_band,patient_sex,template_content,dictation
+00320399-b3ed-447c-be07-a3e3b9af6e2e,CT,Abdomen,CT A/P WO-B,60-64,female,"FINDINGS:
+LIVER: Normal in size and attenuation. No focal hepatic lesion.
+GALLBLADDER AND BILIARY TREE: Normal. No biliary ductal dilatation.
+PANCREAS: Normal in size and contour.
+SPLEEN: Normal.
+ADRENAL GLANDS: Normal in size and morphology.
+KIDNEYS AND URETERS: Normal appearance without renal calculi or hydronephrosis.
+URINARY BLADDER: Normal. No calculus or mass lesion.
+REPRODUCTIVE: The uterus and ovaries/prostate are normal in appearance.
+MAJOR VESSELS: The abdominal aorta is normal in caliber.
+PERITONEUM: No ascites. No pneumoperitoneum.
+ABDOMINAL WALL: The abdominal wall is unremarkable. No hernia.
+LYMPH NODES: No significant mesenteric or retroperitoneal lymphadenopathy.
+STOMACH AND BOWEL: No evidence of bowel obstruction.
+BONES: No acute osseous abnormality.
+
+IMPRESSION:
+No acute intra-abdominal abnormality identified.","Surgically absent gallbladder. Surgical clips are seen in the gallbladder fossa. 
+small splenic calcification
+pelvic phleboltihs
+appendix is surgically absent, with surgical suture at the cecum.
+Colonic diverticulosis is present. There is focal moderate pericolonic fat stranding adjacent to the sigmoid colon, best seen on series 201 images 180 to 185, consistent with acute diverticulitis. No adjacent fluid collection or abscess is identified. No extraluminal free air is seen.
+no bowel obstruction
+Enteric contrast is seen from stomach to distal small"
+01b1c9ab-800b-4963-b11d-9d503952e57c,XRAY,Lumbar spine,XR LSP 4V,40-44,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Mild lower lumbar facet degenerative changes.
+
+Rest is normal."
+02aae38a-088b-4cae-bfdc-f0fb38da565d,XRAY,Thoracic spine,XR TSP 2V,50-54,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion. 
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","degen chnges , mild  scoliosis convexity to left"
+045ea333-6d30-4edf-9d33-8ed3feb0772d,MRI,Lumbar spine,MRI LUMBAR,50-54,male,"FINDINGS:
+VERTEBRAE: Normal vertebral body heights are maintained. No acute fracture or focal osseous lesion. Marrow signal is within normal limits for age.
+ALIGNMENT: Anatomic lumbar lordosis is maintained. No spondylolisthesis.
+SPINAL CORD: The conus medullaris terminates at a normal level, demonstrating normal signal and contour. The cauda equina nerve roots are unremarkable.
+DISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and hydration are preserved. No significant facet arthropathy or ligamentum flavum hypertrophy.
+L1-L2: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L2-L3: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L3-L4: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L4-L5: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L5-S1: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+PARASPINAL SOFT TISSUES: The visualized paravertebral soft tissues are symmetric and without abnormal signal.
+
+IMPRESSION:
+Unremarkable MR of the lumbar spine.","Straightening of the normal lumbar lordosis is noted. Multilevel degenerative spondylotic changes are seen in the form of marginal osteophyte formation and multilevel intervertebral disc desiccation/bulging. A benign-appearing vertebral hemangioma is noted within the L2 vertebral body. At L1-L2, mild diffuse disc bulge is noted without significant central canal stenosis or neural foraminal compromise. At L2-L3, diffuse disc bulge is noted with bilateral neural foraminal narrowing. Mild degenerative endplate changes are seen At L3-L4, diffuse disc bulge with bilateral foraminal extension is noted, causing bilateral neural foraminal narrowing with crowding/impingement of the exiting nerve roots. At L4-L5, diffuse disc bulge with bilateral neural foraminal narrowing is noted. The AP diameter of the central spinal canal measures approximately 9.6 mm, suggestive of mild central canal stenosis. At L5-S1, diffuse disc bulge with bilateral foraminal extension is noted, causing bilateral neural foraminal narrowing and impingement of the exiting nerve roots. The central canal measures approximately 12 mm in AP diameter. No significant focal compression of the cauda equina is seen. Visualized paraspinal soft tissues are grossly unremarkable. Focal marrow/soft-tissue edema-like signal involving the ANTERIOR ADJACENT ENDPLATE at L2-L3 AND SPINOUS PROCESS OF L4 correlate clinically and consider further evaluation if clinically indicated. Multilevel lumbar spondylotic degenerative changes with multilevel disc bulges. L3-L4 bilateral neural foraminal narrowing with impingement of bilateral exiting nerve roots. L4-L5 disc bulge with mild central canal stenosis (canal AP diameter ~9.6 mm). impingement of bilateral exiting nerve roots. L5-S1 bilateral foraminal narrowing with impingement of bilateral exiting nerve roots. Focal marrow/soft-tissue edema-like signal involving the ANTERIOR ADJACENT ENDPLATE at L2-L3 AND SPINOUS PROCESS OF L4 correlate clinically and consider further evaluation if clinically indicated. Vertebral hemangioma in L2."
+06ef946f-5b3b-4b7c-a64f-58c184dca4e6,XRAY,Shoulder,XR L SHOULDER 2V,65-69,male,"FINDINGS:
+BONES: No fracture or focal lesion.
+JOINTS: No dislocation. The joint spaces and articular margins are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Bones show no acute fracture or dislocation. Glenohumeral alignment is maintained. Mild diffuse osseous demineralization. Joints show mild degenerative changes of the acromioclavicular joint. Glenohumeral joint space is relatively maintained. Soft Tissues show no focal soft tissue abnormality or radiopaque foreign body identified. No acute osseous abnormality of the left shoulder. Mild acromioclavicular osteoarthritis.
+06f6de2d-bf9e-42fa-9ae0-ba07e80fb272,MRI,Thoracic spine,MRI THORACIC SPINE W/O,80-84,female,"FINDINGS:
+VERTEBRAE: No acute fracture, subluxation, or aggressive osseous lesion. Vertebral body heights are maintained. Normal marrow signal throughout.
+ALIGNMENT: Anatomic alignment of the thoracic spine is preserved.
+SPINAL CORD: The thoracic spinal cord is normal in signal intensity and caliber. The conus medullaris terminates at the L1-L2 level.
+DISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and signal are preserved. No significant disc bulge or herniation. The facet joints are well-maintained. No central canal or neural foraminal stenosis.
+PARASPINAL SOFT TISSUES: The paravertebral soft tissues demonstrate normal signal and morphology.
+
+IMPRESSION:
+Unremarkable MR of the thoracic spine.","Exaggerated thoracic kyphotic curvature is noted. Multilevel degenerative spondylotic changes are seen with disc desiccation and small marginal osteophyte formation. No significant focal disc bulge, disc extrusion or significant posterior disc protrusion is identified. No significant spinal canal stenosis or neural foraminal compromise is noted. Thoracic vertebral body heights are maintained. No acute compression fracture or significant marrow abnormality is identified. The thoracic spinal cord is normal in caliber and morphology. No focal cord indentation or compression is seen. No abnormal intramedullary T2/STIR hyperintense signal or cord edema is noted. No significant prevertebral or paravertebral soft-tissue abnormality is evident. Exaggerated thoracic kyphosis. Multilevel mild thoracic spondylotic degenerative changes with small marginal osteophytes. No significant disc protrusion, spinal canal stenosis or neural foraminal compromise. No cord compression or abnormal cord signal changes."
+080b9ad5-a25a-4de6-b52c-d1464ea43e93,XRAY,Pelvis,XR LT HIP/PELVIS 3V,85-89,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: Bilateral sacroiliac and hip joints appear normal. No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",bialteral hip joint oprostastehsis total hip replacemnt ossible frature of the lesser possible fractur eof the left lesser troachnetr ofthpedic hadreare diahysis of the left femur claciifctaion inthe left thigh
+09293ce5-df84-44b4-9882-b8cddd1a1ac1,XRAY,Hip,XR LT HIP 2V,50-54,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Degenerative changes of the left hip joint in the form of mild superolateral joint space narrowing, subchondral/endplate sclerosis and marginal osteophyte formation. No acute fracture or dislocation. Alignment is maintained. Left sacroiliac joint demonstrates degenerative arthropathy with subchondral sclerosis and mild joint space irregularity. Visualized soft tissues are unremarkable. Mild Left hip osteoarthritic changes. Left sacroiliac joint arthropathy. No acute osseous abnormality."
+0b2c0c30-d4e5-4dcb-8d13-1f46e2644979,MRI,Thoracic spine,MRI THORACIC SPINE WO,75-79,female,"FINDINGS:
+VERTEBRAE: No acute fracture, subluxation, or aggressive osseous lesion. Vertebral body heights are maintained. Normal marrow signal throughout.
+ALIGNMENT: Anatomic alignment of the thoracic spine is preserved.
+SPINAL CORD: The thoracic spinal cord is normal in signal intensity and caliber. The conus medullaris terminates at the L1-L2 level.
+DISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and signal are preserved. No significant disc bulge or herniation. The facet joints are well-maintained. No central canal or neural foraminal stenosis.
+PARASPINAL SOFT TISSUES: The paravertebral soft tissues demonstrate normal signal and morphology.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Unremarkable MR of the thoracic spine.","There is straightening of the cervical spine with multilevel degenerative disc changes and diffuse disc bulges, causing indentation of the ventral thecal sac. No significant cervical spinal cord indentation is evident on the provided images. Multilevel mild degenerative spondylotic changes are seen in the dorsal spine with marginal osteophyte formation and associated disc desiccation. No significant focal disc protrusion or extrusion is seen in the dorsal spine. There is no significant central canal stenosis or neural foraminal compromise. Altered marrow signal intensity is noted involving the T7, T8 and T9 vertebral bodies, appearing hyperintense on T1- and T2-weighted images and showing hyperintensity on STIR sequences, with predominant involvement of the T8 vertebral body. The appearance is suggestive of vertebral hemangiomatous changes, particularly at T7 and T8, with predominant involvement of T8. Mild STIR hyperintense signal is also seen along the inferior endplate of T8 and superior endplate of T9, with mild adjacent endplate irregularity. These changes are likely reactive/degenerative in nature and may represent stress-related or repetitive traumatic changes. No significant vertebral body collapse or retropulsion is seen. No significant abnormality of the thoracic spinal cord is identified. The visualized cord demonstrates preserved caliber and signal intensity. No significant paravertebral or epidural soft-tissue component is evident. T7–T9 vertebral body marrow signal alterations, predominantly involving T8, with T1/T2 and STIR hyperintensity, favoring benign vertebral hemangiomatous changes. Mild reactive/endplate marrow edema-like signal along the T8–T9 disc space, with mild endplate irregularity, likely degenerative/stress-related. Multilevel dorsal spondylotic degenerative changes with osteophyte formation and disc desiccation. No significant dorsal spinal canal stenosis or neural compression. No significant thoracic cord signal abnormality. Contrast-enhanced MRI of the dorsal spine is recommended for further characterization of the atypical/heterogeneous marrow signal and to confirm benign hemangiomatous etiology."
+0c89b0eb-2ad2-4f31-8f80-f2bb4cd8679a,MRI,Abdomen,MRI Abdomen,60-64,female,"FINDINGS:
+LOWER THORAX: No pleural effusion or basilar consolidation.
+LIVER: Normal in size and signal intensity. No focal hepatic lesion.
+GALLBLADDER AND BILE DUCTS: The gallbladder is unremarkable. The common bile duct is non-dilated. No intrahepatic biliary ductal dilatation.
+PANCREAS: Normal morphology and signal characteristics. The main pancreatic duct is not dilated.
+SPLEEN: Normal in size and signal intensity.
+ADRENALS: The adrenal glands are normal in size and configuration.
+KIDNEYS: Normal in size, position, and signal intensity. No hydronephrosis or suspicious renal mass.
+STOMACH AND BOWEL: The visualized portions of the stomach and bowel are unremarkable. No bowel wall thickening or obstruction.
+LYMPH NODES: No retroperitoneal or mesenteric lymphadenopathy.
+VASCULATURE: The abdominal aorta and major visceral vessels are patent. No evidence of aneurysm or dissection.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute intra-abdominal abnormality.","Gallbladder is not visualized, consistent with postoperative status (cholecystectomy). Common bile duct is normal in calibre with no evidence of intraluminal filling defect or obstructive dilatation. Intrahepatic biliary radicles are not dilated. Pancreas is normal in size and signal intensity. Main pancreatic duct is not dilated. No focal pancreatic lesion is seen. Liver is mildly enlarged, measuring approximately 16 cm in craniocaudal span. No focal hepatic lesion is identified on the provided sequences. Spleen is mildly enlarged, measuring approximately 12.2 cm. No significant free fluid or obvious upper abdominal lymphadenopathy is seen. Post-cholecystectomy status. No biliary dilatation; CBD is normal in calibre. No choledocholithiasis. Mild hepatomegaly. Mild splenomegaly. Pancreas and main pancreatic duct are unremarkable."
+105e2008-9924-4bff-9a63-de279e451878,XRAY,Thoracic spine,XR TSP 3V,75-79,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion. 
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Mild dextroconvex scoliosis of the mid thoracic spine. Mild chronic-appearing vertebral body height loss involving the upper to mid thoracic spine. No acute fracture or subluxation. Mild multilevel disc space narrowing with small marginal osteophytes. The visualized paraspinal soft tissues are unremarkable. Mild multilevel thoracic spondylosis. Mild dextroconvex scoliosis of the mid thoracic spine. Mild chronic-appearing vertebral body height loss in the upper to mid thoracic spine. No acute fracture or subluxation. Suggest MRI of the thoracic spine for further evaluation, as clinically indicated."
+10936c93-1fbc-49e8-a51e-580807955fb8,MRI,Cervical spine,MRA NECK,45-49,male,"FINDINGS:
+INTERNAL CAROTID ARTERIES: Patent bilaterally from their origins to the intracranial segments. No hemodynamically significant stenosis, dissection, or aneurysmal dilatation.
+COMMON CAROTID ARTERIES: Patent bilaterally. No significant stenosis, dissection, or high-grade plaque.
+EXTERNAL CAROTID ARTERIES: Patent bilaterally with normal branching patterns. No significant stenosis or dissection.
+VERTEBRAL ARTERIES: Patent bilaterally from their origins to the vertebrobasilar junction. No significant stenosis, dissection, or flow-limiting lesion. The vertebral arteries are of normal caliber.
+BASILAR ARTERY: Patent and demonstrates normal caliber. No significant stenosis or dissection.
+SOFT TISSUES: The visualized soft tissues of the neck are symmetric and without evidence of mass or abnormal fluid collection.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the neck.","MR angiography of the neck vessels performed. Evaluation is mildly limited by multiple artifacts. Multifocal atherosclerotic plaques are noted involving the proximal right internal carotid artery, just distal to the carotid bifurcation, producing moderate luminal narrowing, approximately 35–40%. The right vertebral artery is hypoplastic. Focal eccentric atherosclerotic plaque/irregularity is noted involving the mid left internal carotid artery, without significant luminal stenosis or appreciable reduction in caliber. The remaining visualized cervical arterial segments show maintained luminal caliber without significant stenosis or occlusion. Multifocal atherosclerotic plaques in proximal right ICA with approximately 35–40% luminal narrowing. Hypoplastic right vertebral artery. Focal plaque/irregularity in the mid left ICA without significant stenosis. No significant arterial occlusion."
+11c886c3-f3ea-4f49-8253-026fdc431bf5,XRAY,Hand,XR L HAND 2V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Multiple degenerative changes are noted in the wrist with multifocal reduction of joint spaces, associated with marginal osteophyte formation and subchondral sclerosis. Degenerative changes are more pronounced at the 1st carpometacarpal (CMC) joint, with appreciable joint-space narrowing and osteophyte formation. Mild degenerative changes are also seen at the remaining visualized intercarpal and carpometacarpal articulations. No acute fracture or dislocation is identified. No focal osseous destructive lesion is evident. Soft tissues are grossly unremarkable on radiograph. Multifocal osteoarthritic/degenerative changes of the wrist, with multiple reduced joint spaces. More pronounced osteoarthritis at the 1st carpometacarpal joint. No acute osseous abnormality."
+12868962-9d03-46f0-8386-538365e5f561,MRI,Cervical spine,MRI CERVICAL,65-69,male,"FINDINGS:
+Alignment: Cervical spinal alignment is maintained. Normal cervical lordosis.
+Vertebral Bodies: Vertebral body heights are preserved. Normal marrow signal.
+Spinal Cord: Normal in signal and caliber. No cord compression or intrinsic signal abnormality.
+C2-3: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C3-4: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C4-5: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C5-6: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C6-7: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C7-T1: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+Paravertebral Soft Tissues: Normal.
+
+IMPRESSION:
+Normal MRI of the cervical spine.
+No abnormal signal intensity.","Multilevel degenerative spondylotic changes are noted involving the cervical spine, predominantly from C3 to C7, with associated disc space reduction and osteophyte/disc complex formation. At C3-C4, posterior disc-osteophyte complex is seen indenting the ventral thecal sac and ventral aspect of the spinal cord. Mild adjacent cord signal hyperintensity/edema is noted. The AP spinal canal diameter measures approximately 7.4 mm, suggestive of significant canal stenosis. At C4-C5, reduced disc space with posterior disc herniation/disc-osteophyte complex is noted, causing ventral thecal sac indentation and right neural foraminal narrowing with compression of the exiting right nerve root. At C5-C6, marked reduction of disc space with posterior disc protrusion/disc-osteophyte complex is noted, causing indentation of the ventral thecal sac and bilateral neural foraminal narrowing with compression of the exiting bilateral nerve roots. The AP spinal canal diameter measures approximately 7.7 mm, suggestive of significant canal stenosis. At C6-C7, reduced/obliterated disc space with associated degenerative changes is noted. Detailed evaluation is limited by metallic artifacts. No gross focal abnormality is identified in the visualized posterior elements. Prevertebral soft tissues are unremarkable. Multilevel cervical spondylosis with significant degenerative disc disease, predominantly from C3-C4 to C6-C7. C3-C4 posterior disc-osteophyte complex is causing significant canal stenosis (AP diameter ~7.4 mm), with ventral cord indentation and mild adjacent cord edema/signal alteration. C4-C5 disc herniation/disc-osteophyte complex is with right foraminal narrowing and compression of the exiting right nerve root. C5-C6 posterior disc protrusion is with significant canal stenosis (AP diameter ~7.7 mm) and bilateral foraminal narrowing with compression of the exiting nerve roots. Marked disc space reduction/obliteration is at C4-C5, C5-C6 and C6-C7. Evaluation is partially limited by metallic susceptibility artifacts."
+17439506-c1c2-4f1b-aa4f-5128681b9b15,XRAY,Lumbar spine,XR LSP 2V,75-79,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Vertebral body heights and alignment are maintained. No fracture or listhesis. Severe disc space narrowing at L5-S1. Moderate disc space narrowing at L4-L5 and from T12-L1 through L2-L3. Small multilevel marginal osteophytes are present. Moderate facet joint arthropathy at L5-S1. Atherosclerotic calcification of the abdominal aorta. Mild to moderate osteoarthritis of both hips and sacroiliac joints. Multilevel lumbar spondylosis, with severe degenerative disc disease at L5-S1 and moderate degenerative disc disease at L4-L5 and from T12-L1 through L2-L3. Moderate L5-S1 facet arthropathy. No fracture or listhesis. Mild to moderate bilateral hip and sacroiliac joint osteoarthritis. Atherosclerotic calcification of the abdominal aorta. Suggest MRI of the lumbar spine for further evaluation, as clinically indicated."
+196725dd-aeab-462d-bad5-6e9c8e7cd764,XRAY,Lumbar spine,XR LSP 2V,60-64,male,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","degen chnges , osteophytes , l5s1 reduced disc spaces"
+196b8d20-65fe-4f3d-9e17-1504509a88e8,XRAY,Shoulder,XR L SHOULDER 2V,55-59,male,"FINDINGS:
+BONES: No fracture or focal lesion.
+JOINTS: No dislocation. The joint spaces and articular margins are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Decreased acromiohumeral/acromial space, which may suggest rotator cuff insufficiency."
+198a07f6-1166-4cfd-81be-e76d63b78606,MRI,Knee,MRI RT KNEE,20-24,male,"FINDINGS:
+Osseous Structures: No acute fracture, dislocation, or marrow-replacing lesion.
+Joint: Knee joint alignment is maintained. No significant joint effusion.
+Menisci: 
+Medial meniscus: Intact.
+Lateral meniscus: Intact.
+Ligaments: 
+Anterior cruciate ligament: Intact.
+Posterior cruciate ligament: Intact.
+Medial collateral ligament: Intact.
+Lateral collateral ligament complex: Intact.
+Articular Cartilage: Cartilage thickness and signal are preserved.
+Extensor Mechanism: Quadriceps and patellar tendons are intact.
+Bursae: No significant bursitis.
+Musculature: Normal bulk and signal.
+Soft Tissues: No mass or fluid collection.
+
+IMPRESSION:
+No acute osseous or internal derangement of the [left/right/bilateral] knee.","Postoperative changes are postsurgical changes of prior ACL reconstruction are noted, with postoperative tunnel-related changes involving the lateral femoral condyle and proximal tibia. Assessment of graft integrity should be correlated with its morphology and continuity. Medial meniscus is complex full-thickness tear involving the posterior horn of the medial meniscus, extending to both the superior and inferior articular surfaces. Associated edema/altered signal intensity is noted involving the posterior horn and body of the medial meniscus. Lateral meniscus is heterogeneous altered intrameniscal signal with mild bulky appearance of the anterior horn of the lateral meniscus. Posterior horn and body of the lateral meniscus are otherwise maintained. Cruciate ligaments are ACL is postoperative. PCL is intact with normal morphology and signal intensity. Osseous structures are postoperative changes related to ACL reconstruction are seen in the lateral femoral condyle and proximal tibia. No acute osseous abnormality is described. Complex full-thickness tear of the posterior horn of the medial meniscus, reaching both superior and inferior articular surfaces. Associated marrow/soft-tissue edema-like signal involving the posterior horn and body of the medial meniscus. Postsurgical changes of ACL reconstruction with femoral and tibial tunnel-related changes; graft integrity to be assessed on dedicated sagittal/oblique sequences. Heterogeneous altered signal and mild bulky appearance of the anterior horn of the lateral meniscus, suspicious for meniscal degeneration/intrasubstance injury. PCL is intact."
+1ab020d7-5b7a-4e9e-9d76-38b670566ce4,XRAY,Knee,XR LT KNEE 2V,70-74,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Severe tricompartmental degenerative osteoarthritic changes are noted, with marked medial compartment predominant joint-space narrowing, prominent marginal osteophyte formation and associated subchondral sclerosis. Degenerative hypertrophic changes are also seen involving the lateral and patellofemoral compartments, with prominent tibial spine and patellar osteophytes. Subchondral cystic/sclerotic changes are noted along the opposing articular surfaces. Few well-defined ossific densities are seen within the joint space, compatible with intra-articular loose bodies. One of the loose bodies is seen in the suprapatellar region. No acute fracture or dislocation is identified. No focal destructive osseous lesion is seen. Mild joint effusion may be present. Severe tricompartmental osteoarthritis, predominantly medial compartment, with marked joint-space narrowing, prominent osteophytes and subchondral sclerosis. Intra-articular ossific loose bodies. No acute osseous abnormality."
+1b903418-bbc6-43ff-a549-d5bd266ec023,USG,Bladder,BLADDER(POST-VOID),80-84,male,"FINDINGS:
+BLADDER: The bladder is well-distended and anechoic. The bladder wall is smooth and of normal thickness. No intraluminal mass, calculus, or debris is identified. Post-void residual volume is physiologically low.
+
+IMPRESSION:
+Normal ultrasound of the bladder.","Urinary Bladder post-void urinary bladder volume measures 121.3 mL, calculated from bladder dimensions of approximately 9.03 × 6.57 × 3.90 cm (length × width × AP diameter). Significant residual urine is noted following voiding. Pre-void bladder volume is not available/measured in the provided images. Post-void residual urine volume is 121.3 mL. Significant post-void residual urinary bladder volume of approximately 121 mL, suggestive of incomplete bladder emptying. Clinical correlation and urological evaluation may be considered in view of the history of urinary retention."
+1c30fb15-29cc-4bad-a901-0a65cd45693b,MRI,Liver,MRI ABD/MRCP W WO,45-49,female,"FINDINGS:
+LIVER: Normal in size and signal. No focal hepatic lesion.
+GALLBLADDER: Normal. No gallstones.
+BILIARY TREE: The intrahepatic and extrahepatic bile ducts are normal in caliber. The common bile duct measures within normal limits. No filling defect or stricture.
+PANCREATIC DUCT: Normal in caliber. No filling defect.
+PANCREAS: Normal in size and signal.
+SPLEEN: Normal.
+KIDNEYS: Normal.
+
+IMPRESSION:
+No biliary or pancreatic ductal abnormality. No choledocholithiasis.","Liver:
+
+
+Liver is mildly enlarged, measuring approximately 17 cm in craniocaudal span.
+
+Few small simple hepatic cysts are noted.
+
+No definite solid focal hepatic lesion is identified.
+Gallbladder and Biliary System:
+
+
+Gallbladder is unremarkable.
+
+No obvious calculus or wall thickening.
+
+Common bile duct is normal in caliber.
+Spleen:
+
+
+Spleen is normal in size and signal intensity.
+
+No focal splenic lesion.
+Pancreas:
+
+
+Pancreas is normal in size and morphology.
+
+No focal pancreatic mass or other definite abnormality identified.
+Kidneys:
+
+
+Right kidney is ectopic (pelvic in location) and malrotated.
+
+Few simple cortical cysts are seen in both kidneys.
+
+No definite solid renal mass is described in the provided findings.
+Impression
+
+
+Mild hepatomegaly, liver measuring approximately 17 cm.
+
+Few simple hepatic cysts.
+
+Ectopic and malrotated right kidney.
+
+Few simple bilateral renal cortical cysts.
+
+No significant abnormality of the gallbladder, CBD, spleen or pancreas."
+1cf88557-17c5-454a-bb1e-0435040ec676,XRAY,Hand,XR RT HAND 2V,15-19,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","A small, well-corticated osseous fragment is noted adjacent to the proximal interphalangeal joint of the third finger, likely representing an accessory ossicle. No acute fracture or dislocation is seen. Joint spaces are maintained. Alignment is preserved. Surrounding soft tissues are unremarkable. Small well-corticated accessory ossicle adjacent to the PIP joint of the third finger. No acute osseous abnormality."
+1db5fa23-cb88-4d4f-9251-8adba6ae0d65,XRAY,Knee,XRAY LT KNEE,30-34,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",early oosteophytes noted
+24c20e73-6a0e-40b7-a087-b43c80550e61,XRAY,Lumbar spine,XRAY LUMBAR,70-74,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","There is diffuse osseous demineralization. Mild dextroconvex thoracolumbar curvature is present. Vertebral body heights are maintained without acute compression fracture. There is multilevel degenerative disc space narrowing and endplate osteophyte formation, greatest at L4-L5, with lower lumbar facet arthropathy.  Sacroiliac joints are maintained."
+25173dfe-2de4-448d-ad6c-1fd39e90ac32,XRAY,Knee,XR R KNEE 3V,85-89,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Subacute to chronic fracture deformity of the proximal fibula. No acute fracture or dislocation. Moderate medial and lateral compartment joint space narrowing with small marginal osteophytes and tibial plateau subchondral sclerosis. Moderate patellofemoral joint space narrowing with subchondral sclerosis. Small suprapatellar joint effusion. Atherosclerotic calcifications of the visualized arteries are present. Several small linear radiopaque densities project over the soft tissues of the leg, which may represent surgical clips or retained foreign bodies. Moderate tricompartmental osteoarthritis. Subacute to chronic fracture deformity of the proximal fibula. Small suprapatellar joint effusion. No acute osseous abnormality. Atherosclerotic vascular calcifications. Small linear radiopaque densities within the leg soft tissues, possibly surgical clips or retained foreign bodies."
+253c32fe-ce5f-4e4c-86c6-bea1e11db610,XRAY,Foot,XR R FOOT 2V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Degenerative osteoarthritic changes are noted in the visualized joint. Multiple joint spaces are reduced, with associated marginal osteophyte formation and subchondral degenerative changes. No acute fracture or dislocation is evident. Calcaneal spur is noted, likely at the plantar aspect of the calcaneus. No focal acute osseous abnormality identified. Multicompartmental degenerative osteoarthritic changes with multiple reduced joint spaces. Calcaneal spur. No acute osseous abnormality."
+264a47c5-2b2e-44c6-a38a-bcf692ab5c0e,XRAY,Cervical spine,XR CSP 2V,25-29,female,"FINDINGS:
+The spinal alignment is maintained without evidence of spondylolisthesis.
+The vertebral body and disc space heights are preserved.
+No acute fracture is identified.
+The odontoid process is intact.
+No lytic or blastic lesions.
+The paravertebral soft tissues are normal.
+
+IMPRESSION:
+Unremarkable X-ray of the cervical spine.","There is a straightening of the cervical spine. No compression deformities. No significant subluxations. Normal-appearing facets and disc spaces. No lytic or blastic lesions are seen. There is normal alignment, without subluxation. Anterior fusion and discectomy status at C5-6, with placement of disc graft, anterior plate and interbody screws. No evidence of loosening, or hardware abnormality. Disc prosthesis appears well seated without slippage. The facets are normally aligned without degenerative change. No prevertebral soft tissue abnormalities. The airway appears normal. The visualized lung apices are clear. C5-6 anterior plate and screw fusion with disc prosthesis. No loosening or complication evident."
+268db61b-f6a7-4a5f-96d7-9fe250b3cee5,MRI,Ankle,MRI  LT ANKLE WO,70-74,male,"FINDINGS:
+LIGAMENTS:
+ANTERIOR TALOFIBULAR: Intact and normal in course and signal intensity.
+POSTERIOR TALOFIBULAR: Intact and normal in course and signal intensity.
+ANTERIOR TIBIOFIBULAR: Intact and normal in course and signal intensity.
+POSTERIOR TIBIOFIBULAR: Intact and normal in course and signal intensity.
+CALCANEOFIBULAR: Intact and normal in course and signal intensity.
+DELTOID: The deep and superficial components are intact.
+SPRING: The superomedial, medioplantar oblique, and inferoplantar longitudinal components are intact.
+LISFRANC: The Lisfranc ligament complex is intact.
+TENDONS:
+ACHILLES: Intact with normal signal intensity. No tendinosis or paratenonitis.
+POSTERIOR TIBIAL: Intact with normal signal intensity. No tenosynovitis.
+FLEXOR: The flexor hallucis longus and flexor digitorum longus tendons are intact without tenosynovitis.
+EXTENSOR: The extensor hallucis longus, extensor digitorum longus, and tibialis anterior tendons are intact without tenosynovitis.
+PERONEAL: The peroneus longus and brevis tendons are intact within the retromalleolar groove without tenosynovitis.
+BONES: No acute fracture, dislocation, or subluxation. Normal marrow signal. No aggressive osseous lesion.
+MUSCLES: Normal bulk and signal intensity without evidence of tear, edema, or atrophy.
+FLUID: No tibiotalar or subtalar joint effusion.
+SINUS TARSI: No sinus tarsi syndrome. The cervical and interosseous talocalcaneal ligaments are intact.
+TARSAL TUNNEL: The contents are normal in appearance without evidence of mass or nerve entrapment.
+PLANTAR FASCIA: Normal thickness and signal intensity at its calcaneal origin.
+CARTILAGE: The articular cartilage of the tibiotalar and subtalar joints is preserved in thickness without focal defect.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal [left/right] ankle.","20-24-year-old male with left ankle pain. Multiplanar, multisequence MRI of the left ankle was performed without intravenous contrast. None. The peroneus longus and brevis tendons demonstrate increased intrasubstance signal with mild surrounding tendon-sheath fluid, consistent with tendinosis and tenosynovitis. No discrete tear is identified. The Achilles tendon appears mildly thickened and hyperintense, consistent with tendinosis. Tendon continuity is maintained. Fluid is present within the tendon sheaths of the medial flexor tendons, including the tibialis posterior, flexor digitorum longus and flexor hallucis longus tendons, consistent with tenosynovitis. No tendon tear is seen. The anterior extensor tendons are intact. The anterior and posterior talofibular, calcaneofibular and distal tibiofibular ligaments are intact. The deltoid and spring ligament complexes appear intact. Mild tibiotalar joint effusion is present. Subtle subchondral marrow oedema is seen in the talus. No definite fracture line, articular-surface collapse or osteochondral defect is identified. The ankle mortise and joint alignment are maintained. The subtalar joint appears unremarkable. The plantar fascia and sinus tarsi appear unremarkable. No focal soft-tissue mass or collection is identified. 
+
+Peroneus longus and brevis tendinosis with associated tenosynovitis. Achilles tendinosis without a discrete tear. Tenosynovitis involving the medial flexor tendons, including the tibialis posterior tendon. Subtle talar subchondral marrow oedema without a definite fracture or osteochondral defect. Mild tibiotalar joint effusion."
+27b6c8e6-cd7b-4bae-8b38-27dae5227f39,XRAY,Wrist,XR LT WRIST 3V,75-79,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Diffuse osseous demineralization. No acute fracture or dislocation. Carpal alignment is maintained  Mild degenerative joint space narrowing and marginal spurring are present at the thumb carpometacarpal and triscaphe articulations. Mild radiocarpal degenerative change.
+284433c0-f653-4e70-bd6a-db9df082723b,MRI,Ankle,MRI LT ANKLE,45-49,male,"FINDINGS:
+LIGAMENTS:
+ANTERIOR TALOFIBULAR: Intact and normal in course and signal intensity.
+POSTERIOR TALOFIBULAR: Intact and normal in course and signal intensity.
+ANTERIOR TIBIOFIBULAR: Intact and normal in course and signal intensity.
+POSTERIOR TIBIOFIBULAR: Intact and normal in course and signal intensity.
+CALCANEOFIBULAR: Intact and normal in course and signal intensity.
+DELTOID: The deep and superficial components are intact.
+SPRING: The superomedial, medioplantar oblique, and inferoplantar longitudinal components are intact.
+LISFRANC: The Lisfranc ligament complex is intact.
+TENDONS:
+ACHILLES: Intact with normal signal intensity. No tendinosis or paratenonitis.
+POSTERIOR TIBIAL: Intact with normal signal intensity. No tenosynovitis.
+FLEXOR: The flexor hallucis longus and flexor digitorum longus tendons are intact without tenosynovitis.
+EXTENSOR: The extensor hallucis longus, extensor digitorum longus, and tibialis anterior tendons are intact without tenosynovitis.
+PERONEAL: The peroneus longus and brevis tendons are intact within the retromalleolar groove without tenosynovitis.
+BONES: No acute fracture, dislocation, or subluxation. Normal marrow signal. No aggressive osseous lesion.
+MUSCLES: Normal bulk and signal intensity without evidence of tear, edema, or atrophy.
+FLUID: No tibiotalar or subtalar joint effusion.
+SINUS TARSI: No sinus tarsi syndrome. The cervical and interosseous talocalcaneal ligaments are intact.
+TARSAL TUNNEL: The contents are normal in appearance without evidence of mass or nerve entrapment.
+PLANTAR FASCIA: Normal thickness and signal intensity at its calcaneal origin.
+CARTILAGE: The articular cartilage of the tibiotalar and subtalar joints is preserved in thickness without focal defect.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal [left/right] ankle.","MRI Left Ankle Without Contrast. Left ankle pain. M25.572. Multiplanar, multisequence MRI of the left ankle was performed without intravenous contrast. None available at the time of dictation. No acute fracture, focal marrow edema, or osteochondral lesion is demonstrated. Small amount of fluid is present within the posterior tibiotalar and posterior subtalar joints. Minimal fluid surrounds the flexor hallucis longus tendon posterior to the talus, compatible with mild tenosynovitis. The remaining visualized flexor, extensor, peroneal, and Achilles tendons are intact without focal tear. No definite acute ligamentous disruption is demonstrated on the provided images. Mild thickening and increased signal involve the central bundle of the plantar fascia at its calcaneal origin, compatible with mild plantar fasciitis. No plantar fascial tear is demonstrated. No focal soft tissue collection or mass is demonstrated. Mild flexor hallucis longus tenosynovitis. Small posterior tibiotalar and posterior subtalar joint effusions. Mild plantar fasciitis involving the central bundle at the calcaneal origin. No acute osseous abnormality or focal tendon tear demonstrated."
+2a31cff3-12c2-4939-82d1-b40ad463153f,XRAY,Wrist,XR L WRIST 3V,65-69,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Subtle cortical irregularity and lucent fracture line involving the distal radial metaphysis, compatible with an acute nondisplaced/minimally displaced distal radius fracture. No significant angulation or displacement. No dislocation. Carpal alignment is maintained. Mild diffuse osseous demineralization. Mild multifocal degenerative changes of the radiocarpal, intercarpal and first carpometacarpal joints. Mild surrounding soft tissue swelling. No radiopaque foreign body. Acute nondisplaced/minimally displaced distal radial metaphyseal fracture. No dislocation or significant angulation. Mild multifocal wrist osteoarthritis and diffuse osseous demineralization."
+2a3448ce-7802-465b-8137-e7e0baefa477,MRI,Foot,MRI RT FOOT WWO,50-54,female,"FINDINGS:
+LIGAMENTS:
+MEDIAL COLLATERAL: The deltoid ligament complex is intact.
+LATERAL COLLATERAL: The anterior talofibular, calcaneofibular, and posterior talofibular ligaments are intact.
+LISFRANC: The Lisfranc ligament is intact. No evidence of malalignment.
+TENDONS:
+FLEXOR: The flexor hallucis longus, flexor digitorum longus, and posterior tibial tendons are intact without evidence of tenosynovitis.
+EXTENSOR: The extensor hallucis longus and extensor digitorum longus tendons are intact without evidence of tenosynovitis.
+PERONEAL: The peroneus longus and brevis tendons are intact within the peroneal retinaculum without evidence of tenosynovitis.
+BONES: No acute fracture, dislocation, or aggressive osseous lesion. Normal marrow signal is demonstrated.
+MUSCLES: Normal muscle bulk and signal intensity without evidence of tear, edema, or atrophy.
+FLUID: No joint effusion or synovitis. No abnormal fluid collection.
+SINUS TARSI: The sinus tarsi is clear. No inflammatory changes are seen.
+TARSAL TUNNEL: The contents of the tarsal tunnel are normal in appearance. No mass or nerve entrapment.
+PLANTAR FASCIA: Normal thickness and signal intensity of the plantar fascia at its calcaneal origin and distally.
+CARTILAGE: The articular cartilage is preserved in thickness and signal.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal foot study.","Alignment of the visualized bones is maintained. No definite acute fracture or dislocation identified on the provided images. No focal aggressive osseous lesion or definite abnormal marrow enhancement. Mild degenerative changes involving the visualized forefoot joints. No significant joint effusion identified. Mild patchy increased fluid-sensitive signal and enhancement within the intrinsic muscles of the forefoot, compatible with mild muscular strain/edema. Visualized flexor and extensor tendons are grossly maintained without definite full-thickness tear on the provided images. No focal tendon retraction. Visualized major ligamentous structures are grossly intact on the available sequences. No definite acute ligamentous disruption identified. Mild diffuse subcutaneous soft-tissue edema/enhancement, predominantly along the dorsal aspect of the forefoot. No discrete rim-enhancing fluid collection or drainable abscess identified. No definite soft-tissue mass. Mild soft-tissue and intrinsic muscular edema/enhancement in the right forefoot, compatible with strain-related changes. Mild dorsal subcutaneous soft-tissue edema. No definite acute fracture, dislocation, tendon rupture, or drainable fluid collection identified on the provided images. No definite abnormal marrow enhancement to suggest osteomyelitis."
+2aa77bd3-3109-4712-a727-208b11710ba1,XRAY,Thoracic spine,XRAY THORACIC,70-74,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion. 
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","There is diffuse osseous demineralization. . Multilevel thoracic disc space narrowing and endplate osteophyte formation, greatest in the mid to lower thoracic spine. Vertebral body heights are maintained without acute compression fracture or traumatic malalignment. Aortic atherosclerotic calcification is present."
+2baab99b-fea7-4d08-b25e-104098e8f23a,XRAY,Chest,XRAY CHEST,60-64,male,"FINDINGS:
+LUNGS: Lungs are clear. No focal air-space consolidation.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+HEART: Cardiac silhouette is within normal size limits.
+MEDIASTINUM/HILA: Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement.
+DIAPHRAGM: Diaphragms are unremarkable. No subdiaphragmatic free air.
+BONES: No acute osseous abnormality identified on this examination.
+SOFT TISSUES: No acute soft tissue abnormality identified on the provided images.
+
+IMPRESSION:
+No acute abnormality.","Prominence and tortuosity of the thoracic aortic contour, likely reflecting age-related aortic unfolding/ectasia.
+Rest normal.
+
+Impression-
+Prominent/tortuous thoracic aortic contour, likely chronic aortic ectasia/unfolding. If clinically indicated, correlation with prior imaging or cross-sectional imaging may be considered to exclude significant aortic dilatation."
+2bed23d3-bd4c-4e01-a170-ac6a8aa3ad48,XRAY,Hand,XRAY LEFT HAND,60-64,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Standard views of the left hand acquired according to department protocol. 60-64-year-old male patient with a crushing injury of the left hand third and fourth fingers, pain, and limited range of motion. None Bones show mild cortical irregularity of the medial aspect of the third metacarpal head/neck region. No acute fracture or other focal osseous lesion is seen. Joints show no dislocation. The joint spaces are normal. Soft tissues show soft tissue swelling of the third and fourth digits. Mild cortical irregularity medial aspect of the third metacarpal."
+2cae6c98-7e2a-445c-9483-9e7456ea87bb,XRAY,Knee,XR LT KNEE 3V,45-49,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Degenerative changes are noted in the form of marginal osteophytes, mild reduction in medial compartment of left knee joint with subchondral sclerosis. Alignment is normal. No fracture is seen. There is normal alignment. No abnormal periosteal reaction is noted. Above x-ray findings are suggestive of mild left knee osteoarthritis."
+2d02f6ad-8a3f-4755-904c-43b0a19f78af,XRAY,Knee,XR RT KNEE 2V,35-39,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Right Knee Radiographs, 2 Views. Right knee pain. Two radiographic views of the right knee were obtained. None available at the time of dictation. No acute fracture or dislocation is demonstrated. Joint spaces are maintained without significant degenerative change. No significant knee joint effusion is identified. A small well-corticated ossicle posterior to the lateral femoral condyle is compatible with a fabella, a normal anatomic variant. Tiny radiopaque focus is demonstrated within the superficial anterior prepatellar soft tissues, just superior to the patella, nonspecific and possibly representing a small soft-tissue calcification or tiny foreign body. No acute osseous abnormality of the right knee. Tiny nonspecific radiopaque focus in the anterior prepatellar soft tissues; correlate clinically for possible superficial foreign body. Incidental fabella."
+2e234e42-3c2c-4337-a953-7e8d7e29ed95,XRAY,Forearm bone,XR R FOREARM 2V,80-84,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Negative for fracture or dislocation.
+2f44b2b6-34c3-4b9b-9026-f8179e24f0af,MRI,Orbit,MRI ORBITS WWO,30-34,male,"FINDINGS:
+ORBITS: The globes are symmetric in size and signal intensity. The optic nerves are normal in course and caliber. The extraocular muscles are symmetric and without abnormal enlargement. The retrobulbar fat planes are preserved. No intra- or extraconal mass or inflammatory process is identified.
+BONES: The osseous structures of the orbits are intact. No acute fracture or aggressive osseous lesion.
+SINUSES: The visualized paranasal sinuses are clear.
+EXTRACRANIAL SOFT TISSUES: The visualized extracranial soft tissues are unremarkable.
+
+IMPRESSION:
+Unremarkable orbits.",Normal study
+2f6f8173-a0e6-47f6-bd3f-59c888feed95,XRAY,Pelvis,XR R HIP WITH PELVIS 3V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: Bilateral sacroiliac and hip joints appear normal. No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Stable moderate bilateral hip joint space narrowing and subchondral sclerosis, greater on the left. Stable moderate bilateral sacroiliac joint arthropathy. Stable mild enthesopathic changes at the greater trochanters and iliac wings. Stable lower lumbar fixation rods and transpedicular screws are partially visualized. Interval placement of bilateral femoral vascular graft stents. Stable linear surgical staples project over the pelvis and lower lumbar region. No acute fracture or dislocation. Stable moderate bilateral hip osteoarthritis, greater on the left. Stable moderate bilateral sacroiliac joint arthropathy. Stable mild enthesopathic changes at the greater trochanters and iliac wings. Stable lower lumbar fixation rods and transpedicular screws. Interval placement of bilateral femoral vascular graft stents. No acute osseous abnormality."
+32566854-3c67-4590-8efc-cf69110fba49,XRAY,Lumbar spine,XRAY LUMBAR,50-54,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Mild degenerative spondylotic changes at L5-S1.
+Rest normal."
+331058ea-8b7e-44ef-bebf-05d6145c618b,XRAY,Thoracic spine,XR TSP 2V,20-24,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion. 
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Thoracic Spine Radiographs, 2 Views. Thoracic spine pain. AP and lateral radiographs of the thoracic spine were obtained. None available at the time of dictation. Thoracic vertebral body heights and alignment are maintained. Intervertebral disc spaces are preserved. No acute compression fracture, traumatic malalignment, or focal osseous abnormality is demonstrated. No acute osseous abnormality of the thoracic spine."
+33b419a8-93ee-4d85-bab7-ea4be76f78d2,XRAY,Cervical spine,XR CSP 4V,20-24,female,"FINDINGS:
+The spinal alignment is maintained without evidence of spondylolisthesis.
+The vertebral body and disc space heights are preserved.
+No acute fracture is identified.
+The odontoid process is intact.
+No lytic or blastic lesions.
+The paravertebral soft tissues are normal.
+
+IMPRESSION:
+Unremarkable X-ray of the cervical spine.","straightened cervical lordosis, positional or myospasm
+no fracture listhesis
+no signfiicant neural foraminal stenosis"
+33ee1fa0-f50e-46c1-a5c3-9bd3d5d0cd5d,XRAY,Chest,XR CHEST PA,30-34,male,"FINDINGS:
+LUNGS: Lungs are clear. No focal air-space consolidation.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+HEART: Cardiac silhouette is within normal size limits.
+MEDIASTINUM/HILA: Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement.
+DIAPHRAGM: Diaphragms are unremarkable. No subdiaphragmatic free air.
+BONES: No acute osseous abnormality identified on this examination.
+SOFT TISSUES: No acute soft tissue abnormality identified on the provided images.
+
+IMPRESSION:
+No acute abnormality.","Cardiomediastinal silhouette is within normal limits for size and contour. Mild prominence of the bilateral perihilar/peribronchial interstitial markings. No focal airspace consolidation, pleural effusion, or pneumothorax. No pulmonary edema. No acute osseous abnormality identified on this radiograph. Mild bilateral peribronchial/interstitial prominence, which may reflect mild bronchitic or reactive airway changes. No focal pneumonia or other acute cardiopulmonary abnormality."
+36542d97-8501-4858-b25f-ff97227ddae8,XRAY,Hip,XR LT HIP 2V,60-64,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",degen cnhge
+36ad41e3-8818-489a-8dcf-b3d668968d43,CT,Chest,CT CHEST WO-W,65-69,male,"FINDINGS:
+LUNGS/AIRWAYS: The lungs are clear. No focal consolidation,cavitation, suspicious pulmonary nodule or other focal lesion is identified.
+PLEURA: No pleural effusion or pneumothorax.
+CARDIOVASCULAR: The heart and great vessels are normal in size and configuration. No thoracic aortic aneurysm. No pericardial effusion.
+MEDIASTINAL/HILAR LYMPH NODES: No lymphadenopathy.
+CHEST WALL/MUSCULOSKELETAL: No acute osseous abnormality. No aggressive osseous lesion.
+LINES/TUBES/SUPPORT DEVICES: None.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute intrathoracic abnormality.","Lungs show moderate ground-glass opacities in the bilateral lower lobes, which may represent gravity-dependent atelectatic changes. An infectious or inflammatory etiology cannot be excluded. No focal pulmonary mass. No pleural effusion or pneumothorax. The central airways are patent. Soft Tissues show no mediastinal, axillary or supraclavicular lymphadenopathy. No right paratracheal soft-tissue mass. Small hiatal hernia. Vascular shows right-sided aortic arch with the descending thoracic aorta coursing near the midline, likely accounting for the apparent right paratracheal opacity on the chest radiograph. Mild cardiomegaly. Mild coronary artery calcifications. Bony structures show thoracic spondylosis. No acute or destructive osseous abnormality. Upper Abdomen shows surgically absent gallbladder. A 1 cm circumscribed hypodense lesion in the right hepatic lobe likely represents a cyst. A 3 cm left renal cyst is present.
+
+Right-sided aortic arch with the descending thoracic aorta coursing near the midline, likely accounting for the apparent right paratracheal opacity on the chest radiograph. No mediastinal mass or lymphadenopathy.
+
+Moderate bilateral lower lobe ground-glass opacities, possibly representing gravity-dependent atelectatic changes. An infectious or inflammatory process cannot be excluded.
+
+Mild cardiomegaly and mild coronary artery atherosclerotic calcifications.
+
+Small hiatal hernia."
+3730731d-d478-46d1-a952-cb0178c0707b,XRAY,Shoulder,XRAY LT SHOULDER,30-34,male,"FINDINGS:
+BONES: No fracture or focal lesion.
+JOINTS: No dislocation. The joint spaces and articular margins are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","FINDINGS
+
+
+No acute fracture or dislocation.
+
+Glenohumeral alignment is maintained.
+
+Acromioclavicular joint alignment is preserved.
+
+Joint spaces are maintained without significant degenerative change.
+
+No focal osseous lesion or cortical irregularity.
+
+Visualized soft tissues are unremarkable.
+IMPRESSION
+No acute osseous abnormality of the left shoulder. No acute fracture or dislocation."
+37380976-ba41-49eb-9648-444dff279242,MRI,Cervical spine,CERVICAL SPINE W/O,25-29,female,"FINDINGS:
+Alignment: Cervical spinal alignment is maintained. Normal cervical lordosis.
+Vertebral Bodies: Vertebral body heights are preserved. Normal marrow signal.
+Spinal Cord: Normal in signal and caliber. No cord compression or intrinsic signal abnormality.
+C2-3: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C3-4: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C4-5: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C5-6: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C6-7: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C7-T1: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+Paravertebral Soft Tissues: Normal.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal MRI of the cervical spine.
+No abnormal signal intensity.","Alignment: Cervical spinal alignment is maintained. No significant spondylolisthesis.
+Vertebral bodies / marrow: Vertebral body heights are maintained. No acute compression fracture or focal suspicious marrow-replacing lesion. Postoperative changes are noted at C5–C6.
+Spinal cord / cervicomedullary junction: Cervical spinal cord is normal in caliber and signal intensity. No intramedullary T2/STIR hyperintensity or cord edema/myelomalacia is identified. Visualized cervicomedullary junction is unremarkable.
+Intervertebral discs and levels:
+
+
+C2–C3: Disc height maintained with adequate hydration. No significant disc bulge or herniation. No significant spinal canal or neural foraminal stenosis.
+
+C3–C4: Mild disc desiccation with small broad-based disc bulge. Mild indentation of the ventral thecal sac without significant cord compression. Mild bilateral neural foraminal narrowing.
+
+C4–C5: Disc desiccation with broad-based disc bulge/minimal central disc protrusion. Bilateral neural foraminal narrowing is noted. Mild ventral thecal sac indentation. No significant cord impingement.
+
+C5–C6: Postoperative changes at this level. Residual/recurrent posterior disc-osteophyte/disc protrusive component causes indentation of the ventral thecal sac and ventral aspect of the cervical cord, with associated central canal narrowing. No cord signal abnormality or edema. Neural foraminal narrowing is not significant.
+
+C6–C7: Disc height and hydration are relatively maintained. No significant disc bulge or herniation. No significant spinal canal or neural foraminal stenosis.
+
+C7–T1: No significant disc bulge or herniation. No significant canal or foraminal stenosis.
+Facet joints / posterior elements: No significant facet arthropathy or focal posterior element abnormality.
+Pre/paraspinal soft tissues: No significant paraspinal soft-tissue abnormality.
+Impression
+
+
+Postoperative changes at C5–C6 with residual posterior disc/osteophyte complex causing indentation of the ventral thecal sac and ventral cervical cord. No associated cord edema or myelomalacia.
+
+C4–C5 disc degeneration with broad-based disc bulge/protrusion and bilateral neural foraminal narrowing, without significant cord impingement.
+
+Mild additional multilevel cervical spondylotic/disc degenerative changes.
+
+No acute osseous abnormality or significant intrinsic cervical cord signal abnormality."
+37c4f280-4cb4-4413-b61a-2ec6fa8bc9e2,MRI,Wrist,MRI LT WRIST WO,75-79,female,"FINDINGS:
+LIGAMENTS:
+Scapholunate: The scapholunate ligament is intact.
+Lunotriquetral: The lunotriquetral ligament is intact.
+TENDONS:
+Flexor compartments: The flexor tendons are normal in course and signal intensity without evidence of tenosynovitis.
+Extensor compartments: The extensor tendons are normal in course and signal intensity without evidence of tenosynovitis.
+NERVES:
+Median: The median nerve demonstrates normal course and signal intensity within the carpal tunnel.
+Ulnar: The ulnar nerve demonstrates normal course and signal intensity within Guyon's canal.
+BONES: No acute fracture or focal osseous lesion. The marrow signal is normal.
+MUSCLES: The musculature is of normal bulk and signal intensity.
+JOINTS: No subluxation or effusion. The radiocarpal and intercarpal articulations are maintained.
+CARTILAGE: The articular cartilage is preserved in thickness and signal intensity.
+TRIANGULAR FIBROCARTILAGE: The triangular fibrocartilage complex is intact.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal MRI of the [left/right] wrist.","Postoperative changes are noted involving the distal radius with associated susceptibility/distortion artefacts, limiting evaluation of adjacent osseous and soft-tissue structures. Degenerative osteoarthritic changes are noted in the wrist. Extensor carpi ulnaris (ECU) tendon shows circumferential distension of the ECU tendon sheath with fusiform fluid/synovial thickening, suggestive of tenosynovitis. The ECU tendon itself maintains normal continuity and signal intensity without evidence of tear or retraction. Mild joint effusion is noted. Mild subcutaneous soft-tissue edema is present. Patchy STIR hyperintense marrow signal involving the triquetrum and trapezium, which may represent reactive marrow edema/contusion; correlation with history of trauma and clinical findings is advised. No definite focal tendon discontinuity is identified within the limitations imposed by postoperative artefacts. No obvious focal collection is seen. ECU tenosynovitis with circumferential synovial sheath distension; no definite ECU tendon tear. Patchy marrow edema-like signal in the triquetrum and trapezium – likely reactive/contusional; correlate clinically. Mild wrist joint effusion and mild subcutaneous edema. Degenerative changes of the wrist. Postoperative changes of the distal radius with susceptibility artefacts limiting detailed assessment."
+388af5ed-85f8-49b5-85a0-d63b9e571848,CT,Chest,CT HI-RES CHEST WO-B,80-84,male,"FINDINGS:
+LUNGS/AIRWAYS: The lungs are clear. No focal consolidation,cavitation, suspicious pulmonary nodule or other focal lesion is identified.
+PLEURA: No pleural effusion or pneumothorax.
+CARDIOVASCULAR: The heart and great vessels are normal in size and configuration. No thoracic aortic aneurysm. No pericardial effusion.
+MEDIASTINAL/HILAR LYMPH NODES: No lymphadenopathy.
+CHEST WALL/MUSCULOSKELETAL: No acute osseous abnormality. No aggressive osseous lesion.
+LINES/TUBES/SUPPORT DEVICES: None.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute intrathoracic abnormality.","Stable bilateral subpleural reticular and fibrotic opacities, greater in the lower lobes. Stable bilateral lower lobe bronchiectatic changes. No focal airspace consolidation. No suspicious pulmonary nodule or mass. The central airways are patent. No pleural effusion or pneumothorax. Stable few prominent mediastinal lymph nodes measures up to approximately 1.0 cm in short-axis diameter. No axillary lymphadenopathy. The heart is within normal limits in size. No pericardial effusion. The thoracic aorta is normal in caliber. Cervical and thoracic spondylosis. No acute or destructive osseous abnormality. Stable small hiatal hernia. Stable left renal cyst measures approximately 4.0 cm.
+
+Stable bilateral subpleural reticular pulmonary fibrosis, predominantly involving the lower lobes, with stable bilateral lower lobe bronchiectasis. Findings are consistent with chronic fibrotic interstitial lung disease. Differential considerations include usual interstitial pneumonia and fibrotic nonspecific interstitial pneumonia. No focal airspace consolidation or suspicious pulmonary nodule. Stable few prominent mediastinal lymph nodes measures up to 1.0 cm in short-axis diameter. Stable small hiatal hernia and 4.0 cm left renal cyst. Cervical and thoracic spondylosis."
+3ac0bcca-274c-4354-a235-203868739ca9,XRAY,Lumbar spine,XR LSP W/ F/E 5V,60-64,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Mild multilevel degenerative spondylotic changes with disc-space narrowing, endplate sclerosis and marginal osteophyte formation, most pronounced at L4–L5, where there is marked disc-space reduction and associated endplate degenerative change. Additional mild-to-moderate degenerative disc disease at the upper/mid lumbar levels. Mild anterior wedging of the L1 vertebral body with reduction in anterior vertebral body height. No definite acute cortical disruption. Multilevel lower lumbar facet arthropathy, most pronounced at L5–S1. Lumbar vertebral alignment is otherwise maintained without significant spondylolisthesis. Mild degenerative curvature of the lumbar spine. Visualized sacroiliac joints are maintained. Mild diffuse osseous demineralization. Multilevel lumbar spondylosis, most pronounced at L4–L5 with marked degenerative disc-space narrowing. Lower lumbar facet arthropathy, greatest at L5–S1. Mild anterior wedge compression deformity of L1, without radiographic features of an acute fracture. Mild diffuse osseous demineralization."
+3ae47cf7-e5e3-4550-9d76-4188437d65ae,MRI,Wrist,MRI LEFT WRIST WO,70-74,female,"FINDINGS:
+LIGAMENTS:
+Scapholunate: The scapholunate ligament is intact.
+Lunotriquetral: The lunotriquetral ligament is intact.
+TENDONS:
+Flexor compartments: The flexor tendons are normal in course and signal intensity without evidence of tenosynovitis.
+Extensor compartments: The extensor tendons are normal in course and signal intensity without evidence of tenosynovitis.
+NERVES:
+Median: The median nerve demonstrates normal course and signal intensity within the carpal tunnel.
+Ulnar: The ulnar nerve demonstrates normal course and signal intensity within Guyon's canal.
+BONES: No acute fracture or focal osseous lesion. The marrow signal is normal.
+MUSCLES: The musculature is of normal bulk and signal intensity.
+JOINTS: No subluxation or effusion. The radiocarpal and intercarpal articulations are maintained.
+CARTILAGE: The articular cartilage is preserved in thickness and signal intensity.
+TRIANGULAR FIBROCARTILAGE: The triangular fibrocartilage complex is intact.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal MRI of the [left/right] wrist.","Advanced multifocal degenerative changes involving the carpal bones, with marked joint space narrowing, subchondral sclerosis/cystic change, and osteophyte formation. Degenerative remodeling of multiple carpal bones with associated subchondral marrow edema-like signal. No acute fracture or dislocation identified. No focal aggressive osseous lesion. Advanced radiocarpal and midcarpal osteoarthritis with extensive chondral loss and subchondral degenerative changes. Small associated joint effusions with synovial hypertrophic/degenerative changes. Prominent degenerative changes involving the scapholunate and capitolunate articulations. Scapholunate interval is widened with abnormal morphology of the scapholunate ligament, compatible with chronic ligamentous insufficiency/tear. Degenerative changes involving the lunotriquetral articulation. Degenerative thinning and irregularity of the triangular fibrocartilage complex. No definite acute full-thickness traumatic TFCC tear identified on the provided images. Flexor tendons are grossly intact. Mild fluid/synovial prominence surrounding the flexor tendons at the carpal tunnel. Median nerve demonstrates mild increased signal and flattening within the carpal tunnel, which may be seen with median neuropathy/carpal tunnel syndrome. No discrete space-occupying mass within the carpal tunnel identified. Visualized extensor tendons are grossly intact without definite high-grade tear. No focal soft-tissue mass or drainable collection. Mild diffuse soft-tissue edema about the wrist. Advanced multifocal degenerative osteoarthritis of the right wrist involving the radiocarpal and midcarpal compartments, with extensive cartilage loss, subchondral cystic change/edema, and osteophyte formation. Chronic scapholunate ligament insufficiency/tear with widening of the scapholunate interval and associated advanced carpal degenerative changes. Degenerative changes of the TFCC without definite acute full-thickness tear. Mild flattening and increased signal of the median nerve within the carpal tunnel, which can be seen with carpal tunnel syndrome. No discrete compressive mass identified. No acute fracture or dislocation."
+3b4a4786-9a9f-44ea-a20d-f67e6ed78143,XRAY,Forearm bone,XR L FOREARM 2V,65-69,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Left wrist shows no acute fracture or dislocation identified. Carpal alignment is maintained. Mild degenerative changes involving the radiocarpal/intercarpal and first carpometacarpal joints with small marginal osteophytes. Mild diffuse osseous demineralization. No focal erosive osseous abnormality. Soft tissues are grossly unremarkable. Left forearm shows radius and ulna are intact without acute fracture or dislocation. Alignment is maintained. Mild degenerative changes of the visualized elbow. No focal osseous lesion or significant soft tissue abnormality identified. No acute fracture or dislocation of the left wrist or forearm. Mild multifocal osteoarthritic changes of the wrist and visualized elbow. Mild diffuse osseous demineralization.
+3c10a17c-6a11-410b-a978-36669ecac94d,CT,Arm,CT RT HAND WO-S,75-79,female,"FINDINGS:
+BONES: Visualized scapula, humerus, radius, ulna, carpal and metacarpals are normal. No acute fracture or focal osseous lesion.
+JOINTS: The joints are congruent with normal joint space. No dislocation. 
+SOFT TISSUES: No soft tissue mass or fluid collection. The visualized musculature is symmetric and of normal bulk.
+
+IMPRESSION:
+No acute osseous abnormality.","Minimally displaced comminuted fracture of the ulnar styloid process is noted. intra-articular fracture of the distal radius is seen, with fracture lines extending up to the radiocarpal articular surface. No significant articular surface depression or gross displacement is noted. Distal radioulnar articulation is maintained without dislocation. Carpal alignment is maintained. Mild radiocarpal joint effusion is noted w. Mild diffuse soft-tissue swelling is seen around the wrist. Degenerative osteoarthritic changes are noted at the visualized wrist joints. No additional acute osseous abnormality is identified. 
+
+Comminuted intra-articular fracture of the distal radius. Minimally displaced comminuted fracture of the ulnar styloid process. Mild wrist joint effusion with  and soft-tissue swelling. Maintained distal radioulnar and carpal alignment. Degenerative changes."
+3c2a11ad-ab15-4f85-96d5-01ff5cffffd8,MRI,Head,MRI Brain^SUBTLE BRAIN,40-44,male,"FINDINGS:
+BRAIN: No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retro-orbital structures are symmetric and without abnormality.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+BONES: The calvarium and skull base demonstrate normal signal intensity.
+
+IMPRESSION:
+Unremarkable brain MRI.",nroaml post contrast study vr promient VR spaces lentiform nucleus  bilaterally
+3fdad783-1d5e-417b-9b42-e1ce3c00a8f8,XRAY,Knee,XR R KNEE 3V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",deegenartiva g changes in form of marginal soteoophyuets reductiion in the medial tibiofemrola and patellofemroal joitn sopace
+42270507-c160-415a-a4d7-0e5b662bc62f,MRI,Arm,MRI LEFT HUMERUS WO,55-59,male,"FINDINGS:
+OSSEOUS STRUCTURES: No acute fracture or marrow abnormality. No aggressive bone lesion.
+MUSCULATURE: Normal signal of the arm compartments.
+SOFT TISSUES: No mass or fluid collection.
+
+IMPRESSION:
+No acute abnormality of the [left/right] humerus.","There is a well-defined elongated fat-containing lesion in the intermuscular plane at the level of the mid shaft of the left humerus, measuring approximately 56 × 20 × 82 mm (transverse × AP × craniocaudal). The lesion demonstrates T1 hyperintense signal intensity with suppression/loss of signal on STIR sequences, consistent with its macroscopic fat content. No definite suspicious internal nodular component or non-fatty signal component is described. The adjacent humeral cortex is intact, with no cortical erosion, destruction, or abnormal marrow signal. no cortical remodeling of the adjacent humeral shaft . No associated periosteal reaction or acute osseous abnormality is identified. Visualized surrounding musculature is otherwise preserved. No significant adjacent soft-tissue edema or fluid collection. Well-defined intermuscular macroscopic fat-containing lesion along the mid shaft of the left humerus, measuring approximately 56 × 20 × 82 mm, most consistent with an intramuscular/intermuscular lipoma. no adjacent osseous remodeling due to chronic mass effect. No cortical destruction, bone erosion, or marrow involvement identified. No definite aggressive imaging features on the described sequences."
+430c0318-b10d-428a-8ffe-e40d1b2ae319,MRI,Brain,MR BRAIN W-O,75-79,female,"FINDINGS:
+BRAIN: No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retro-orbital structures are symmetric and without abnormality.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+BONES: The calvarium and skull base demonstrate normal signal intensity.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Unremarkable brain MRI.","Moderate diffuse cerebral volume loss with prominence of the cortical sulci and ventricular system, suggestive of moderate cerebral atrophy. Moderate multifocal T2/FLAIR hyperintense white-matter signal changes (leukoaraiosis/leukoencephalopathy), predominantly involving the periventricular and deep white matter, likely representing chronic small-vessel ischemic gliotic changes. Chronic infarct/gliotic changes involving bilateral thalami, consistent with old bilateral thalamic infarcts. No evidence of acute intracranial hemorrhage, significant mass effect or midline shift. No obvious acute territorial infarction on the provided sequences. Multilevel cervical spondylotic/degenerative changes. Diffuse disc bulges are noted at C2-C3 and C3-C4, with associated mild indentation of the ventral thecal sac. Further assessment of neural foraminal and spinal canal stenosis may be performed on dedicated cervical spine MRI if clinically indicated. Moderate cerebral atrophy with moderate leukoaraiosis. bilateral Chronic thalamic lacunar infarcts. Multilevel cervical spondylotic changes with disc bulges at visualized C2-C3 and C3-C4."
+436438f8-5e11-497d-80fc-0c9e5a69e66c,XRAY,Lumbar spine,XRAY L-SPINE,45-49,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.",Five non-rib-bearing lumbar-type vertebral bodies identified. Lumbar alignment is maintained with no significant spondylolisthesis. Vertebral body heights are preserved without evidence of acute compression deformity. Mild multilevel degenerative spondylotic changes with small marginal endplate osteophytes. Intervertebral disc spaces are relatively maintained. Visualized sacroiliac joints are unremarkable. No focal destructive osseous lesion or acute osseous abnormality.
+4433633a-6c7b-408f-a18e-01ed07ea5c9b,XRAY,Knee,XR LT KNEE COMPLETE 4V,50-54,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","_____ knee joint, marginal osteophytes without significant reduction in the joint space"
+4589378c-5655-494b-b591-b43fd2b519b6,XRAY,Lumbar spine,XR LSP 3V,85-89,male,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.",degenrtaive chnages spine in form of marginal slteophutes  gard ei anteorlistehsis l5 ober s1 reductiin disc space  and  grade i anteristhesos l4 over l5 reductiin in all the disc space red marginl oteophyte nad end plate changes grde i retrolistehsis of the l2 over l3 loss of normal alignment of thr spien atheroscleotic changes aorta fusion of the l1 and l2 degenrtige chnage s bilateral SI joitn and bilateral hip
+47866103-dcb8-4a22-9e5e-5393939583e5,XRAY,Hand,XR L HAND 3V,60-64,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","No acute fracture or dislocation. Alignment is maintained. Moderate multifocal interphalangeal joint space narrowing and marginal osteophyte formation, greatest at the distal interphalangeal joints. Moderate degenerative changes of the first carpometacarpal and triscaphe joints. Mild diffuse osseous demineralization. No focal erosive or destructive osseous abnormality. Soft tissues are unremarkable. No acute osseous abnormality of the left hand. Multifocal osteoarthritis, greatest at the distal interphalangeal and first carpometacarpal joints."
+49583957-18c2-43d5-bc4c-acc2a41d6e40,XRAY,Pelvis,XR BILAT HIPS/PELVIS 5V,65-69,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: Bilateral sacroiliac and hip joints appear normal. No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Minor joint space narrowing and possible osteophytic lipping, consistent with grade 1 osteoarthritis.
+
+rest normal"
+49962b3d-4c21-4517-a91e-c6a5986e6614,XRAY,Knee,XR RT KNEE 3V,75-79,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Mild degenerative osteoarthritic changes, predominantly involving medial tibiofemoral compartment, with marginal osteophyte formation and mild joint-space narrowing.
+
+
+Mild subchondral sclerosis of the medial tibial plateau.
+
+Mild spiking of the tibial spines.
+
+No acute fracture or dislocation.
+
+No focal destructive osseous lesion.
+
+No significant suprapatellar joint effusion.
+
+Periarticular soft tissues are grossly unremarkable."
+4a66a692-c163-4cca-8d59-206c2670a975,MRI,Head,MRI Brain^SUBTLE BRAIN,70-74,female,"FINDINGS:
+BRAIN: No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retro-orbital structures are symmetric and without abnormality.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+BONES: The calvarium and skull base demonstrate normal signal intensity.
+
+IMPRESSION:
+Unremarkable brain MRI.","Cerebral parenchyma shows mild diffuse cerebral volume loss with prominence of the cortical sulci and ventricular system, consistent with mild age-related cerebral atrophy. No focal area of abnormal signal intensity, acute infarction, intracranial hemorrhage or space-occupying lesion is identified. No significant mass effect or midline shift. Ventricular system and CSF spaces show mild prominence of the ventricles and cortical sulci in keeping with cerebral volume loss. No hydrocephalus or extra-axial collection. Deep gray nuclei and white matter show no significant focal abnormal signal intensity is seen in the basal ganglia, thalami or periventricular white matter. Brainstem and cerebellum appear unremarkable. No focal abnormality identified. Corpus callosum and sellar region are unremarkable. Major intracranial vascular flow voids are preserved. Orbits show no gross abnormality in the visualized portions. Paranasal sinuses show no significant mucosal disease in the visualized paranasal sinuses. Nasal septum shows rightward deviation of the nasal septum with a small bony spur, which indents the right inferior turbinate. Mastoid air cells are clear. Mild diffuse cerebral atrophy. Rightward DNS with a small bony septal spur indenting the right inferior turbinate."
+4cee9330-9f62-4489-b475-b3cdd65f3f2b,XRAY,Shoulder,XR R SHOULDER 1V,65-69,male,"FINDINGS:
+BONES: No fracture or focal lesion.
+JOINTS: No dislocation. The joint spaces and articular margins are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",No acute fracture or dislocation. Moderate acromioclavicular joint space narrowing. Mild to moderate glenohumeral joint space narrowing with subchondral sclerosis along the glenoid. Subcortical cystic changes at humeral head. Acromiohumeral interval is intact.
+4e83994c-4f17-431b-ba2f-4d9347597eaa,XRAY,Knee,XR R KNEE 3V,55-59,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Right Knee Radiographs, 3 Views. Right knee pain. Three radiographic views of the right knee were obtained. None available at the time of dictation. Mild medial compartment joint space narrowing is demonstrated with small marginal osteophytes. Mild patellofemoral degenerative change is also present. No acute fracture or dislocation is demonstrated. No significant knee joint effusion is identified. Mild vascular calcifications are present in the posterior soft tissues. Soft tissue fullness is demonstrated posterior to the knee, which may represent a Baker’s cyst. Mild degenerative osteoarthritis of the right knee, greatest in the medial compartment. Posterior knee soft tissue fullness, likely representing a Baker’s cyst. No acute osseous abnormality."
+4f573c02-34e8-4ebf-942e-1b7bf7e2b7b2,XRAY,Cervical spine,XR CSP 6V,20-24,female,"FINDINGS:
+The spinal alignment is maintained without evidence of spondylolisthesis.
+The vertebral body and disc space heights are preserved.
+No acute fracture is identified.
+The odontoid process is intact.
+No lytic or blastic lesions.
+The paravertebral soft tissues are normal.
+
+IMPRESSION:
+Unremarkable X-ray of the cervical spine.","Cervical Spine Radiographs, 6 Views. Neck pain. Six radiographic views of the cervical spine were obtained. MRI cervical spine. Straightening of the normal cervical lordosis is demonstrated. Vertebral body heights are maintained without acute compression fracture or traumatic malalignment. Mild multilevel degenerative endplate changes are demonstrated with small anterior osteophytes and mild disc space narrowing, greatest at C6-C7. No prevertebral soft tissue swelling is demonstrated. Straightening of the normal cervical lordosis. Mild multilevel cervical spondylosis, greatest at C6-C7. No acute osseous abnormality."
+53b0c08b-e433-4350-9880-c5b5f71dadd0,XRAY,Chest,XR CHEST 2V,85-89,female,"FINDINGS:
+LUNGS: Lungs are clear. No focal air-space consolidation.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+HEART: Cardiac silhouette is within normal size limits.
+MEDIASTINUM/HILA: Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement.
+DIAPHRAGM: Diaphragms are unremarkable. No subdiaphragmatic free air.
+BONES: No acute osseous abnormality identified on this examination.
+SOFT TISSUES: No acute soft tissue abnormality identified on the provided images.
+
+IMPRESSION:
+No acute abnormality.",promient brinchivascular makrings atherscleroic hane aortic arch mild cRDIOMEGLY
+5486607a-a7cb-4722-b63e-16022f0b8394,MRI,Brain,MRI BRAIN W/O,50-54,female,"FINDINGS:
+BRAIN: No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retro-orbital structures are symmetric and without abnormality.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+BONES: The calvarium and skull base demonstrate normal signal intensity.
+
+IMPRESSION:
+Unremarkable brain MRI.",History of memory loss bilateral periventricular T2 and FLAIR hyperintensity with possibility of chronic ischaemic changes with dilatation of the bilateral lateral ventricle note made of left mastoiditis minimal signal seen in the right mastoid sinuses well prominent sulcal spaces seen in the right parietal lobe possibility of prominence oblique focal gliosis prominent VR space in the bilateral lentiform nucleus partial empty sella note made of h hyper frontalis interna focal gliosis seen in the bilateral centrum semiovalegeneralsied atrophy
+557a0d37-7b9d-4ca5-af12-71596dffcc1e,XRAY,Shoulder,XR LT SHOULDER 2V,65-69,female,"FINDINGS:
+BONES: No fracture or focal lesion.
+JOINTS: No dislocation. The joint spaces and articular margins are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Glenohumeral alignment is maintained with mild joint space narrowing and small marginal osteophytes. There is moderate acromioclavicular osteoarthritis with joint space narrowing and prominent superior marginal osteophyte formation.
+5658cf75-5a93-4167-bd35-029124d4754d,XRAY,Knee,XR LT KNEE 3V,85-89,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Moderate medial and patellofemoral compartment joint space narrowing with mild lateral compartment joint space narrowing and small marginal osteophytes. Multiple intramedullary lucent lesions are present within the distal femoral shaft and proximal fibula. Cortical irregularity, remodeling, and periosteal reaction are present along the proximal fibular shaft. Moderate knee joint effusion and soft tissue swelling of the leg. No acute fracture or dislocation. Calcifications of the femoral artery are noted. Intramedullary lucent lesions within the distal femur and proximal fibula, with cortical irregularity and periosteal reaction along the proximal fibula. Findings are concerning for osteomyelitis. Multifocal neoplastic lesions is differential consideration. Suggest MRI for further evaluation. Tricompartmental osteoarthritis, moderate in the medial and patellofemoral compartments. Moderate knee joint effusion and soft tissue swelling of the leg. No acute fracture or dislocation. Femoral arterial atherosclerotic calcifications."
+56f757ba-a872-4fd4-8b7d-d86399ee3531,XRAY,Wrist,XR RT WRIST 3V,75-79,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Diffuse osseous demineralization. No acute fracture or dislocation. Carpal alignment is maintained. Mild radiocarpal joint space narrowing and mild degenerative changes of the triscaphe and thumb carpometacarpal joints.
+579a25f5-63c5-4e5c-b67f-3c98ee406665,XRAY,Ankle,XR L ANKLE 3V,55-59,female,"FINDINGS:
+Bones: No acute fracture, dislocation, or focal osseous lesion. Bone mineralization is normal.
+Joint Spaces and alignment: Maintained. Ankle mortis maintained.
+Soft Tissues: No focal soft tissue swelling. No abnormal calcifications.
+
+IMPRESSION:
+No acute osseous abnormality.","Oblique fracture of the distal fibula/lateral malleolus at the level of the ankle syndesmosis (Weber B pattern) is seen.
+
+Fracture alignment is maintained without significant interval displacement or angulation.
+
+Assessment of the fracture margins and osseous healing is limited by overlying plaster cast.
+
+Ankle mortise remains congruent, without appreciable medial clear-space widening."
+58fdafd6-4edb-4e60-b0df-0821061121a1,XRAY,Knee,XR LT KNEE 3V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Moderate medial, lateral and patellofemoral compartment joint space narrowing with small marginal osteophytes and mild subchondral sclerosis. Small suprapatellar joint effusion. No acute fracture or dislocation."
+5ddc141b-acfd-49f9-bc27-af6f17c55b36,MRI,Cervical spine,MRI C-SPINE WO,35-39,male,"FINDINGS:
+Alignment: Cervical spinal alignment is maintained. Normal cervical lordosis.
+Vertebral Bodies: Vertebral body heights are preserved. Normal marrow signal.
+Spinal Cord: Normal in signal and caliber. No cord compression or intrinsic signal abnormality.
+C2-3: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C3-4: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C4-5: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C5-6: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C6-7: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+C7-T1: No disc herniation or spinal canal stenosis. No neural foraminal narrowing.
+Paravertebral Soft Tissues: Normal.
+
+IMPRESSION:
+Normal MRI of the cervical spine.
+No abnormal signal intensity.","Loss of the normal cervical lordosis with straightening of the cervical spine. Vertebral body heights are maintained. No obvious acute compression deformity or focal marrow-replacing lesion on the provided sequences. Multilevel degenerative disc disease with disc desiccation and variable reduction in disc heights, associated with marginal endplate osteophyte formation. Multilevel posterior disc-osteophyte complexes, most conspicuous at the C5–C6 and C6-C7 levels, causing ventral thecal sac indentation. The cord is normal in signal intensity and caliber. C2-3 shows mild posterior disc bulge with no significant spinal canal stenosis and no significant neural foraminal narrowing. C3-4 shows mild posterior disc bulge causing mild ventral thecal sac indentation. No significant spinal canal stenosis. No neural foraminal narrowing. C4-5 shows mild posterior central disc prolapse causing mild ventral thecal sac indentation. No significant spinal canal stenosis. No neural foraminal narrowing. AP diameter- 11 mm. C5-6 shows mild diffuse posterior disc bulge causing ventral thecal sac indentation with mild spinal canal narrowing. AP diameter of 9 mm. No abnormal signal intensity in the cord. No neural foraminal narrowing. C6-7 shows mild posterior central disc prolapse causing ventral thecal sac indentation with mild spinal canal narrowing. No abnormal signal intensity in the cord. No neural foraminal narrowing. AP diameter- 8.8 mm. Paravertebral soft tissues are normal."
+5e6776a6-757a-4193-a7ab-8403c63a911d,MRI,Knee,MRI RIGHT KNEE WO,20-24,female,"FINDINGS:
+Osseous Structures: No acute fracture, dislocation, or marrow-replacing lesion.
+Joint: Knee joint alignment is maintained. No significant joint effusion.
+Menisci: 
+Medial meniscus: Intact.
+Lateral meniscus: Intact.
+Ligaments: 
+Anterior cruciate ligament: Intact.
+Posterior cruciate ligament: Intact.
+Medial collateral ligament: Intact.
+Lateral collateral ligament complex: Intact.
+Articular Cartilage: Cartilage thickness and signal are preserved.
+Extensor Mechanism: Quadriceps and patellar tendons are intact.
+Bursae: No significant bursitis.
+Musculature: Normal bulk and signal.
+Soft Tissues: No mass or fluid collection.
+
+IMPRESSION:
+No acute osseous or internal derangement of the [left/right/bilateral] knee.","Menisci mild intrasubstance degenerative signal without definite surfacing tear. Lateral Meniscus shows abnormal linear fluid-sensitive signal involving the anterior horn of the lateral meniscus, extending to the articular surface, compatible with an anterior horn lateral meniscal tear. No definite displaced meniscal fragment or significant extrusion. Cruciate Ligaments Anterior Cruciate Ligament is intact with preserved course, caliber, and fiber continuity. No convincing evidence of ACL tear. Posterior Cruciate Ligament is intact with preserved morphology and signal. Collateral Ligaments medial and lateral collateral ligament complexes are intact. Popliteus tendon is intact. Extensor Mechanism quadriceps and patellar tendons are intact. Patellar alignment is maintained. Articular Cartilage shows mild multifocal chondral thinning and surface irregularity involving the medial, lateral, and patellofemoral compartments. No definite full-thickness cartilage defect identified on the provided images. Osseous Structures show no acute fracture or dislocation. Mild degenerative subchondral changes. No significant bone marrow edema or focal aggressive osseous lesion. Joint / Synovium shows small knee joint effusion. No definite intra-articular loose body. Soft Tissues show no significant Baker's cyst. No focal soft-tissue mass or fluid collection. Visualized musculature and tendons are grossly intact. Anterior horn tear of the lateral meniscus. Intact ACL without evidence of tear. Small knee joint effusion. No acute osseous abnormality."
+62a3b0d3-072c-4cc9-97da-1f6aeb8ec85a,MRI,Shoulder,MRI RT SHOULDER,55-59,male,"FINDINGS:
+ROTATOR CUFF TENDONS AND MUSCLES: The supraspinatus, infraspinatus, subscapularis and teres minor tendons are normal.
+LIGAMENTS: Visualized ligaments are normal.
+BICEPS ANCHOR COMPLEX: Normal
+GLENOHUMERAL JOINT: No joint effusion. The articular cartilage is preserved. The labrum is intact.
+ACROMIOCLAVICULAR JOINT: No significant degenerative changes or osteophytes.
+BONES: No acute fracture, dislocation, or aggressive osseous lesion. Normal bone marrow signal.
+PERIARTICULAR SOFT TISSUE: Normal.
+
+IMPRESSION:
+Normal MRI of the [left/right] shoulder.","Acromioclavicular joint shows mild degenerative hypertrophic changes at the acromioclavicular joint with mild associated STIR hyperintensity, suggestive of reactive marrow edema. No significant AC joint separation is seen. Rotator cuff shows supraspinatus, infraspinatus and teres minor tendons are maintained in thickness and signal intensity without significant tendinopathy, partial-thickness tear or full-thickness tear. Minimal focal STIR hyperintensity is seen within the distal subscapularis tendon just proximal to its insertion, suggestive of mild tendinopathic/inflammatory change. No tendon retraction or muscle atrophy is noted. Long head of biceps tendon shows long head of biceps tendon is maintained in position and shows preserved caliber and signal. Trace fluid is seen along its tendon sheath. Glenohumeral joint/labrum shows glenohumeral alignment is maintainedMinimal fluid between  anterior-inferior glenoid labral region and glenoid cavity Humeral head shows few small focal subchondral cystic changes are seen within the humeral head, likely degenerative in nature. Focal STIR hyperintensity is also noted along the posterosuperior aspect of the humeral head, suggestive of mild reactive marrow edema. Glenoid shows no focal significant osseous abnormality is identified. Joint fluid shows no significant glenohumeral joint effusion. Minimal fluid is seen along the biceps tendon sheath and anterior-inferior labral region. Muscles shows visualized shoulder girdle muscles show preserved bulk and signal intensity without significant muscle edema or atrophy.
+
+Mild acromioclavicular joint osteoarthritic/degenerative changes with mild reactive marrow edema.
+
+Few small degenerative subchondral cystic changes in the humeral head with focal reactive marrow edema at the posterosuperior humeral head.
+
+Minimal distal subscapularis tendinopathic change without definite tear.
+
+Trace fluid along the long head of biceps tendon sheath.
+
+Minimal fluid between  anterior-inferior glenoid labral region and glenoid cavity"
+63b5c5a0-0baa-49d3-bf1d-92541d3328da,XRAY,Knee,XR LT KNEE 3V,45-49,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","No fracture or dislolication
+no signficaitn degenerative cahnges
+small suprapatellar joint effusion"
+63caa9d4-d265-4dd9-8a0c-13cc556ea5b6,XRAY,Lumbar spine,XR LSP 4V,55-59,male,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Findings
+
+
+Five non-rib-bearing lumbar-type vertebral bodies identified.
+
+Vertebral body heights are maintained without acute compression deformity or focal destructive osseous lesion.
+
+Mild multilevel degenerative disc space narrowing and endplate osteophyte formation, greatest in the lower lumbar spine, particularly at L4-L5 and L5-S1.
+
+Lower lumbar facet hypertrophic changes, greatest at L4-L5 and L5-S1.
+
+Mild lumbar levoconvex curvature.
+
+No significant spondylolisthesis identified.
+
+Sacroiliac joints are maintained.
+
+No acute osseous abnormality identified on these radiographs.
+Impression
+
+
+Multilevel lumbar spondylosis/degenerative disc disease, greatest at L4-L5 and L5-S1.
+
+Lower lumbar facet arthropathy.
+
+Mild lumbar levoconvex curvature.
+
+No acute osseous abnormality."
+65d40e7e-7c64-4b71-b874-d2e5fbfcb1ac,MRI,Pelvis,MRI PELVIS W & W/O,65-69,male,"FINDINGS:
+BOWEL: The visualized loops of small and large bowel demonstrate normal wall thickness and signal characteristics. No evidence of bowel obstruction or focal inflammatory change.
+BLADDER: The urinary bladder is normally distended and demonstrates a smooth, thin wall. No intraluminal mass or calculus is identified.
+PROSTATE: The prostate gland is normal in size and signal intensity[ and demonstrates normal post-contrast enhancement].
+SEMINAL VESICLES: The seminal vesicles are symmetric and unremarkable in signal intensity[ and demonstrate normal post-contrast enhancement].
+LYMPH NODES: No pathologically enlarged pelvic or inguinal lymph nodes are identified.
+BONES: The visualized osseous structures demonstrate normal marrow signal. No evidence of acute fracture, aggressive osseous lesion, or avascular necrosis.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Unremarkable MRI of the pelvis.","Urinary bladder is mildly distended. Diffuse irregular circumferential mural thickening is noted, measuring up to approximately 2.5 mm. No obvious intraluminal mass lesion is seen. Prostate shows mild prostatomegaly, with prostate volume approximately 25 mL. No obvious focal suspicious lesion is identified on the provided sequences. Seminal vesicles are bilaterally symmetric and unremarkable. Rectum and visualized bowel show no significant mural thickening or obvious focal abnormality. Pelvic lymph nodes show no significant pelvic lymphadenopathy. Pelvic bones and visualized soft tissues show no obvious focal marrow-replacing lesion or significant soft-tissue abnormality. Mild prostatomegaly, prostate volume approximately 25 mL. Mildly distended urinary bladder with diffuse irregular mural thickening, likely inflammatory/cystitic in appropriate clinical setting. Clinical and laboratory correlation advised."
+697eea8a-94bf-4e40-9b09-49e1762f5475,XRAY,Lumbar spine,XR LSP 4V,65-69,male,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","No acute fracture or listhesis is identified. Straightened lumbar lordosis is seen, which may be positional or related to muscle spasm. Subtle levoconvexity of the lumbar spine is present. Mild intervertebral disc space narrowing is seen at T12-L1, L1-L2 and L5-S1, with moderate narrowing at L2-L3. Small marginal osteophytes are present in the upper lumbar spine. Mild L5-S1 facet joint arthrosis is seen. Mild bilateral sacroiliac joint degenerative changes are present. Severe osteoarthritic changes of the left hip with avascular necrosis are noted, detailed in a dedicated left hip report. Moderate atherosclerotic calcification of the abdominal aorta is present."
+69dad284-c63e-432c-afa4-7f0946ee0641,XRAY,Thumb,XRAY LEFT THUMB,20-24,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",mildly displaced fracture distal phalanx
+6ac8ae67-2f79-4e80-acf5-b2f914450301,XRAY,Heel,XR RT HEEL,40-44,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",There is a small enthesophyte at the Achilles tendon insertion. No significant plantar calcaneal spur is present. A well-corticated os peroneum is incidentally noted. mild  soft tissue swelling
+6acfbe16-5b4b-4fff-a8ae-b897845e8929,XRAY,Knee,XR R KNEE 4V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Mild narrowing of the medial tibiofemoral and patellofemoral joint spaces. Mild marginal osteophyte formation involving the tibial plateau, femoral condyles and patella. Mild subchondral sclerosis. No acute fracture or dislocation. No focal destructive osseous lesion. No significant joint effusion or other soft-tissue abnormality evident on radiograph. Mild tricompartmental degenerative osteoarthritic changes of the knee. No acute osseous abnormality."
+6ade6784-c2a3-44c0-87e4-a4648d54b68e,XRAY,Shoulder,XR LT SHOULDER 2V,70-74,female,"FINDINGS:
+BONES: No fracture or focal lesion.
+JOINTS: No dislocation. The joint spaces and articular margins are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Left reverse total shoulder arthroplasty is present. There is chronic osseous remodeling about the proximal humerus surrounding the humeral component, corresponding to the site of the previously reported comminuted periprosthetic fracture. There is persistent periprosthetic lucency along the humeral component, including near the distal stem, which may reflect chronic loosening;. . No gross dislocation. Prior distal clavicular resection."
+6cb899a0-fa0a-4714-a7e0-04cad7de16ae,XRAY,Lumbar spine,XRAY LUMBAR,60-64,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Five non-rib-bearing lumbar-type vertebral bodies. Vertebral body heights and alignment are maintained. Mild multilevel degenerative spondylotic changes in the form of small marginal endplate osteophytes and mild endplate sclerosis, slightly more conspicuous in the lower lumbar spine. Intervertebral disc spaces are relatively maintained. Lower lumbar facet degenerative changes are most evident at L4–L5 and L5–S1. No acute fracture or significant spondylolisthesis. Mild multilevel lumbar spondylosis with lower lumbar facet arthropathy, without significant disc space narrowing. No acute osseous abnormality."
+6ef96248-9538-41dc-95c2-1bee80198349,XRAY,Chest,XR CHEST 2V,60-64,male,"FINDINGS:
+LUNGS: Lungs are clear. No focal air-space consolidation.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+HEART: Cardiac silhouette is within normal size limits.
+MEDIASTINUM/HILA: Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement.
+DIAPHRAGM: Diaphragms are unremarkable. No subdiaphragmatic free air.
+BONES: No acute osseous abnormality identified on this examination.
+SOFT TISSUES: No acute soft tissue abnormality identified on the provided images.
+
+IMPRESSION:
+No acute abnormality.","No significant interval change in the bilateral perihilar and bibasilar interstitial and airspace opacities. Mild central pulmonary vascular prominence is also unchanged. Stable mild cardiomegaly. No pleural effusion or pneumothorax. Prior median sternotomy. No acute osseous abnormality. No significant interval change in the bilateral perihilar and bibasilar interstitial and airspace opacities, which may represent chronic lung changes. A superimposed acute or recurrent infectious process, including atypical/interstitial pneumonia, cannot be excluded in the appropriate clinical setting. Stable mild cardiomegaly with mild central pulmonary vascular prominence. Prior median sternotomy."
+7212e321-3847-4906-a334-3ed302784c9a,MRI,Knee,MRI KNEE RIGHT,65-69,male,"FINDINGS:
+Osseous Structures: No acute fracture, dislocation, or marrow-replacing lesion.
+Joint: Knee joint alignment is maintained. No significant joint effusion.
+Menisci: 
+Medial meniscus: Intact.
+Lateral meniscus: Intact.
+Ligaments: 
+Anterior cruciate ligament: Intact.
+Posterior cruciate ligament: Intact.
+Medial collateral ligament: Intact.
+Lateral collateral ligament complex: Intact.
+Articular Cartilage: Cartilage thickness and signal are preserved.
+Extensor Mechanism: Quadriceps and patellar tendons are intact.
+Bursae: No significant bursitis.
+Musculature: Normal bulk and signal.
+Soft Tissues: No mass or fluid collection.
+
+IMPRESSION:
+No acute osseous or internal derangement of the [left/right/bilateral] knee.","Quadriceps tendon shows near full-thickness tear of the distal quadriceps tendon just proximal to its patellar insertion, at the level of the superior pole of the patella. The involved tendon demonstrates heterogeneous increased signal intensity with associated surrounding soft-tissue edema/injury. Patellar tendon shows focal increased STIR signal intensity within the patellar tendon at its patellar insertion, with mild adjacent soft-tissue edema, suggestive of insertional sprain/tendinous injury. ACL is diffusely bulky with heterogeneous increased intrasubstance signal intensity and maintained fibre continuity, suggestive of mucoid degeneration/intrasubstance degeneration with sprain. No definite complete ACL disruption is seen. PCL appears mildly bulky with heterogeneous signal intensity, suggestive of PCL sprain/degenerative change. Fibre continuity is maintained. Menisci shows minimal extrusion of the meniscal tissue beyond the respective tibial margins. No definite focal meniscal tear is identified on the provided findings. Joint shows minimal knee joint effusion. Bones shows no focal acute osseous abnormality or marrow edema. Soft tissues shows soft-tissue edema/injury anteriorly around the distal quadriceps tendon and superior aspect of the patella. Near full-thickness tear of the distal quadriceps tendon just proximal to its patellar insertion, at the level of the superior pole of the patella, with surrounding soft-tissue edema/injury. Focal insertional sprain/tendinous injury of the patellar tendon with adjacent soft-tissue edema. Diffuse mucoid/intrasubstance degeneration with sprain of the ACL; fibres remain continuous. Mild bulky heterogeneous PCL, suggestive of sprain/degenerative change. Minimal meniscal extrusion. Minimal knee joint effusion."
+755948c2-f311-4b9c-b1a4-37ac63ba73eb,MRI,Lumbar spine,MRI L SPINE WO,55-59,male,"FINDINGS:
+VERTEBRAE: Normal vertebral body heights are maintained. No acute fracture or focal osseous lesion. Marrow signal is within normal limits for age.
+ALIGNMENT: Anatomic lumbar lordosis is maintained. No spondylolisthesis.
+SPINAL CORD: The conus medullaris terminates at a normal level, demonstrating normal signal and contour. The cauda equina nerve roots are unremarkable.
+DISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and hydration are preserved. No significant facet arthropathy or ligamentum flavum hypertrophy.
+L1-L2: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L2-L3: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L3-L4: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L4-L5: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L5-S1: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+PARASPINAL SOFT TISSUES: The visualized paravertebral soft tissues are symmetric and without abnormal signal.
+
+IMPRESSION:
+Unremarkable MR of the lumbar spine.","Multilevel degenerative spondylotic changes are noted in the lumbar spine with multilevel intervertebral disc desiccation and mild degenerative endplate changes. Multilevel ligamentum flavum hypertrophy is also noted. A well-defined focal T1/T2 hyperintense lesion is seen within the L1 vertebral body, consistent with a vertebral hemangioma. Another focal lesion involving the L5 vertebral body appears hyperintense on T2/STIR sequences, likely representing a vertebral hemangioma. L1-L2 shows diffuse disc bulge/prolapse is noted without significant central canal stenosis or neural foraminal compromise. L2-L3 shows mild diffuse disc bulge with associated degenerative changes. No significant central canal or neural foraminal stenosis. L3-L4 shows mild diffuse disc bulge with facet/ligamentum flavum hypertrophic changes. No significant canal or foraminal stenosis. L4-L5 shows diffuse disc bulge causing bilateral neural foraminal narrowing. No significant exiting nerve root compression or definite nerve root impingement. L5-S1 shows diffuse disc bulge/prolapse with bilateral lateral recess/foraminal narrowing and impingement of the exiting/lateral nerve roots. No significant high-grade central canal stenosis is identified. Vertebral body heights are maintained. No acute compression fracture or significant vertebral collapse is seen. Multilevel lumbar spondylosis and degenerative disc disease with multilevel ligamentum flavum hypertrophy. L4-L5 diffuse disc bulge causing bilateral neural foraminal narrowing without significant definite nerve root compression. L5-S1 diffuse disc bulge with bilateral lateral recess/foraminal narrowing and impingement of the bilateral exiting nerve roots. Vertebral hemangiomas at L1 and L5. No significant central canal stenosis."
+759534d0-c00b-4603-8aa6-b67ca3ca8e15,USG,Unknown,93971  VENOUS UPP/LOW UNILATERAL,75-79,female,"FINDINGS:
+DEEP VEINS: The common femoral, superficial femoral, and popliteal veins are echolucent and compressible.  There is normal color Doppler flow throughout. The visualized calf veins are also patent.
+SUPERFICIAL VEINS: The visualized great and short saphenous veins are patent with competent sapheno-femoral and sphenopopliteal junction. No incompetent perforators.
+SOFT TISSUES: No popliteal fossa cyst or other abnormalities.
+
+IMPRESSION:
+No deep venous thrombosis in the [_laterality_] lower extremity.","The right common femoral, femoral, deep femoral, popliteal and posterior tibial veins demonstrate normal compressibility, color flow and augmentation. The right great saphenous vein is patent. No evidence of deep venous thrombosis."
+7a02839e-1e07-44d4-b41e-638a1615c786,XRAY,Ankle,XRAY LT ANKLE,35-39,male,"FINDINGS:
+Bones: No acute fracture, dislocation, or focal osseous lesion. Bone mineralization is normal.
+Joint Spaces and alignment: Maintained. Ankle mortis maintained.
+Soft Tissues: No focal soft tissue swelling. No abnormal calcifications.
+
+IMPRESSION:
+No acute osseous abnormality.",There is no acute fracture or dislocation. Ankle mortise is preserved on the provided views. Joint spaces are maintained. Small plantar calcaneal enthesophyte. No focal soft tissue abnormality identified radiographically.
+7a2dc87b-bf12-4cc8-b54e-9305c69571ce,XRAY,Hand,XR L HAND 3V,75-79,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","No acute fracture or dislocation. Osseous alignment is maintained. Moderate degenerative changes of the first carpometacarpal joint with joint-space narrowing, subchondral sclerosis and marginal osteophyte formation. Mild to moderate multifocal interphalangeal joint space narrowing and osteophyte formation, greatest at the distal interphalangeal joints. Mild degenerative changes of the triscaphe and radiocarpal articulations. Mild diffuse osseous demineralization. No focal erosive or destructive osseous abnormality. Soft tissues are unremarkable without radiopaque foreign body. No acute osseous abnormality of the left hand/wrist. Moderate first carpometacarpal osteoarthritis with mild to moderate multifocal interphalangeal osteoarthritis. Mild diffuse osseous demineralization."
+7a837822-a72a-4f21-8750-d36d87d3fdbf,XRAY,Hand,XR LT HAND 3V,75-79,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Diffuse osseous demineralization. No acute fracture or dislocation. Mild multifocal interphalangeal joint space narrowing with small marginal osteophytes, as well as mild degenerative change of the first MCP and thumb CMC articulations."
+7c981ae5-1672-412f-912f-92793cea174d,MRI,Shoulder,MRI RIGHT SHOULDER WO W,25-29,male,"FINDINGS:
+ROTATOR CUFF TENDONS AND MUSCLES: The supraspinatus, infraspinatus, subscapularis and teres minor tendons are normal.
+LIGAMENTS: Visualized ligaments are normal.
+BICEPS ANCHOR COMPLEX: Normal
+GLENOHUMERAL JOINT: No joint effusion. The articular cartilage is preserved. The labrum is intact.
+ACROMIOCLAVICULAR JOINT: No significant degenerative changes or osteophytes.
+BONES: No acute fracture, dislocation, or aggressive osseous lesion. Normal bone marrow signal.
+PERIARTICULAR SOFT TISSUE: Normal.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal MRI of the [left/right] shoulder.","Findings
+Acromioclavicular joint:
+
+
+
+
+Minimal hyperintense joint fluid is seen within the acromioclavicular joint.
+
+No gross cortical disruption or displaced fracture fragment is identified.
+
+Findings are suggestive of acute/subacute stress/traumatic changes of the AC joint; clinical correlation is advised.
+Rotator cuff:
+
+
+STIR hyperintensity and increased signal are noted within the subscapularis tendon at its humeral insertion, suggestive of tendinopathic/strain-related changes.
+
+
+
+
+
+Supraspinatus and infraspinatus tendons are grossly maintained without definite full-thickness tear.
+
+Teres minor tendon is intact.
+Long head of biceps:
+
+
+
+
+No gross tendon retraction is seen.
+Glenoid labrum:
+
+
+Minimal focal discontinuity/irregularity is noted involving the anterior-inferior glenoid labrum, suggestive for a small partial labral tear.
+
+Correlation with clinical findings for anterior instability is advised.
+Glenohumeral joint:
+
+
+No significant joint effusion.
+
+Articular cartilage is grossly preserved.
+
+No focal osteochondral defect identified.
+Rotator cuff muscles:
+
+
+No significant muscle atrophy or fatty infiltration."
+7ccf69b7-3f3d-4f9d-b47e-ebafd62e7db8,MRI,Brain,MRI BRAIN W & W/O,65-69,female,"FINDINGS:
+BRAIN: No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retro-orbital structures are symmetric and without abnormality.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+BONES: The calvarium and skull base demonstrate normal signal intensity.
+
+IMPRESSION:
+Unremarkable brain MRI.",History bilateral asymmetrical hearing loss contras 7.5 mL Gadobuterol no enhancing focal lesions in the bilateral cerebello-pontine angles mild diffuse cerebral atrophy in the form of prominent cortical sulci ventricular system .
+7d1b1d15-8fb5-4c42-8088-bb1b678bdb72,XRAY,Hip,XR L HIP 2V,75-79,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",No acute fracture or dislocation. Mild degenerative joint space narrowing of the left hip with marginal osteophyte formation. Mild degenerative changes of the visualized sacroiliac joints and lower lumbar spine. Mild diffuse osseous demineralization. Soft tissues are unremarkable. Mild left hip osteoarthritis. No acute osseous abnormality.
+82c296eb-836f-42a6-a697-f5c57d111b65,XRAY,Foot,XR RT FOOT 3V,75-79,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","There is no acute fracture or dislocation. Moderate hallux valgus deformity is present with medial first metatarsal head prominence and moderate first metatarsophalangeal joint space narrowing, subchondral sclerosis, and marginal osteophyte formation. Mild degenerative changes involve the interphalangeal and midfoot articulations. Alignment of the remaining metatarsals and tarsometatarsal joints is maintained without Lisfranc malalignment. There is a small Achilles insertional enthesophyte. No focal osseous erosion or destructive lesion is identified. Soft tissues demonstrate no focal acute abnormality."
+839da5a3-d213-474e-bb61-f5326f917106,XRAY,Cervical spine,XR CSP 2V,20-24,female,"FINDINGS:
+The spinal alignment is maintained without evidence of spondylolisthesis.
+The vertebral body and disc space heights are preserved.
+No acute fracture is identified.
+The odontoid process is intact.
+No lytic or blastic lesions.
+The paravertebral soft tissues are normal.
+
+IMPRESSION:
+Unremarkable X-ray of the cervical spine.","Normal cervical mineralization and architecture. Straightening of the cervical lordosis. Vertebral body heights and disc spaces are maintained. No evidence of acute fracture, spondylolisthesis or prevertebral soft tissue swelling. The craniocervical junction is intact. No facet dislocation. Straightening of the cervical lordosis, which may be positional or related to muscle spasm. No acute fracture or spondylolisthesis."
+8475ae7b-8d0b-4756-9772-b20b98459143,MRI,Head,MRI BRAIN,30-34,male,"FINDINGS:
+BRAIN: No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retro-orbital structures are symmetric and without abnormality.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+BONES: The calvarium and skull base demonstrate normal signal intensity.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Unremarkable brain MRI.","FINDINGS
+Brain Parenchyma
+
+
+Cerebral hemispheres demonstrate preserved gray-white matter differentiation.
+
+No focal parenchymal T2 signal abnormality identified on the provided images.
+
+No evidence of acute diffusion restriction to suggest acute infarction.
+
+No focal mass lesion or significant mass effect.
+
+No obvious traumatic cerebral contusion identified on the provided sequences.
+Hemorrhage
+
+
+No evidence of acute intracranial hemorrhage identified on the provided images.
+
+No obvious intraparenchymal, subarachnoid, intraventricular, or subdural hemorrhage.
+Ventricles / CSF Spaces
+
+
+Ventricular system is normal in size and configuration.
+
+No hydrocephalus.
+
+No midline shift or significant sulcal effacement.
+
+No obvious extra-axial fluid collection.
+Posterior Fossa
+
+
+Cerebellum and brainstem are grossly unremarkable on the provided sequences.
+
+Fourth ventricle is normal in caliber.
+Sellar / Parasellar Region
+
+
+No gross abnormality identified on the provided images.
+Orbits / Paranasal Sinuses
+
+
+Visualized orbital structures are grossly unremarkable.
+
+Visualized paranasal sinuses and mastoid air cells demonstrate no significant abnormality.
+Calvarium / Scalp
+
+
+No gross calvarial abnormality identified on the provided images.
+
+No significant scalp soft tissue collection evident.
+IMPRESSION
+
+
+No acute intracranial abnormality identified on the provided MRI sequences.
+
+No acute infarct, intracranial hemorrhage, extra-axial collection, mass effect, or midline shift.
+
+No obvious MRI evidence of traumatic cerebral contusion."
+856fb1a7-3dd5-49a1-bf6d-9ed2cc551ec9,MRI,Shoulder,MRI RT SHOULDER WO,35-39,female,"FINDINGS:
+ROTATOR CUFF TENDONS AND MUSCLES: The supraspinatus, infraspinatus, subscapularis and teres minor tendons are normal.
+LIGAMENTS: Visualized ligaments are normal.
+BICEPS ANCHOR COMPLEX: Normal
+GLENOHUMERAL JOINT: No joint effusion. The articular cartilage is preserved. The labrum is intact.
+ACROMIOCLAVICULAR JOINT: No significant degenerative changes or osteophytes.
+BONES: No acute fracture, dislocation, or aggressive osseous lesion. Normal bone marrow signal.
+PERIARTICULAR SOFT TISSUE: Normal.
+
+IMPRESSION:
+Normal MRI of the [left/right] shoulder.",edema the anterior deltoid muscle noted mild degenerative changes acromio-clavicular joint subdeltoid subacromial fluid mild fluid the gleno-humeral joint surppsinatus tendinosis edne anteroinfeiror aspect fot huemrla ehad
+866f4dfa-c60a-4cce-9511-42fbb1389644,XRAY,Ribs,XR BILAT RIBS,45-49,male,"FINDINGS:
+LUNGS: No focal airspace consolidation.
+PLEURAL SPACES: No pleural effusion. No pneumothorax.
+BONES: No visible acute rib fracture.
+
+IMPRESSION:
+No visible acute rib fracture. No pneumothorax.",no rib fracture
+881922d3-fd6c-4f33-a5dd-6df23632220d,XRAY,Finger,XR L FINGER 2V,80-84,male,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Findings
+
+
+No acute fracture or dislocation identified.
+
+Alignment is maintained.
+
+Mild multifocal interphalangeal joint space narrowing and marginal osteophyte formation, consistent with osteoarthritis.
+
+Mild degenerative changes are most evident at the distal interphalangeal joints.
+
+Mild chronic-appearing irregularity/remodeling of the distal phalangeal tufts, without a definite acute fracture line.
+
+No focal osseous erosion or aggressive osseous lesion.
+
+Soft tissues are unremarkable.
+Impression
+
+
+No acute fracture or dislocation.
+
+Mild multifocal interphalangeal osteoarthritis.
+
+Chronic-appearing distal phalangeal tuft irregularity without definite acute osseous abnormality."
+88f779c0-bcea-4f26-b8e0-9b718325eb4b,MRI,Head,MRI Brain^SUBTLE BRAIN,60-64,male,"FINDINGS:
+BRAIN: No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retro-orbital structures are symmetric and without abnormality.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+BONES: The calvarium and skull base demonstrate normal signal intensity.
+
+IMPRESSION:
+Unremarkable brain MRI.","Bilateral cerebral sulci and cisterns are prominent- s/o generalized cerebral atrophy.
+
+Punctate non-diffusion restricting FLAIR hyperintensities are seen in bilateral periventricular and subcortical white matter- Fazekas 1 leukoaraiosis.
+
+Mucosal thickening in left maxillary, sphenoid and ethmoid sinuses- s/o infective/ inflammatory etiology.
+
+rest nromal."
+8986b83e-6f00-4beb-8a7c-a057441a151e,XRAY,Femur,XR L FEMUR 2V,15-19,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",normal
+89cb3fe2-9aee-4e4a-85c3-e0e5a099b911,MRI,Thoracic spine,MRI T-SPINE WO,75-79,female,"FINDINGS:
+VERTEBRAE: No acute fracture, subluxation, or aggressive osseous lesion. Vertebral body heights are maintained. Normal marrow signal throughout.
+ALIGNMENT: Anatomic alignment of the thoracic spine is preserved.
+SPINAL CORD: The thoracic spinal cord is normal in signal intensity and caliber. The conus medullaris terminates at the L1-L2 level.
+DISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and signal are preserved. No significant disc bulge or herniation. The facet joints are well-maintained. No central canal or neural foraminal stenosis.
+PARASPINAL SOFT TISSUES: The paravertebral soft tissues demonstrate normal signal and morphology.
+
+IMPRESSION:
+Unremarkable MR of the thoracic spine.","There is pronounced multilevel thoracic spondylosis with kyphotic deformity and multilevel disc space narrowing, endplate remodeling, and osteophyte formation , and facet arthropathy, greatest in the mid to lower thoracic spine. Multilevel neural foraminal narrowing is present, right predominant in the upper thoracic spine and left predominant at several mid/lower thoracic levels, most pronounced on the left at T8-T8 at T4-T5, a left-predominant disc-osteophyte complex produces mild-to-moderate spinal canal stenosis and mild ventral cord indentation. Advanced degenerative disc/endplate disease is also present at T12-L1 with broad posterior disc-osteophyte complex but no significant canal stenosis No high-grade thoracic spinal canal stenosis"
+8ab1a654-3318-4ec3-803a-5bf97d466f91,XRAY,Lumbar spine,XRAY LUMBAR,40-44,male,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Multilevel degenerative changes are noted in the visualized vertebral bodies with marginal osteophyte formation and endplate sclerosis.
+There is reduction in the height of the L4 vertebral body with anterior wedging, suggestive of a compression deformity. 
+Multilevel osteophytes are noted.
+Intervertebral disc spaces are relatively maintained except for mild multilevel degenerative narrowing.
+No obvious acute displaced fracture or significant spondylolisthesis is identified."
+8b404fa8-569c-43c9-8785-bd31382ed36a,XRAY,Skull sinus,XR SINUSES COMPLETE 5V,70-74,female,"FINDINGS:
+SINUSES: No air-fluid level or paranasal opacification identified.
+ORBITS: No obvious orbital abnormality.
+SOFT TISSUES: Unremarkable.                                       
+BONES: No fracture or lesion
+
+IMPRESSION:
+No acute paranasal sinus abnormality evident on plain film examination.","The bilateral frontal sinuses are hypoplastic. The remaining visualized paranasal sinuses appear clear, without definite air-fluid level or significant mucosal thickening. No acute osseous abnormality identified. Consider CT of the paranasal sinuses if clinically indicated."
+956291b1-faba-4c9f-991b-7cc282287ed9,XRAY,Paranasal sinus,XR SINUSES 3V,55-59,male,"FINDINGS:
+SINUSES: No air-fluid level or paranasal opacification identified.
+ORBITS: No obvious orbital abnormality.
+SOFT TISSUES: Unremarkable.                                       
+BONES: No fracture or lesion
+
+IMPRESSION:
+No acute paranasal sinus abnormality evident on plain film examination.",Normal
+959135c4-6c14-4342-ab67-d63ffd6ed6fe,CT,Chest,CT CHEST WO-S,55-59,female,"FINDINGS:
+LUNGS/AIRWAYS: The lungs are clear. No focal consolidation,cavitation, suspicious pulmonary nodule or other focal lesion is identified.
+PLEURA: No pleural effusion or pneumothorax.
+CARDIOVASCULAR: The heart and great vessels are normal in size and configuration. No thoracic aortic aneurysm. No pericardial effusion.
+MEDIASTINAL/HILAR LYMPH NODES: No lymphadenopathy.
+CHEST WALL/MUSCULOSKELETAL: No acute osseous abnormality. No aggressive osseous lesion.
+LINES/TUBES/SUPPORT DEVICES: None.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No acute intrathoracic abnormality.","Lungs and Airways show subpleural reticulation with associated intra- and interlobular septal thickening is seen in both lungs, predominantly involving the lower lobes with a symmetrical distribution and apicobasal gradient. Associated traction bronchiectatic and bronchiolectatic changes are present. No honeycombing is identified. No significant ground-glass opacities are seen. No focal consolidation, suspicious pulmonary nodule, or mass lesion is identified. Pleura shows no pleural effusion or pleural thickening. No pneumothorax. Mediastinum and Hila show no enlarged mediastinal or hilar lymph nodes. Few subcentimeter mediastinal lymph nodes are present, including prevascular, pretracheal, and precarinal nodes, the largest precarinal node measuring approximately 8.8 mm in short-axis diameter. Heart and Great Vessels show cardiac chambers are within normal size limits. No pericardial effusion. No coronary artery calcification is identified. Thoracic aorta is normal in caliber, measuring approximately 24.6 mm. Main pulmonary artery is normal in caliber, measuring approximately 23.4 mm. Lower Neck shows visualized lower neck structures are unremarkable. Chest Wall and Breasts show stable calcific foci are scattered in both breasts. Upper Abdomen shows visualized upper abdominal structures reveal no significant abnormality on this examination. Small hiatal hernia is seen. Bones show diffuse osteopenia. Mild multilevel degenerative changes of the thoracic spine. No acute osseous abnormality identified. Bilateral lower lobe predominant subpleural reticulation, intra- and interlobular septal thickening, and traction bronchiectatic/bronchiolectatic changes with apicobasal gradient, without honeycombing or significant ground-glass opacities, consistent with fibrotic interstitial lung disease. Overall imaging appearance is most compatible with a probable UIP pattern. No suspicious pulmonary nodule, focal consolidation, pleural effusion, or mediastinal lymphadenopathy. No significant interval change compared to the CT chest, likely benign. Osteopenia and mild thoracic spondylotic degenerative changes."
+9b0e5e9c-5c6d-4391-898b-44be789e0b6c,MRI,Wrist,MRI Wrist^RT Wrist,20-24,female,"FINDINGS:
+LIGAMENTS:
+Scapholunate: The scapholunate ligament is intact.
+Lunotriquetral: The lunotriquetral ligament is intact.
+TENDONS:
+Flexor compartments: The flexor tendons are normal in course and signal intensity without evidence of tenosynovitis.
+Extensor compartments: The extensor tendons are normal in course and signal intensity without evidence of tenosynovitis.
+NERVES:
+Median: The median nerve demonstrates normal course and signal intensity within the carpal tunnel.
+Ulnar: The ulnar nerve demonstrates normal course and signal intensity within Guyon's canal.
+BONES: No acute fracture or focal osseous lesion. The marrow signal is normal.
+MUSCLES: The musculature is of normal bulk and signal intensity.
+JOINTS: No subluxation or effusion. The radiocarpal and intercarpal articulations are maintained.
+CARTILAGE: The articular cartilage is preserved in thickness and signal intensity.
+TRIANGULAR FIBROCARTILAGE: The triangular fibrocartilage complex is intact.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal MRI of the [left/right] wrist.","FINDINGS
+Osseous Structures:
+
+
+Carpal alignment is maintained.
+
+No acute fracture or dislocation identified on the provided images.
+
+No focal bone marrow edema or suspicious osseous lesion evident.
+
+Joint spaces are relatively maintained without significant degenerative change.
+Scapholunate / Lunotriquetral Ligaments:
+
+
+Scapholunate interval is maintained without gross widening.
+
+No definite disruption of the scapholunate or lunotriquetral ligaments identified on the provided sequences.
+Triangular Fibrocartilage Complex:
+
+
+TFCC demonstrates mild heterogeneous increased signal, particularly along its ulnar-sided attachment, compatible with degenerative/intrasubstance signal.
+
+No definite full-thickness TFCC tear or significant DRUJ effusion identified on the available images.
+Tendons:
+
+
+Visualized flexor and extensor tendons are intact without significant tenosynovitis or tendon tear.
+Carpal Tunnel / Guyon Canal:
+
+
+No gross abnormality of the visualized carpal tunnel or Guyon canal.
+Soft Tissues:
+
+
+No focal soft tissue mass or significant fluid collection identified.
+
+No significant wrist joint effusion.
+IMPRESSION
+
+
+No acute fracture or dislocation identified.
+
+Mild heterogeneous/intrasubstance signal within the TFCC, without a definite full-thickness tear on the provided images.
+
+No gross scapholunate or lunotriquetral ligament disruption.
+
+No significant tendon abnormality."
+9e441726-c216-4eb4-bcb9-5cf9969e0f70,MRI,Lumbar spine,MRI LUMBAR,35-39,male,"FINDINGS:
+VERTEBRAE: Normal vertebral body heights are maintained. No acute fracture or focal osseous lesion. Marrow signal is within normal limits for age.
+ALIGNMENT: Anatomic lumbar lordosis is maintained. No spondylolisthesis.
+SPINAL CORD: The conus medullaris terminates at a normal level, demonstrating normal signal and contour. The cauda equina nerve roots are unremarkable.
+DISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and hydration are preserved. No significant facet arthropathy or ligamentum flavum hypertrophy.
+L1-L2: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L2-L3: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L3-L4: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L4-L5: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L5-S1: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+PARASPINAL SOFT TISSUES: The visualized paravertebral soft tissues are symmetric and without abnormal signal.
+
+IMPRESSION:
+Unremarkable MR of the lumbar spine.","Alignment shows Grade 1 retrolisthesis of L5 over S1. Vertebral body alignment otherwise maintained. Vertebral bodies/marrow shows vertebral body heights are maintained. No focal suspicious marrow signal abnormality or acute compression deformity. Intervertebral discs show disc desiccation changes, involving the lower lumbar levels, with associated reduction in disc height at L4–L5 and L5–S1. Conus medullaris terminates at an appropriate level and demonstrates normal signal and morphology. Visualized cauda equina nerve roots are unremarkable. Level-wise assessment shows L1–L2 shows no significant disc bulge. No significant spinal canal or neural foraminal stenosis. L2–L3 shows no significant disc bulge. No significant spinal canal or neural foraminal stenosis. L3–L4 shows mild diffuse posterior disc bulge with mild ventral thecal sac indentation and mild bilateral lateral recess narrowing. Bilateral facet arthrosis. No significant central canal stenosis. L4–L5 shows diffuse posterior disc bulge with moderate central canal and bilateral lateral recess stenosis. Superimposed left foraminal disc herniation with bilateral facet arthrosis, greater on the left, resulting in moderate left neural foraminal narrowing. There is impingement of the exiting left L4 and traversing left L5 nerve roots. L5–S1 shows diffuse posterior disc bulge resulting in mild central canal narrowing. Bilateral facet arthrosis, greater on the left, with moderate left neural foraminal and lateral recess narrowing, resulting in impingement of the exiting left L5 nerve roots. Paravertebral soft tissues show no significant abnormality. Degenerative disc disease predominantly at L4–L5 and L5–S1, with associated disc space narrowing and disc desiccation. L4–L5 shows diffuse disc bulge with superimposed left foraminal disc herniation and left-predominant facet arthrosis, resulting in moderate central canal stenosis and moderate left foraminal/lateral recess stenosis with impingement of the exiting left L4 and traversing left L5 nerve roots. L5–S1 shows diffuse disc bulge and left-predominant facet arthrosis causing mild central canal and moderate left foraminal/lateral recess stenosis, with impingement of the exiting left L5 nerve roots. Grade 1 retrolisthesis of L5 over S1."
+9f238d30-dbd0-48d2-b327-3528f6542fb5,XRAY,Lumbar spine,XR LSP 4V,50-54,female,"FINDINGS:
+VERTEBRAE: Normal desnity and alignment. No fracture or osseous lesion.
+DISC SPACES: Preserved.
+SOFT TISSUES: Unremarkable.
+
+IMPRESSION:
+No acute abnormality evident in the [generic] spine.","Transitional lumbosacral anatomy with sacralisation of L5 vertebra, resulting in four non-rib-bearing lumbar-type vertebral bodies.
+
+
+Multilevel early degenerative spondylotic changes with marginal endplate osteophyte formation and endplate sclerosis.
+
+rest normal"
+a2771d2d-a706-4501-a0df-11045de0b0df,MRI,Abdomen,MRI ABDOMEN W & W/O,65-69,male,"FINDINGS:
+LOWER THORAX: No pleural effusion or basilar consolidation.
+LIVER: Normal in size and signal intensity. No focal hepatic lesion.
+GALLBLADDER AND BILE DUCTS: The gallbladder is unremarkable. The common bile duct is non-dilated. No intrahepatic biliary ductal dilatation.
+PANCREAS: Normal morphology and signal characteristics. The main pancreatic duct is not dilated.
+SPLEEN: Normal in size and signal intensity.
+ADRENALS: The adrenal glands are normal in size and configuration.
+KIDNEYS: Normal in size, position, and signal intensity. No hydronephrosis or suspicious renal mass.
+STOMACH AND BOWEL: The visualized portions of the stomach and bowel are unremarkable. No bowel wall thickening or obstruction.
+LYMPH NODES: No retroperitoneal or mesenteric lymphadenopathy.
+VASCULATURE: The abdominal aorta and major visceral vessels are patent. No evidence of aneurysm or dissection.
+
+IMPRESSION:
+No acute intra-abdominal abnormality.","Liver is normal in size and contour with preserved parenchymal signal intensity. No definite focal hepatic lesion is seen. No intrahepatic biliary radicle dilatation is noted. Gallbladder is adequately distended. No definite intraluminal calculus or focal mural abnormality is identified. Biliary tree shows common hepatic duct and common bile duct are normal in caliber with smooth distal tapering. No definite intraductal filling defect or obstructing lesion is seen. Pancreas is normal in size and signal intensity. Main pancreatic duct is not dilated. No definite focal pancreatic lesion or peripancreatic collection is identified. Spleen is normal in size. A cystic lesions noted within the splenic parenchyma. Kidneys shows left kidney is not visualized, consistent with the known history of solitary kidney. Right kidney is visualized and shows a large well-defined cyst arising from its lower pole, measuring approximately 66 × 60 mm. No right hydronephrosis is seen. Adrenal glands shows visualized adrenal glands are unremarkable. Lymph nodes / Peritoneum shows no significant upper abdominal lymphadenopathy or free fluid is seen. Non-visualization of the left kidney, consistent with solitary right kidney. Large right renal lower-pole cyst measuring approximately 66 × 60 mm. small splenic cyst No intrahepatic or extrahepatic biliary dilatation or definite choledocholithiasis. No pancreatic ductal dilatation."
+a67db807-aa38-4995-892f-231f079c570f,MRI,Lumbar spine,MRI L SPINE WO,60-64,male,"FINDINGS:
+VERTEBRAE: Normal vertebral body heights are maintained. No acute fracture or focal osseous lesion. Marrow signal is within normal limits for age.
+ALIGNMENT: Anatomic lumbar lordosis is maintained. No spondylolisthesis.
+SPINAL CORD: The conus medullaris terminates at a normal level, demonstrating normal signal and contour. The cauda equina nerve roots are unremarkable.
+DISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and hydration are preserved. No significant facet arthropathy or ligamentum flavum hypertrophy.
+L1-L2: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L2-L3: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L3-L4: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L4-L5: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+L5-S1: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.
+PARASPINAL SOFT TISSUES: The visualized paravertebral soft tissues are symmetric and without abnormal signal.
+
+IMPRESSION:
+Unremarkable MR of the lumbar spine.","Alignment: Lumbar lordosis is mildly straightened. No significant spondylolisthesis is identified.
+Vertebral bodies and marrow: Vertebral body heights are maintained. No acute compression fracture or significant focal marrow signal abnormality is seen.
+Intervertebral discs: Multilevel intervertebral disc desiccation is noted with multilevel diffuse disc bulges, predominantly involving the lower lumbar levels.
+L1-L2: Diffuse disc bulge causing mild left neural foraminal narrowing. No significant central canal stenosis.
+L2-L3: Diffuse disc bulge with left neural foraminal narrowing, abutting the left exiting nerve root.
+L3-L4: Diffuse disc bulge with bilateral neural foraminal narrowing, abutting the bilateral exiting nerve roots. Associated ligamentum flavum hypertrophy contributes to thecal sac narrowing.
+L4-L5: Diffuse disc bulge with superimposed posterior central disc protrusion. There is significant central spinal canal stenosis, with AP canal diameter measuring approximately 5 mm. Marked crowding/compression of the cauda equina nerve roots is noted. Bilateral lateral recess and neural foraminal narrowing is seen with compression of the bilateral traversing and exiting nerve roots. Associated ligamentum flavum hypertrophy and posterior longitudinal ligament elevation/lifting contribute to the canal stenosis.
+L5-S1: Diffuse disc bulge with superimposed posterior central disc protrusion. Central canal AP diameter measures approximately 9.8 mm, suggestive of mild central canal narrowing. Bilateral neural foraminal narrowing is noted with compression of the bilateral exiting nerve roots.
+Ligamentum flavum: Multilevel ligamentum flavum hypertrophy, most pronounced at the lower lumbar levels, contributing to central canal and lateral recess narrowing.
+Facet joints: Multilevel facet joint hypertrophic/degenerative changes are noted.
+Conus medullaris and cauda equina: Conus medullaris terminates at approximately the L1 level and demonstrates normal signal intensity. Significant crowding of the cauda equina nerve roots is seen at L4-L5 secondary to severe canal stenosis.
+Paraspinal soft tissues: No significant abnormality identified.
+IMPRESSION
+
+
+Multilevel lumbar spondylosis with multilevel intervertebral disc desiccation and diffuse disc bulges.
+
+L4-L5: Posterior central disc protrusion with severe central canal stenosis (AP diameter ~5 mm), associated with marked crowding/compression of the cauda equina nerve roots, bilateral lateral recess and neural foraminal narrowing with compression of bilateral traversing and exiting nerve roots.
+
+L5-S1: Posterior central disc protrusion with mild central canal narrowing (AP diameter ~9.8 mm) and bilateral neural foraminal narrowing with compression of bilateral exiting nerve roots.
+
+L2-L3 left neural foraminal narrowing with abutment of the left exiting nerve root.
+
+L3-L4 bilateral neural foraminal narrowing with abutment of bilateral exiting nerve roots.
+
+Multilevel ligamentum flavum hypertrophy and facet arthropathy, contributing to spinal canal and foraminal stenosis.
+
+Posterior longitudinal ligament elevation/lifting at the lower lumbar level related to the posterior disc protrusion."
+a8abd8d5-b136-4415-96cf-f08729c3bf2c,XRAY,Hand,XR R HAND 2V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",degen changes with multiple redued joint spaces
+a8d31bb3-825c-46fe-ab14-2c038ec47778,MRI,Shoulder,MRI RT SHOULDER WO,40-44,male,"FINDINGS:
+ROTATOR CUFF TENDONS AND MUSCLES: The supraspinatus, infraspinatus, subscapularis and teres minor tendons are normal.
+LIGAMENTS: Visualized ligaments are normal.
+BICEPS ANCHOR COMPLEX: Normal
+GLENOHUMERAL JOINT: No joint effusion. The articular cartilage is preserved. The labrum is intact.
+ACROMIOCLAVICULAR JOINT: No significant degenerative changes or osteophytes.
+BONES: No acute fracture, dislocation, or aggressive osseous lesion. Normal bone marrow signal.
+PERIARTICULAR SOFT TISSUE: Normal.
+
+IMPRESSION:
+Normal MRI of the [left/right] shoulder.",Supraspinatus and subscapularis tendinosis mild degenerative changes in the acromio-clavicular joint mild subdeltoid subacromial fluid mild fluid in the gleno-humeral joint mild fluid along the biceps tendon
+a9f7e486-1730-4312-93df-cc9e7049b2ed,XRAY,Shoulder scapula,XR RT SHOULDER 3V,80-84,female,"FINDINGS:
+BONES: No fracture or focal lesion.
+JOINTS: No dislocation. The joint spaces and articular margins are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Complete mildly displaced midshaft acute fracture of the right clavicle with superior displacement and overriding of the proximal fragment.
+No humeral fracture or dislocation. Mild glenohumeral osteoarthritic changes."
+aa9fc78f-f9c6-4a25-85ec-86ec0c66b216,XRAY,Foot,XR L FOOT 2V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.","Degenerative osteoarthritic changes are noted in the visualized joint. Multiple joint spaces are reduced, with associated marginal osteophyte formation and subchondral degenerative changes. No acute fracture or dislocation is evident. Calcaneal spur is noted, likely at the plantar aspect of the calcaneus. No focal acute osseous abnormality identified. Multicompartmental degenerative osteoarthritic changes with multiple reduced joint spaces. Calcaneal spur. No acute osseous abnormality."
+b33e48c9-3967-42e7-813d-45a72a2a57aa,USG,Neck,93925  ART LOWER EXT BILAT,70-74,male,"FINDINGS:
+COMMON FEMORAL ARTERY: Patent with normal triphasic waveforms. No hemodynamically significant stenosis or occlusion.
+SUPERFICIAL FEMORAL ARTERY: Patent with normal triphasic waveforms. No hemodynamically significant stenosis or occlusion.
+POPLITEAL ARTERY: Patent with normal triphasic waveforms. No hemodynamically significant stenosis or occlusion.
+CALF ARTERIES: The anterior tibial, posterior tibial, and peroneal arteries are patent with normal triphasic waveforms. No hemodynamically significant stenosis or occlusion.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No flow limiting stenosis or occlusion in the [_laterality_] lower extremity.","The bilateral common femoral arteries, profunda femoris arteries, proximal, mid and distal superficial femoral arteries, popliteal arteries, posterior tibial arteries and dorsalis pedis arteries are patent, with preserved color Doppler flow. No focal significant elevation in peak systolic velocity to suggest hemodynamically significant stenosis.
+Bilateral lower extremity subcutaneous edema is present. Correlate clinically"
+b7fc16f0-51ec-425f-bb3d-79fa950b00af,MRI,Hip,MRI LEFT HIP WO,55-59,female,"FINDINGS:
+TENDONS:
+FLEXORS: The iliopsoas tendon is intact.
+EXTENSORS/HAMSTRING: The hamstring origin tendons are intact.
+ABDUCTORS: The gluteus medius and minimus tendons are intact.
+ADDUCTORS: The adductor tendons are intact at their origin.
+ROTATORS: The external rotator tendons are intact.
+BONES: No acute fracture, avascular necrosis, or aggressive osseous lesion. Normal marrow signal is demonstrated.
+MUSCLES: The musculature is of normal bulk and signal intensity.
+FLUID: No hip joint effusion. No trochanteric bursitis.
+LABRUM: The acetabular labrum is intact without tear.
+CARTILAGE: The articular cartilage is preserved in thickness and signal.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Normal [left/right] hip.","Bones / Marrow shows no acute fracture or dislocation. Femoral head maintains normal contour without evidence of avascular necrosis. Mild subchondral marrow signal abnormality along the superolateral acetabular margin. No focal aggressive osseous lesion identified. Visualized portions of the sacrum and pelvic bones are grossly intact. Left Hip Joint shows mild degenerative changes of the left hip with mild chondral thinning/irregularity, predominantly superiorly. Small left hip joint effusion. No intra-articular loose body identified. Acetabular Labrum shows degenerative signal and irregularity involving the anterosuperior/superior acetabular labrum, suspicious for a degenerative labral tear. No large paralabral cyst identified. Femoral Head / Neck shows no femoral head collapse or osteonecrosis. Mild degenerative osteophyte formation along the femoral head-neck junction. No significant femoroacetabular impingement morphology identified on the provided images. Tendons / Muscles shows mild insertional tendinopathy of the gluteus medius/minimus tendons at the greater trochanter. Mild adjacent peritrochanteric soft-tissue edema. Gluteus maximus tendon is intact. Iliopsoas tendon is intact. Rectus femoris and proximal hamstring tendons are grossly intact. No focal muscle tear or significant muscle atrophy. Bursae shows mild fluid within the greater trochanteric bursal region, compatible with mild trochanteric bursitis. No significant iliopsoas bursitis. Sacroiliac Joints / Pubic Symphysis shows visualized sacroiliac joints are maintained. No significant marrow edema or erosive change. Pubic symphysis is unremarkable. Pelvic Soft Tissues shows no focal soft-tissue mass or drainable fluid collection identified on the provided images. Visualized pelvic structures are grossly unremarkable. Neurovascular Structures shows no gross abnormality of the visualized neurovascular structures. Mild left hip osteoarthrosis with superior chondral thinning/irregularity and small joint effusion. Degenerative tearing/irregularity of the anterosuperior acetabular labrum. Mild gluteus medius/minimus insertional tendinopathy with mild adjacent greater trochanteric bursitis. No acute fracture or avascular necrosis of the left femoral head. No focal aggressive osseous lesion or significant muscle/tendon tear."
+b92efe0b-9644-4f69-833f-64eded759dfb,XRAY,Chest,XRAY CHEST PA-LAT,50-54,female,"FINDINGS:
+LUNGS: Lungs are clear. No focal air-space consolidation.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+HEART: Cardiac silhouette is within normal size limits.
+MEDIASTINUM/HILA: Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement.
+DIAPHRAGM: Diaphragms are unremarkable. No subdiaphragmatic free air.
+BONES: No acute osseous abnormality identified on this examination.
+SOFT TISSUES: No acute soft tissue abnormality identified on the provided images.
+
+IMPRESSION:
+No acute abnormality.","There is bilateral hilar prominence, appearing relatively symmetric, suspicious for bilateral hilar lymphadenopathy. Cardiomediastinal silhouette is mildly prominent. No focal air-space consolidation or pulmonary edema. No discrete pulmonary mass or suspicious focal parenchymal opacity identified on radiograph. No pleural effusion or pneumothorax. No acute osseous abnormality. Bilateral hilar prominence, suspicious for bilateral hilar lymphadenopathy. Clinical correlation and contrast-enhanced CT chest is recommended for further characterization."
+bcc23ba7-8291-4c7d-8693-6eb23712a447,XRAY,Heel,XR LT HEEL,40-44,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Standard views of the left heel acquired according to department protocol. 40-44-year-old female patient with pain. Prior XR LT FOOT. Bones show minimal enthesopathic change is present at the Achilles tendon insertion. A well-corticated os peroneum is incidentally noted. There is no acute fracture or focal destructive osseous abnormality. No significant plantar calcaneal spur is identified. Calcaneal morphology is maintained. Joints show subtalar alignment is maintained. No dislocation. The joint spaces are normal. Soft tissues show mid soft tissue edema over the heel. 1. Minimal enthesopathic change at the Achilles tendon insertion. 2. Incidental os peroneum. 3. No acute fracture.
+c28fe8d5-1b78-4f89-beaf-c5bf1adb4115,XRAY,Sternum,XR STERNUM 2V,50-54,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion. No sternoclavicular dislocation.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",degen changes
+cae63587-9491-47ca-8aaf-d4166a856ffe,CT,Brain,CT BRAIN W-O,25-29,male,"FINDINGS:
+BRAIN: Brain parenchyma appears normal in attenuation and morphology. No midline shift or intra extra-axial collection. Gray-white matter differentiation is preserved.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retrobulbar soft tissues are symmetric and unremarkable.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+SOFT TISSUES: No significant facial or scalp soft tissue swelling evident. 
+BONES: No acute skull fracture or lesion.
+
+IMPRESSION:
+No acute intracranial abnormality.","No acute intracranial hemorrhage, acute large territorial infarction, mass effect, midline shift or extra-axial fluid collection. The gray-white matter differentiation is maintained. The ventricles and cortical sulci are within normal limits. The basal cisterns are patent.
+Moderate mucosal thickening is present in the right sphenoid sinus. Mild mucosal thickening is present in the bilateral frontal and ethmoid sinuses and left sphenoid sinus. The visualized mastoid air cells are clear. No acute calvarial abnormality."
+cdf174d7-ba12-40ab-99b0-e9d90e55a9fd,XRAY,Chest,Chest,90+,male,"FINDINGS:
+LUNGS: Lungs are clear. No focal air-space consolidation.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+HEART: Cardiac silhouette is within normal size limits.
+MEDIASTINUM/HILA: Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement.
+DIAPHRAGM: Diaphragms are unremarkable. No subdiaphragmatic free air.
+BONES: No acute osseous abnormality identified on this examination.
+SOFT TISSUES: No acute soft tissue abnormality identified on the provided images.
+
+IMPRESSION:
+No acute abnormality.",Standard views of chest acquired according to department protocol. 90+ year-old male patient with lung base abnormality. None LUNGS nodule observed in right upper and middle zones. Consolidation observed in right lower zone. The left lung is clear. PLEURAL SPACES pleural effusion is observed on the right. No pneumothorax is seen. There is no left pleural effusion. HEART cardiac silhouette is within normal size limits. MEDIASTINUM/HILA the cardiomediastinal silhouette is within normal limits. The trachea is centrally located. Both hila appear normal. No mediastinal widening or hilar enlargement. DIAPHRAGM no hiatus hernia. Diaphragms are otherwise unremarkable. No subdiaphragmatic free air. BONES the bony thorax appears unremarkable. degen spine SOFT TISSUES no acute soft tissue abnormality identified on the provided images.
+d14307e6-9059-4dc2-bbd4-6cc58e71f54c,MRI,Abdomen,MRI ABDOMEN / MRCP W & W/O,70-74,female,"FINDINGS:
+LIVER: Normal in size and signal. No focal hepatic lesion.
+GALLBLADDER: Normal. No gallstones.
+BILIARY TREE: The intrahepatic and extrahepatic bile ducts are normal in caliber. The common bile duct measures within normal limits. No filling defect or stricture.
+PANCREATIC DUCT: Normal in caliber. No filling defect.
+PANCREAS: Normal in size and signal.
+SPLEEN: Normal.
+KIDNEYS: Normal.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+No biliary or pancreatic ductal abnormality. No choledocholithiasis.","Liver is normal in size and demonstrates homogeneous parenchymal signal intensity. No focal hepatic lesion is identified. Gallbladder is adequately distended with no obvious intraluminal calculus or wall thickening. The intrahepatic biliary radicles are not dilated. Common hepatic duct and common bile duct are normal in calibre, with no obvious intraductal filling defect or focal stricture. The CBD is seen to drain normally into the second part of the duodenum. Main pancreatic duct is normal in calibre and course. No obvious focal pancreatic lesion or peripancreatic collection is seen. Spleen and adrenal glands are unremarkable. Both kidneys are normal in size and morphology. Few small simple cortical cysts are noted in both kidneys, without suspicious internal septation or solid component. No hydronephrosis is seen. No significant ascites or enlarged upper abdominal lymph nodes are identified. No evidence of intrahepatic or extrahepatic biliary dilatation. No obvious choledocholithiasis or biliary stricture. Few small simple bilateral renal cortical cysts."
+d8c7357a-d804-4a1b-9eb7-4de840baf9f7,XRAY,Knee patella,XR RT KNEE 3V,45-49,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",Mild narrowing of the medial tibiofemoral compartment with small marginal osteophyte formation. Few small subchondral cystic/geode-like lucencies are seen in the lateral tibial plateau and medial femoral condyle. Lateral tibiofemoral and patellofemoral joint spaces are relatively maintained. No acute fracture or dislocation. No focal aggressive osseous lesion. No significant joint effusion evident on the provided radiograph. Mild degenerative changes with small subchondral cysts. No acute osseous abnormality.
+ddac2ed8-a4f4-4f37-960a-49b27be1d7e5,XRAY,Ankle calcaneous,XR RT HEEL 2V,70-74,female,"FINDINGS:
+BONES: No acute fracture or focal osseous lesion.
+JOINTS: No dislocation. The joint spaces are normal.
+SOFT TISSUES: The soft tissues are unremarkable.
+
+IMPRESSION:
+No acute osseous abnormality.",No acute fracture or dislocation is identified. Mild degenerative changes are present in the midfoot with small dorsal marginal osteophytes. Moderate plantar calcaneal enthesophyte is present.
+e9721e29-b1d3-4b38-9369-30cec1e63bc0,XRAY,Abdomen,XR ABD KUB,55-59,male,"FINDINGS:
+BOWEL: The bowel gas pattern is unremarkable. No air fluid levels/dilatation. 
+PERITONEUM/SOFT TISSUES: No appreciable free air. No abnormal calcifications.
+ORGANS OUTLINE: Liver, spleen, and renal outlines are unremarkable where visualized.
+BONES: No acute osseous abnormality.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+1. No acute abnormalities.",No definite radiopaque calculus identified overlying the expected locations of either kidney or along the expected course of the ureters. Multiple pelvic phleboliths are noted. Nonobstructive bowel gas pattern without evidence of dilated small or large bowel loops. Moderate colonic stool burden. No abnormal bowel wall thickening or pneumoperitoneum evident on this single supine view. Visualized osseous structures demonstrate mild degenerative changes of the lower lumbar spine and sacroiliac joints. No acute osseous abnormality identified. Visualized lung bases are grossly clear. No definite radiopaque renal or ureteral calculus identified. Nonobstructive bowel gas pattern with moderate colonic stool burden. Pelvic phleboliths.
+f6b3620a-65d6-49f7-9fe8-13a3ed4681fc,USG,Pelvis,PELVIC; COMPLETE,35-39,female,"FINDINGS:
+UTERUS/CERVIX: Anteverted and measures  cm. Myometrium is homogeneous. 
+The cervix is normal in appearance.
+ENDOMETRIUM: Central and measures ~  mm in thickness.
+RIGHT OVARY: Measures  cm. Normal echotexture without any focal lesion.
+LEFT OVARY: Measures  cm. Normal echotexture without any focal lesion.
+FREE FLUID: No free fluid in the cul-de-sac.
+OTHER FINDINGS:
+
+
+IMPRESSION:
+Unremarkable pelvic ultrasound.","Uterus- appears normal, anteverted, no focal or diffuse lesion.
+Uterus volume- 100.9 cm3
+L x W x H- 9.0 x 5.08 x 4.1 cm
+ET-1.2 cm
+
+Ovaries and bilateral adnexae- not visualized due to bowel.
+
+No free fluid in pelvis.
+Urinary bladder appears normal."
+f7b1aa6a-9ef5-41b0-9175-55c9b80d5cd8,CT,Brain,CT BRAIN WO-B,70-74,male,"FINDINGS:
+BRAIN: Brain parenchyma appears normal in attenuation and morphology. No midline shift or intra extra-axial collection. Gray-white matter differentiation is preserved.
+VENTRICLES: The ventricles are normal in size and configuration.
+ORBITS: The globes and retrobulbar soft tissues are symmetric and unremarkable.
+SINUSES AND MASTOIDS: The paranasal sinuses and mastoid air cells are clear.
+SOFT TISSUES: No significant facial or scalp soft tissue swelling evident. 
+BONES: No acute skull fracture or lesion.
+
+IMPRESSION:
+No acute intracranial abnormality.","There is a left cerebral convexity subdural collection, predominantly low attenuation with a small residual higher-attenuation component, measuring up to approximately 12–13 mm in maximal thickness on the provided images. This likely represents a subacute/chronic subdural hematoma with possible small acute/subacute component. Mild associated mass effect upon the underlying left cerebral hemisphere with mild effacement of adjacent cortical sulci. No significant midline shift is identified on the provided images. Postsurgical changes of the calvarium are present, compatible with prior evacuation/craniotomy. No acute calvarial fracture identified. Mild generalized cerebral volume loss with prominence of the ventricles and cortical sulci. No hydrocephalus. No large territorial acute infarction. No intraparenchymal hemorrhage identified. Basal cisterns remain patent. Visualized paranasal sinuses and mastoid air cells are without significant acute abnormality. Left cerebral convexity subdural hematoma/collection, measuring up to approximately 12–13 mm in thickness, with mixed attenuation suggesting subacute/chronic blood products with a small acute/subacute component. Mild associated mass effect without significant midline shift. Postsurgical changes related to prior subdural hematoma evacuation. No hydrocephalus or large acute territorial infarction."

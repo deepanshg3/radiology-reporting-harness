@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated artifacts (not committed)
+outputs/
+checkpoints/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

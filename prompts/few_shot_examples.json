@@ -1,0 +1,27 @@
+{
+"examples": [
+{
+"name": "prose-cervical-spine-xray",
+"template": "FINDINGS:\nThe spinal alignment is maintained without evidence of spondylolisthesis.\nThe vertebral body and disc space heights are preserved.\nNo acute fracture is identified.\nThe odontoid process is intact.\nNo lytic or blastic lesions.\nThe paravertebral soft tissues are normal.\n\nIMPRESSION:\nUnremarkable X-ray of the cervical spine.",
+"dictation": "straightened cervical lordosis, positional or myospasm\nno fracture listhesis\nno signfiicant neural foraminal stenosis",
+"output": {
+"findings_edits": {
+"FINDINGS": "Straightening of the cervical lordosis, likely positional or related to muscle spasm.\nNo fracture or listhesis is identified.\nNo significant neural foraminal stenosis is present.\nNo lytic or blastic lesions.\nThe paravertebral soft tissues are normal."
+},
+"impression": "Straightening of the cervical lordosis without fracture or listhesis. No significant neural foraminal stenosis."
+}
+},
+{
+"name": "sectioned-lumbar-spine",
+"template": "FINDINGS:\nVERTEBRAE: Normal density and alignment. No fracture or osseous lesion.\nDISC SPACES: Preserved.\nSOFT TISSUES: Unremarkable.\n\nIMPRESSION:\nNo acute abnormality evident in the [generic] spine.",
+"dictation": "Mild lower lumbar facet degenerative changes.\n\nRest is normal.",
+"output": {
+"findings_edits": {
+"VERTEBRAE": "Normal alignment. Mild lower lumbar facet degenerative changes are present. No acute fracture or osseous lesion."
+},
+"impression": "Mild lower lumbar facet degenerative changes. No acute abnormality."
+}
+}
+]
+}
+
