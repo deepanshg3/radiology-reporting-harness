@@ -23,7 +23,7 @@ from pathlib import Path
 
 from src.data_loader import TestCase
 from src.errors import InvalidModelOutput, MockFailure
-from src.prompt_builder import build_prompt
+from src.prompt_builder import retrieval_prompt_builder
 from src.response_parser import Edits, parse_edits, parse_model_text
 from src.template_editor import parse_template
 
@@ -81,7 +81,7 @@ class GeminiReportGenerator(ReportGenerator):
         model: str,
         temperature: float = 0.2,
         max_output_tokens: int = 8192,
-        prompt_builder=build_prompt,
+        prompt_builder=retrieval_prompt_builder,
     ):
         from google import genai
 

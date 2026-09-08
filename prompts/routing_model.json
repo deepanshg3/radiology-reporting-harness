@@ -1,0 +1,7333 @@
+{
+  "by_modality_bodypart": {
+    "CT / Abdomen": {
+      "ADRENAL GLANDS": 0.4286,
+      "BONES": 0.7143,
+      "GALLBLADDER AND BILIARY TREE": 0.5714,
+      "KIDNEYS AND URETERS": 0.5714,
+      "LIVER": 0.5714,
+      "LYMPH NODES": 0.5714,
+      "MAJOR VESSELS": 0.5714,
+      "PANCREAS": 0.4286,
+      "PERITONEUM": 0.5714,
+      "REPRODUCTIVE": 0.7143,
+      "SPLEEN": 0.4286,
+      "STOMACH AND BOWEL": 0.7143,
+      "URINARY BLADDER": 0.4286
+    },
+    "CT / Ankle": {},
+    "CT / Brain": {},
+    "CT / Cervical spine": {},
+    "CT / Chest": {
+      "CARDIOVASCULAR": 0.6842,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6842,
+      "LUNGS/AIRWAYS": 0.4211,
+      "LUNGS/AIRWAYS/PLEURA": 0.3158,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3684,
+      "OTHER FINDINGS": 0.3684,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.2632,
+      "UPPER ABDOMEN": 0.3158
+    },
+    "CT / Face": {},
+    "CT / Foot": {
+      "JOINTS": 1.0,
+      "OSSEOUS STRUCTURES": 1.0
+    },
+    "CT / Head": {
+      "BONES": 0.6,
+      "BRAIN": 1.0
+    },
+    "CT / Hip": {},
+    "CT / Knee": {},
+    "CT / Neck": {},
+    "CT / Pelvis": {},
+    "CT / Shoulder": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "GLENOHUMERAL JOINT": 1.0,
+      "SOFT TISSUES": 1.0
+    },
+    "CT / Unknown": {},
+    "CT / Upper extremity": {},
+    "MRI / Abdomen": {
+      "ADRENALS": 0.4286,
+      "GALLBLADDER AND BILE DUCTS": 0.5714,
+      "KIDNEYS": 0.8571,
+      "LIVER": 0.8571,
+      "LYMPH NODES": 0.7143,
+      "OTHER FINDINGS": 0.4286,
+      "PANCREAS": 0.8571,
+      "SPLEEN": 0.7143,
+      "STOMACH AND BOWEL": 0.5714
+    },
+    "MRI / Ankle": {
+      "BONES": 0.8333,
+      "CARTILAGE": 0.8333,
+      "EXTENSOR": 0.8333,
+      "FLEXOR": 0.8333,
+      "FLUID": 1.0,
+      "LATERAL COLLATERAL": 0.5,
+      "MEDIAL COLLATERAL": 0.5,
+      "PERONEAL": 0.8333,
+      "PLANTAR FASCIA": 0.8333
+    },
+    "MRI / Brain": {
+      "BONES": 0.3333,
+      "BRAIN": 1.0,
+      "ORBITS": 0.3333,
+      "SINUSES AND MASTOIDS": 0.8,
+      "VENTRICLES": 0.8
+    },
+    "MRI / Cervical spine": {
+      "Alignment": 0.875,
+      "C2-3": 0.625,
+      "C3-4": 0.625,
+      "C4-5": 0.8125,
+      "C5-6": 0.8125,
+      "C6-7": 0.875,
+      "C7-T1": 0.5625,
+      "Paravertebral Soft Tissues": 0.5,
+      "Spinal Cord": 0.875,
+      "Vertebral Bodies": 0.6875
+    },
+    "MRI / Elbow": {
+      "BONES": 1.0,
+      "CARTILAGE": 1.0,
+      "FLUID": 1.0
+    },
+    "MRI / Foot": {
+      "BONES": 1.0,
+      "CARTILAGE": 0.5,
+      "EXTENSOR": 0.8333,
+      "FLEXOR": 0.8333,
+      "FLUID": 0.8333,
+      "LATERAL COLLATERAL": 0.8333,
+      "LISFRANC": 0.6667,
+      "MEDIAL COLLATERAL": 0.5,
+      "MUSCLES": 0.5,
+      "OTHER FINDINGS": 0.6667,
+      "PERONEAL": 0.5,
+      "PLANTAR FASCIA": 0.5
+    },
+    "MRI / Hand": {},
+    "MRI / Head": {
+      "BONES": 0.3,
+      "BRAIN": 0.75,
+      "ORBITS": 0.35,
+      "SINUSES AND MASTOIDS": 0.45,
+      "VENTRICLES": 0.4
+    },
+    "MRI / Hip": {
+      "ABDUCTORS": 0.5,
+      "BONES": 1.0,
+      "CARTILAGE": 0.625,
+      "EXTENSORS/HAMSTRING": 0.375,
+      "FLEXORS": 0.375,
+      "FLUID": 0.875,
+      "LABRUM": 0.5,
+      "MUSCLES": 0.875,
+      "OTHER FINDINGS": 0.375
+    },
+    "MRI / Knee": {
+      "Articular Cartilage": 0.85,
+      "Bursae": 0.25,
+      "Extensor Mechanism": 0.65,
+      "Joint": 0.95,
+      "Musculature": 0.25,
+      "Osseous Structures": 0.95,
+      "Soft Tissues": 0.6
+    },
+    "MRI / Leg": {},
+    "MRI / Liver": {
+      "LIVER": 1.0
+    },
+    "MRI / Lsspine": {},
+    "MRI / Lumbar spine": {
+      "ALIGNMENT": 0.9333,
+      "DISCS/DEGENERATIVE CHANGES": 1.0,
+      "L1-L2": 0.8667,
+      "L2-L3": 0.8667,
+      "L3-L4": 0.9333,
+      "L4-L5": 1.0,
+      "L5-S1": 1.0,
+      "PARASPINAL SOFT TISSUES": 0.7333,
+      "SPINAL CORD": 0.8667,
+      "VERTEBRAE": 1.0
+    },
+    "MRI / Neck": {},
+    "MRI / Pelvis": {
+      "BLADDER": 0.8333,
+      "BONES": 0.8333,
+      "LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.6667,
+      "REPRODUCTIVE": 1.0
+    },
+    "MRI / Shoulder": {
+      "ACROMIOCLAVICULAR JOINT": 0.9048,
+      "BICEPS ANCHOR COMPLEX": 0.4286,
+      "BONES": 0.9524,
+      "GLENOHUMERAL JOINT": 0.9524,
+      "INFRASPINATUS": 0.4762,
+      "MUSCLES": 0.5238,
+      "PERIARTICULAR SOFT TISSUE": 0.381,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.4286,
+      "SUBSCAPULARIS": 0.5238,
+      "SUPRASPINATUS": 0.5714,
+      "TERES MINOR": 0.5238
+    },
+    "MRI / Thoracic spine": {
+      "ALIGNMENT": 0.8333,
+      "DISCS/DEGENERATIVE CHANGES": 0.8333,
+      "PARASPINAL SOFT TISSUES": 0.6667,
+      "SPINAL CORD": 0.6667,
+      "VERTEBRAE": 0.6667
+    },
+    "MRI / Wrist": {},
+    "USG / Abdomen": {},
+    "USG / Leg": {},
+    "USG / Liver": {},
+    "USG / Neck": {},
+    "USG / Pelvis": {},
+    "USG / Unknown": {
+      "DEEP VEINS": 0.75,
+      "SOFT TISSUES": 0.5,
+      "SUPERFICIAL VEINS": 0.375
+    },
+    "USG / Upper extremity": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.7,
+      "SUPERFICIAL VEINS": 0.4
+    },
+    "XRAY / Abdomen": {
+      "BONES": 0.75,
+      "BOWEL": 0.75
+    },
+    "XRAY / Ankle": {
+      "Bones": 0.3333,
+      "Joint Spaces and alignment": 0.6667,
+      "Soft Tissues": 0.3333
+    },
+    "XRAY / Cervical spine": {},
+    "XRAY / Chest": {
+      "BONES": 0.6667,
+      "LUNGS": 0.6667,
+      "MEDIASTINUM/HILA": 0.375
+    },
+    "XRAY / Clavicle": {},
+    "XRAY / Elbow": {
+      "BONES": 0.8333,
+      "JOINTS": 0.6667
+    },
+    "XRAY / Femur": {
+      "BONES": 1.0,
+      "JOINTS": 0.8333,
+      "SOFT TISSUES": 0.5
+    },
+    "XRAY / Finger": {},
+    "XRAY / Foot": {
+      "BONES": 0.7297,
+      "JOINTS": 0.7568,
+      "SOFT TISSUES": 0.4054
+    },
+    "XRAY / Forearm": {},
+    "XRAY / Forearm bone": {},
+    "XRAY / Hand": {
+      "BONES": 0.3939,
+      "JOINTS": 0.8182,
+      "SOFT TISSUES": 0.3333
+    },
+    "XRAY / Hand finger": {},
+    "XRAY / Hip": {
+      "BONES": 0.6296,
+      "JOINTS": 0.8519,
+      "SOFT TISSUES": 0.2593
+    },
+    "XRAY / Humerus": {},
+    "XRAY / Knee": {
+      "BONES": 0.7018,
+      "JOINTS": 0.9298,
+      "SOFT TISSUES": 0.2807
+    },
+    "XRAY / Leg": {
+      "BONES": 1.0,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 1.0
+    },
+    "XRAY / Lumbar spine": {
+      "DISC SPACES": 0.8478,
+      "SOFT TISSUES": 0.5217,
+      "VERTEBRAE": 0.9783
+    },
+    "XRAY / Neck": {},
+    "XRAY / Pelvis": {
+      "BONES": 0.2667,
+      "Hip Joints": 0.4667,
+      "JOINTS": 0.5333,
+      "SOFT TISSUES": 0.2667,
+      "Sacroiliac Joints & Pubic Symphysis": 0.3333
+    },
+    "XRAY / Ribs": {
+      "BONES": 1.0
+    },
+    "XRAY / Sacrum": {},
+    "XRAY / Shoulder": {
+      "BONES": 0.4872,
+      "JOINTS": 0.8462,
+      "SOFT TISSUES": 0.3846
+    },
+    "XRAY / Shoulder scapula": {},
+    "XRAY / Skull": {},
+    "XRAY / Spine sacrum": {},
+    "XRAY / Thoracic spine": {
+      "DISC SPACES": 0.75,
+      "SOFT TISSUES": 0.3333,
+      "VERTEBRAE": 1.0
+    },
+    "XRAY / Wrist": {
+      "BONES": 0.625,
+      "JOINTS": 0.75,
+      "SOFT TISSUES": 0.2917
+    }
+  },
+  "by_term": {
+    "1st": {
+      "BONES": 0.5833,
+      "JOINTS": 1.0
+    },
+    "5th": {
+      "BONES": 0.6667,
+      "JOINTS": 0.8889,
+      "SOFT TISSUES": 0.8889
+    },
+    "abdomen": {
+      "CARDIOVASCULAR": 0.6875,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6562,
+      "LUNGS/AIRWAYS": 0.3125,
+      "LUNGS/AIRWAYS/PLEURA": 0.375,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2812,
+      "OTHER FINDINGS": 0.3438,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.375,
+      "UPPER ABDOMEN": 0.375
+    },
+    "abdominal": {
+      "CHEST WALL/MUSCULOSKELETAL": 0.2545,
+      "LIVER": 0.3455,
+      "LYMPH NODES": 0.3273,
+      "OTHER FINDINGS": 0.2727,
+      "PANCREAS": 0.3455,
+      "SPLEEN": 0.3091,
+      "STOMACH AND BOWEL": 0.3091
+    },
+    "abnormal": {
+      "BONES": 0.4531,
+      "BRAIN": 0.3281,
+      "VENTRICLES": 0.25
+    },
+    "abnormality": {
+      "BONES": 0.4684,
+      "SOFT TISSUES": 0.3323
+    },
+    "about": {
+      "BONES": 0.8333,
+      "JOINTS": 0.6667,
+      "SOFT TISSUES": 0.6111
+    },
+    "abscess": {
+      "BONES": 0.8,
+      "EXTENSOR": 0.5333,
+      "FLEXOR": 0.5333,
+      "FLUID": 0.5333,
+      "LATERAL COLLATERAL": 0.4,
+      "LISFRANC": 0.4,
+      "OTHER FINDINGS": 0.6,
+      "PERONEAL": 0.4667
+    },
+    "abutment": {
+      "ALIGNMENT": 1.0,
+      "DISCS/DEGENERATIVE CHANGES": 1.0,
+      "L1-L2": 1.0,
+      "L2-L3": 1.0,
+      "L3-L4": 1.0,
+      "L4-L5": 1.0,
+      "L5-S1": 1.0,
+      "SPINAL CORD": 1.0
+    },
+    "acetabular": {
+      "ABDUCTORS": 0.5217,
+      "BONES": 0.913,
+      "CARTILAGE": 0.5217,
+      "EXTENSORS/HAMSTRING": 0.3478,
+      "FLUID": 0.5652,
+      "JOINTS": 0.3913,
+      "LABRUM": 0.5217,
+      "MUSCLES": 0.5652
+    },
+    "acetabulum": {
+      "ABDUCTORS": 0.3,
+      "BONES": 1.0,
+      "CARTILAGE": 0.3,
+      "FLUID": 0.4,
+      "JOINTS": 0.4,
+      "LABRUM": 0.3,
+      "MUSCLES": 0.4,
+      "SOFT TISSUES": 0.5
+    },
+    "achilles": {
+      "BONES": 1.0,
+      "CARTILAGE": 0.6111,
+      "EXTENSOR": 0.7222,
+      "FLEXOR": 0.7222,
+      "FLUID": 0.7222,
+      "LATERAL COLLATERAL": 0.5556,
+      "PERONEAL": 0.7222,
+      "PLANTAR FASCIA": 0.7222
+    },
+    "acl": {
+      "Articular Cartilage": 0.84,
+      "Extensor Mechanism": 0.56,
+      "Joint": 0.96,
+      "Osseous Structures": 0.96,
+      "Soft Tissues": 0.6
+    },
+    "acromio": {
+      "JOINTS": 0.7143
+    },
+    "acromioclavicular": {
+      "ACROMIOCLAVICULAR JOINT": 0.5063,
+      "BONES": 0.9367,
+      "GLENOHUMERAL JOINT": 0.5063,
+      "INFRASPINATUS": 0.2785,
+      "JOINTS": 0.4937,
+      "MUSCLES": 0.2785,
+      "SOFT TISSUES": 0.4051,
+      "SUBSCAPULARIS": 0.2785
+    },
+    "acromion": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.9375,
+      "INFRASPINATUS": 0.625,
+      "MUSCLES": 0.625,
+      "SUBSCAPULARIS": 0.6875,
+      "SUPRASPINATUS": 0.6875,
+      "TERES MINOR": 0.6875
+    },
+    "active": {
+      "BONES": 0.5,
+      "BONES AND SOFT TISSUES": 0.25,
+      "HEART AND MEDIASTINUM": 0.25,
+      "LUNGS": 0.6667,
+      "MEDIASTINUM/HILA": 0.4167,
+      "OTHER FINDINGS": 0.25
+    },
+    "acute": {
+      "BONES": 0.545,
+      "JOINTS": 0.3514,
+      "SOFT TISSUES": 0.3905
+    },
+    "additional": {
+      "BONES": 0.6071,
+      "JOINTS": 0.4643,
+      "SOFT TISSUES": 0.6071
+    },
+    "adenoma": {
+      "CARDIOVASCULAR": 0.5714,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5714,
+      "LUNGS/AIRWAYS": 0.5714,
+      "OTHER FINDINGS": 0.5714,
+      "PLEURA": 0.5714
+    },
+    "adequately": {
+      "LIVER": 0.7143,
+      "LYMPH NODES": 0.4286,
+      "PANCREAS": 0.4286,
+      "PERITONEUM": 0.4286,
+      "REPRODUCTIVE": 0.4286,
+      "SPLEEN": 0.4286
+    },
+    "adhesive": {
+      "ACROMIOCLAVICULAR JOINT": 0.8333,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.8333,
+      "INFRASPINATUS": 0.6667,
+      "MUSCLES": 0.6667,
+      "SUBSCAPULARIS": 0.6667,
+      "SUPRASPINATUS": 0.6667,
+      "TERES MINOR": 0.6667
+    },
+    "adjacent": {
+      "BONES": 0.76,
+      "FLUID": 0.2667,
+      "MUSCLES": 0.2667
+    },
+    "administration": {
+      "BONES": 0.7143,
+      "BRAIN": 0.4286,
+      "ORBITS": 0.4286,
+      "SINUSES AND MASTOIDS": 0.4286,
+      "VENTRICLES": 0.4286
+    },
+    "adnexal": {
+      "ENDOMETRIUM": 0.7143,
+      "FREE FLUID": 0.7143,
+      "LEFT OVARY": 0.7143,
+      "OTHER FINDINGS": 0.7143,
+      "RIGHT OVARY": 0.7143,
+      "UTERUS/CERVIX": 0.7143
+    },
+    "adrenal": {
+      "CARDIOVASCULAR": 0.35,
+      "CHEST WALL/MUSCULOSKELETAL": 0.45,
+      "KIDNEYS": 0.35,
+      "LIVER": 0.45,
+      "LYMPH NODES": 0.4,
+      "OTHER FINDINGS": 0.45,
+      "PANCREAS": 0.45,
+      "SPLEEN": 0.35
+    },
+    "advanced": {
+      "BONES": 0.4894,
+      "JOINTS": 0.4043,
+      "SOFT TISSUES": 0.5319,
+      "VERTEBRAE": 0.2766
+    },
+    "advised": {
+      "CARDIOVASCULAR": 0.3333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3333,
+      "LUNGS/AIRWAYS": 0.25,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.25,
+      "OTHER FINDINGS": 0.4167,
+      "SOFT TISSUES": 0.25
+    },
+    "again": {
+      "BONES": 0.3333,
+      "CARDIOVASCULAR": 0.4286,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4762,
+      "LUNGS/AIRWAYS": 0.5238,
+      "OTHER FINDINGS": 0.5238,
+      "PLEURA": 0.4286
+    },
+    "age": {
+      "BONES": 0.5,
+      "BRAIN": 0.5,
+      "SINUSES AND MASTOIDS": 0.2857,
+      "VENTRICLES": 0.3571
+    },
+    "aggressive": {
+      "BONES": 0.875,
+      "JOINTS": 0.5417,
+      "SOFT TISSUES": 0.625
+    },
+    "air": {
+      "BONES": 0.4478,
+      "BRAIN": 0.3731,
+      "CARDIOVASCULAR": 0.2985,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3134,
+      "SINUSES AND MASTOIDS": 0.3134,
+      "VENTRICLES": 0.3134
+    },
+    "airspace": {
+      "BONES": 0.375,
+      "CARDIOVASCULAR": 0.375,
+      "CHEST WALL/MUSCULOSKELETAL": 0.375,
+      "LUNGS": 0.625,
+      "LUNGS/AIRWAYS": 0.375,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.375,
+      "OTHER FINDINGS": 0.5
+    },
+    "airways": {
+      "CARDIOVASCULAR": 0.76,
+      "CHEST WALL/MUSCULOSKELETAL": 0.72,
+      "LUNGS/AIRWAYS": 0.4,
+      "LUNGS/AIRWAYS/PLEURA": 0.36,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4,
+      "OTHER FINDINGS": 0.32,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.32,
+      "UPPER ABDOMEN": 0.36
+    },
+    "alignment": {
+      "BONES": 0.6405,
+      "JOINTS": 0.5686,
+      "SOFT TISSUES": 0.4967
+    },
+    "along": {
+      "BONES": 0.5366,
+      "Joint": 0.2683,
+      "Osseous Structures": 0.2683,
+      "SOFT TISSUES": 0.2683
+    },
+    "alteration": {
+      "Articular Cartilage": 0.6667,
+      "Joint": 0.6667,
+      "OTHER FINDINGS": 0.8333,
+      "Osseous Structures": 0.6667
+    },
+    "altered": {
+      "ALIGNMENT": 0.5,
+      "DISCS/DEGENERATIVE CHANGES": 0.5,
+      "L3-L4": 0.5,
+      "L4-L5": 0.5,
+      "L5-S1": 0.5,
+      "OTHER FINDINGS": 0.625,
+      "PARASPINAL SOFT TISSUES": 0.5,
+      "SPINAL CORD": 0.5
+    },
+    "anatomic": {
+      "BONES": 0.9091,
+      "JOINTS": 0.8636,
+      "SOFT TISSUES": 0.5455
+    },
+    "aneurysm": {
+      "LUNGS/AIRWAYS/PLEURA": 0.5,
+      "UPPER ABDOMEN": 0.5
+    },
+    "angle": {
+      "BONES": 0.5556,
+      "BRAIN": 0.3333,
+      "DISC SPACES": 0.4444,
+      "SOFT TISSUES": 0.4444,
+      "VERTEBRAE": 0.4444
+    },
+    "ankle": {
+      "BONES": 0.6471,
+      "EXTENSOR": 0.2647,
+      "FLEXOR": 0.2647,
+      "FLUID": 0.2941,
+      "PERONEAL": 0.2647,
+      "PLANTAR FASCIA": 0.2647,
+      "SOFT TISSUES": 0.4412
+    },
+    "annual": {
+      "BONES AND SOFT TISSUES": 0.8333,
+      "HEART AND MEDIASTINUM": 0.8333,
+      "LUNGS": 0.8333,
+      "PLEURAL SPACES": 0.5
+    },
+    "annular": {
+      "ALIGNMENT": 0.5714,
+      "DISCS/DEGENERATIVE CHANGES": 0.5714,
+      "L1-L2": 0.5714,
+      "L2-L3": 0.5714,
+      "L3-L4": 0.5714,
+      "L4-L5": 0.5714,
+      "L5-S1": 0.5714,
+      "PARASPINAL SOFT TISSUES": 0.5714
+    },
+    "anterior": {
+      "BONES": 0.283
+    },
+    "anterolisthesis": {
+      "ALIGNMENT": 0.2857,
+      "DISC SPACES": 0.5714,
+      "DISCS/DEGENERATIVE CHANGES": 0.2857,
+      "L1-L2": 0.2857,
+      "L2-L3": 0.2857,
+      "L3-L4": 0.2857,
+      "SOFT TISSUES": 0.4286,
+      "VERTEBRAE": 0.8571
+    },
+    "anterosuperior": {
+      "ABDUCTORS": 1.0,
+      "BONES": 1.0,
+      "CARTILAGE": 1.0,
+      "EXTENSORS/HAMSTRING": 0.6667,
+      "FLEXORS": 0.6667,
+      "FLUID": 1.0,
+      "LABRUM": 1.0,
+      "MUSCLES": 1.0
+    },
+    "aorta": {
+      "CARDIOVASCULAR": 0.4769,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4462
+    },
+    "aortic": {
+      "BONES AND SOFT TISSUES": 0.2727,
+      "CARDIOVASCULAR": 0.3182,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3182,
+      "HEART AND MEDIASTINUM": 0.2727,
+      "LUNGS": 0.3636,
+      "LUNGS/AIRWAYS/PLEURA": 0.2727,
+      "UPPER ABDOMEN": 0.3182
+    },
+    "apical": {
+      "CARDIOVASCULAR": 0.7143,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7143,
+      "LUNGS/AIRWAYS/PLEURA": 0.7143,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.7143,
+      "UPPER ABDOMEN": 0.7143
+    },
+    "appear": {
+      "BONES": 0.3182,
+      "SOFT TISSUES": 0.2727
+    },
+    "appearance": {
+      "BONES": 0.3913
+    },
+    "appearing": {
+      "BONES": 0.7,
+      "LUNGS": 0.3,
+      "OTHER FINDINGS": 0.3
+    },
+    "appears": {
+      "BONES": 0.5769
+    },
+    "appropriate": {
+      "BONES": 0.3333,
+      "DEEP VEINS": 0.2857,
+      "OTHER FINDINGS": 0.3333
+    },
+    "approximately": {
+      "OTHER FINDINGS": 0.2537
+    },
+    "architectural": {
+      "CARDIOVASCULAR": 0.8333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8333,
+      "LUNGS/AIRWAYS": 0.8333,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.8333,
+      "OTHER FINDINGS": 0.8333
+    },
+    "areas": {
+      "BONES": 0.4286
+    },
+    "around": {
+      "ACROMIOCLAVICULAR JOINT": 0.3,
+      "BONES": 0.6,
+      "SOFT TISSUES": 0.3
+    },
+    "arterial": {
+      "BONES": 0.5833,
+      "BRAIN": 0.6667,
+      "ORBITS": 0.4167,
+      "SINUSES AND MASTOIDS": 0.5833,
+      "VENTRICLES": 0.4167
+    },
+    "arteries": {
+      "CARDIOVASCULAR": 0.3226,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3226,
+      "OTHER FINDINGS": 0.2581
+    },
+    "artery": {
+      "CARDIOVASCULAR": 0.5789,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "LUNGS/AIRWAYS": 0.2632,
+      "LUNGS/AIRWAYS/PLEURA": 0.3158,
+      "OTHER FINDINGS": 0.2632,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3158,
+      "UPPER ABDOMEN": 0.3684
+    },
+    "arthrographic": {
+      "ACROMIOCLAVICULAR JOINT": 0.8462,
+      "BONES": 0.9231,
+      "GLENOHUMERAL JOINT": 0.8462,
+      "INFRASPINATUS": 0.6154,
+      "MUSCLES": 0.6923,
+      "SUBSCAPULARIS": 0.6154,
+      "SUPRASPINATUS": 0.6154,
+      "TERES MINOR": 0.6154
+    },
+    "arthropathy": {
+      "ALIGNMENT": 0.3451,
+      "DISC SPACES": 0.3097,
+      "DISCS/DEGENERATIVE CHANGES": 0.3717,
+      "L1-L2": 0.3097,
+      "L4-L5": 0.3363,
+      "L5-S1": 0.3363,
+      "SOFT TISSUES": 0.354,
+      "VERTEBRAE": 0.6726
+    },
+    "arthroplasty": {
+      "BONES": 0.8333,
+      "JOINTS": 0.4444,
+      "SOFT TISSUES": 0.3889
+    },
+    "arthrosis": {
+      "BONES": 0.3846,
+      "DISC SPACES": 0.6154,
+      "SOFT TISSUES": 0.6923,
+      "VERTEBRAE": 0.6154
+    },
+    "articular": {
+      "ACROMIOCLAVICULAR JOINT": 0.2935,
+      "Articular Cartilage": 0.3804,
+      "BONES": 0.5761,
+      "Extensor Mechanism": 0.2717,
+      "GLENOHUMERAL JOINT": 0.3043,
+      "Joint": 0.4022,
+      "MUSCLES": 0.2826,
+      "Osseous Structures": 0.3587
+    },
+    "articulation": {
+      "BONES": 1.0,
+      "JOINTS": 0.6667
+    },
+    "ascending": {
+      "CARDIOVASCULAR": 0.6667,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5
+    },
+    "ascites": {
+      "GALLBLADDER AND BILE DUCTS": 0.4286,
+      "KIDNEYS": 0.5714,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.5714,
+      "PANCREAS": 0.7143,
+      "SPLEEN": 0.5714,
+      "STOMACH AND BOWEL": 0.5714
+    },
+    "aspect": {
+      "BONES": 0.5714,
+      "OTHER FINDINGS": 0.2571
+    },
+    "assessment": {
+      "ACROMIOCLAVICULAR JOINT": 0.2727,
+      "BICEPS ANCHOR COMPLEX": 0.2727,
+      "BONES": 0.3636,
+      "GLENOHUMERAL JOINT": 0.2727,
+      "LIGAMENTS": 0.2727,
+      "OTHER FINDINGS": 0.2727,
+      "PERIARTICULAR SOFT TISSUE": 0.2727,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.2727
+    },
+    "associated": {
+      "BONES": 0.338
+    },
+    "atelectatic": {
+      "BONES": 0.3125,
+      "CARDIOVASCULAR": 0.5208,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5625,
+      "LUNGS": 0.3542,
+      "LUNGS/AIRWAYS": 0.3125,
+      "LUNGS/AIRWAYS/PLEURA": 0.25,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2708,
+      "OTHER FINDINGS": 0.2708
+    },
+    "atherosclerotic": {
+      "CARDIOVASCULAR": 0.3766,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3506,
+      "SOFT TISSUES": 0.2987
+    },
+    "atrophy": {
+      "ACROMIOCLAVICULAR JOINT": 0.3333,
+      "BONES": 0.6667,
+      "BRAIN": 0.4524,
+      "GLENOHUMERAL JOINT": 0.3333,
+      "INFRASPINATUS": 0.2619,
+      "MUSCLES": 0.4048,
+      "SINUSES AND MASTOIDS": 0.3095,
+      "SUBSCAPULARIS": 0.2619
+    },
+    "attenuation": {
+      "BONES": 0.5714,
+      "CARDIOVASCULAR": 0.4286,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4286
+    },
+    "augmentation": {
+      "DEEP VEINS": 0.8,
+      "SOFT TISSUES": 0.9,
+      "SUPERFICIAL VEINS": 0.5
+    },
+    "available": {
+      "BONES": 0.6,
+      "OTHER FINDINGS": 0.3333,
+      "SOFT TISSUES": 0.4
+    },
+    "avascular": {
+      "ABDUCTORS": 0.2727,
+      "BONES": 0.7273,
+      "CARTILAGE": 0.2727,
+      "FLUID": 0.2727,
+      "JOINTS": 0.3182,
+      "LABRUM": 0.2727,
+      "MUSCLES": 0.2727,
+      "SOFT TISSUES": 0.4545
+    },
+    "axial": {
+      "BONES": 0.4889,
+      "BRAIN": 0.8667,
+      "ORBITS": 0.4,
+      "SINUSES AND MASTOIDS": 0.7111,
+      "VENTRICLES": 0.7556
+    },
+    "axillary": {
+      "CARDIOVASCULAR": 0.5333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5333,
+      "LUNGS/AIRWAYS/PLEURA": 0.4,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.4,
+      "UPPER ABDOMEN": 0.4
+    },
+    "baker": {
+      "Articular Cartilage": 0.6364,
+      "DEEP VEINS": 0.3182,
+      "Extensor Mechanism": 0.4091,
+      "Joint": 0.6818,
+      "Musculature": 0.3182,
+      "Osseous Structures": 0.6818,
+      "SOFT TISSUES": 0.3182,
+      "Soft Tissues": 0.4545
+    },
+    "band": {
+      "Articular Cartilage": 0.5556,
+      "BONES": 0.3333,
+      "Bursae": 0.5556,
+      "CARTILAGE": 0.3333,
+      "Extensor Mechanism": 0.5556,
+      "Joint": 0.5556,
+      "Osseous Structures": 0.5556,
+      "Soft Tissues": 0.5556
+    },
+    "bands": {
+      "CARDIOVASCULAR": 1.0,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8571,
+      "LUNGS/AIRWAYS/PLEURA": 0.7143,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.5714,
+      "UPPER ABDOMEN": 0.5714
+    },
+    "basal": {
+      "BONES": 0.2963,
+      "BRAIN": 0.5556,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3704,
+      "ORBITS": 0.2593,
+      "OTHER FINDINGS": 0.2593,
+      "SINUSES AND MASTOIDS": 0.4815,
+      "VENTRICLES": 0.5556
+    },
+    "base": {
+      "BONES": 0.8571,
+      "EXTENSOR": 0.2857,
+      "FLEXOR": 0.2857,
+      "FLUID": 0.2857,
+      "JOINTS": 0.2857,
+      "LATERAL COLLATERAL": 0.2857,
+      "LISFRANC": 0.2857,
+      "MUSCLES": 0.3333
+    },
+    "based": {
+      "Alignment": 0.375,
+      "C2-3": 0.375,
+      "C3-4": 0.375,
+      "C4-5": 0.375,
+      "C5-6": 0.375,
+      "C6-7": 0.375,
+      "DISCS/DEGENERATIVE CHANGES": 0.3929,
+      "VERTEBRAE": 0.3929
+    },
+    "basilar": {
+      "BONES": 1.0,
+      "HEART": 0.3333,
+      "JOINTS": 0.4444,
+      "LUNGS": 0.5556,
+      "MEDIASTINUM/HILA": 0.3333,
+      "PLEURAL SPACES": 0.5556,
+      "SOFT TISSUES": 0.4444
+    },
+    "bearing": {
+      "DISC SPACES": 0.6957,
+      "SOFT TISSUES": 0.6957,
+      "VERTEBRAE": 0.7826
+    },
+    "benign": {
+      "BONES": 0.25,
+      "BONES AND SOFT TISSUES": 0.25,
+      "CARDIOVASCULAR": 0.25,
+      "CHEST WALL/MUSCULOSKELETAL": 0.25,
+      "HEART AND MEDIASTINUM": 0.25,
+      "LUNGS": 0.25
+    },
+    "biapical": {
+      "CARDIOVASCULAR": 0.625,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "LUNGS": 0.375,
+      "LUNGS/AIRWAYS": 0.3125,
+      "LUNGS/AIRWAYS/PLEURA": 0.3125,
+      "OTHER FINDINGS": 0.375,
+      "PLEURA": 0.3125,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3125
+    },
+    "bibasilar": {
+      "BONES": 0.2778,
+      "BONES AND SOFT TISSUES": 0.3333,
+      "CARDIOVASCULAR": 0.2778,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2778,
+      "HEART AND MEDIASTINUM": 0.3889,
+      "LUNGS": 0.7222,
+      "MEDIASTINUM/HILA": 0.2778
+    },
+    "biceps": {
+      "ACROMIOCLAVICULAR JOINT": 0.8958,
+      "BONES": 0.9375,
+      "GLENOHUMERAL JOINT": 0.875,
+      "INFRASPINATUS": 0.6042,
+      "MUSCLES": 0.6458,
+      "SUBSCAPULARIS": 0.625,
+      "SUPRASPINATUS": 0.625,
+      "TERES MINOR": 0.625
+    },
+    "bicipital": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 1.0,
+      "INFRASPINATUS": 0.6429,
+      "MUSCLES": 0.6429,
+      "SUBSCAPULARIS": 0.6429,
+      "SUPRASPINATUS": 0.6429,
+      "TERES MINOR": 0.6429
+    },
+    "bilateral": {
+      "ALIGNMENT": 0.3103,
+      "DISCS/DEGENERATIVE CHANGES": 0.3166,
+      "L1-L2": 0.2853,
+      "L3-L4": 0.3041,
+      "L4-L5": 0.3103,
+      "L5-S1": 0.3103,
+      "SPINAL CORD": 0.2915,
+      "VERTEBRAE": 0.348
+    },
+    "bilaterally": {
+      "BONES": 0.4375,
+      "CARDIOVASCULAR": 0.25,
+      "JOINTS": 0.25,
+      "SOFT TISSUES": 0.3125
+    },
+    "bile": {
+      "GALLBLADDER": 0.4167,
+      "GALLBLADDER AND BILE DUCTS": 0.4167,
+      "KIDNEYS": 0.6667,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.5,
+      "PANCREAS": 1.0,
+      "SPLEEN": 0.9167,
+      "STOMACH AND BOWEL": 0.3333
+    },
+    "biliary": {
+      "GALLBLADDER": 0.3333,
+      "GALLBLADDER AND BILE DUCTS": 0.5185,
+      "KIDNEYS": 0.6296,
+      "LIVER": 0.963,
+      "LYMPH NODES": 0.5556,
+      "PANCREAS": 0.9259,
+      "SPLEEN": 0.8148,
+      "STOMACH AND BOWEL": 0.4815
+    },
+    "bladder": {
+      "ADRENAL GLANDS": 0.36,
+      "BLADDER": 0.48,
+      "BONES": 0.88,
+      "LIVER": 0.4,
+      "LYMPH NODES": 0.8,
+      "PERITONEUM": 0.4,
+      "REPRODUCTIVE": 0.88,
+      "STOMACH AND BOWEL": 0.4
+    },
+    "blastic": {
+      "BONES": 0.5,
+      "JOINTS": 0.5,
+      "SOFT TISSUES": 0.5
+    },
+    "bodies": {
+      "DISC SPACES": 0.4595,
+      "SOFT TISSUES": 0.4324,
+      "VERTEBRAE": 0.6486
+    },
+    "body": {
+      "SOFT TISSUES": 0.2993,
+      "VERTEBRAE": 0.3946
+    },
+    "bone": {
+      "BONES": 0.75,
+      "JOINTS": 0.3864,
+      "SOFT TISSUES": 0.2727
+    },
+    "bones": {
+      "BONES": 0.7838,
+      "JOINTS": 0.3784,
+      "SOFT TISSUES": 0.2973
+    },
+    "bony": {
+      "BONES": 0.7647,
+      "JOINTS": 0.4706,
+      "OTHER FINDINGS": 0.2941,
+      "SOFT TISSUES": 0.4118
+    },
+    "bosniak": {
+      "ADRENALS": 1.0,
+      "GALLBLADDER AND BILE DUCTS": 0.6667,
+      "KIDNEYS": 1.0,
+      "LIVER": 0.6667,
+      "LYMPH NODES": 1.0,
+      "PANCREAS": 1.0,
+      "SPLEEN": 1.0
+    },
+    "bowel": {
+      "BONES": 0.6207,
+      "BOWEL": 0.3793,
+      "LIVER": 0.4828,
+      "LYMPH NODES": 0.5517,
+      "PANCREAS": 0.4138,
+      "REPRODUCTIVE": 0.4138,
+      "SPLEEN": 0.3448,
+      "STOMACH AND BOWEL": 0.4483
+    },
+    "brain": {
+      "BONES": 0.7778,
+      "BRAIN": 0.8519,
+      "ORBITS": 0.5926,
+      "SINUSES AND MASTOIDS": 0.6296,
+      "VENTRICLES": 0.5926
+    },
+    "brainstem": {
+      "BONES": 0.4706,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5882,
+      "SINUSES AND MASTOIDS": 0.8235,
+      "VENTRICLES": 0.8824
+    },
+    "brevis": {
+      "BONES": 1.0,
+      "CARTILAGE": 1.0,
+      "EXTENSOR": 1.0,
+      "FLEXOR": 1.0,
+      "FLUID": 1.0,
+      "LATERAL COLLATERAL": 1.0,
+      "MEDIAL COLLATERAL": 1.0,
+      "PERONEAL": 1.0
+    },
+    "broad": {
+      "Alignment": 0.4884,
+      "C2-3": 0.4884,
+      "C3-4": 0.4884,
+      "C4-5": 0.4884,
+      "C5-6": 0.4884,
+      "C6-7": 0.4884,
+      "DISCS/DEGENERATIVE CHANGES": 0.5116,
+      "VERTEBRAE": 0.5116
+    },
+    "bronchiectasis": {
+      "CARDIOVASCULAR": 0.7692,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7692,
+      "LUNGS/AIRWAYS": 0.5385,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5385,
+      "OTHER FINDINGS": 0.5385
+    },
+    "bulge": {
+      "ALIGNMENT": 0.7054,
+      "DISCS/DEGENERATIVE CHANGES": 0.7232,
+      "L1-L2": 0.6518,
+      "L2-L3": 0.6518,
+      "L3-L4": 0.6875,
+      "L4-L5": 0.7054,
+      "L5-S1": 0.7054,
+      "VERTEBRAE": 0.7143
+    },
+    "bulges": {
+      "ALIGNMENT": 0.6923,
+      "Alignment": 0.3077,
+      "C4-5": 0.3077,
+      "C5-6": 0.3077,
+      "DISCS/DEGENERATIVE CHANGES": 0.6923,
+      "PARASPINAL SOFT TISSUES": 0.6154,
+      "SPINAL CORD": 0.6154,
+      "VERTEBRAE": 0.6154
+    },
+    "bulk": {
+      "ACROMIOCLAVICULAR JOINT": 0.3889,
+      "BONES": 0.7778,
+      "FLUID": 0.3333,
+      "GLENOHUMERAL JOINT": 0.3889,
+      "INFRASPINATUS": 0.3333,
+      "MUSCLES": 0.7222,
+      "SUBSCAPULARIS": 0.3333,
+      "SUPRASPINATUS": 0.3333
+    },
+    "burden": {
+      "DISC SPACES": 0.6667,
+      "SOFT TISSUES": 0.6667,
+      "VERTEBRAE": 0.6667
+    },
+    "bursa": {
+      "ACROMIOCLAVICULAR JOINT": 0.8261,
+      "BONES": 0.913,
+      "GLENOHUMERAL JOINT": 0.8696,
+      "INFRASPINATUS": 0.6522,
+      "MUSCLES": 0.7826,
+      "SUBSCAPULARIS": 0.6522,
+      "SUPRASPINATUS": 0.6957,
+      "TERES MINOR": 0.6522
+    },
+    "bursal": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 1.0,
+      "INFRASPINATUS": 0.6667,
+      "MUSCLES": 0.6667,
+      "SUBSCAPULARIS": 0.6667,
+      "SUPRASPINATUS": 0.6667,
+      "TERES MINOR": 0.6667
+    },
+    "bursitis": {
+      "ACROMIOCLAVICULAR JOINT": 0.75,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.75,
+      "INFRASPINATUS": 0.3929,
+      "MUSCLES": 0.6429,
+      "SUBSCAPULARIS": 0.3929,
+      "SUPRASPINATUS": 0.3929,
+      "TERES MINOR": 0.3929
+    },
+    "calcaneal": {
+      "BONES": 0.9048,
+      "JOINTS": 0.7143,
+      "SOFT TISSUES": 0.6667
+    },
+    "calcific": {
+      "ACROMIOCLAVICULAR JOINT": 0.3636,
+      "BICEPS ANCHOR COMPLEX": 0.3636,
+      "BONES": 0.5909,
+      "GLENOHUMERAL JOINT": 0.3636,
+      "PERIARTICULAR SOFT TISSUE": 0.3636,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.3636
+    },
+    "calcification": {
+      "BONES": 0.2895,
+      "CARDIOVASCULAR": 0.2895,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2895,
+      "SOFT TISSUES": 0.3421
+    },
+    "calcifications": {
+      "BONES": 0.3256,
+      "CARDIOVASCULAR": 0.4186,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3953,
+      "JOINTS": 0.2791,
+      "SOFT TISSUES": 0.2791,
+      "UPPER ABDOMEN": 0.3256
+    },
+    "calcified": {
+      "BONES AND SOFT TISSUES": 0.3846,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3077,
+      "HEART AND MEDIASTINUM": 0.4231,
+      "LUNGS": 0.4231,
+      "LYMPH NODES": 0.3462
+    },
+    "calculi": {
+      "CARDIOVASCULAR": 0.3077,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3077,
+      "GALLBLADDER AND BILE DUCTS": 0.3077,
+      "KIDNEYS": 0.5385,
+      "LIVER": 0.5385,
+      "LYMPH NODES": 0.3846,
+      "PANCREAS": 0.5385,
+      "SPLEEN": 0.5385
+    },
+    "calculus": {
+      "GALLBLADDER AND BILIARY TREE": 0.5909,
+      "KIDNEYS AND URETERS": 0.5909,
+      "LIVER": 0.7273,
+      "LYMPH NODES": 0.7273,
+      "PANCREAS": 0.7727,
+      "PERITONEUM": 0.5909,
+      "SPLEEN": 0.7727,
+      "STOMACH AND BOWEL": 0.6364
+    },
+    "calf": {
+      "DEEP VEINS": 0.8571,
+      "SOFT TISSUES": 0.5714
+    },
+    "caliber": {
+      "Alignment": 0.2727,
+      "C4-5": 0.2727,
+      "C5-6": 0.2727,
+      "C6-7": 0.2727,
+      "LIVER": 0.25,
+      "PANCREAS": 0.25,
+      "Spinal Cord": 0.2727
+    },
+    "callosum": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.8333,
+      "VENTRICLES": 1.0
+    },
+    "callus": {
+      "BONES": 0.6667,
+      "JOINTS": 0.5
+    },
+    "calvarial": {
+      "BONES": 1.0,
+      "BRAIN": 0.4286,
+      "SINUSES": 0.4286,
+      "SOFT TISSUES": 0.4286,
+      "VENTRICLES": 0.4286
+    },
+    "calvarium": {
+      "BONES": 0.875,
+      "BRAIN": 0.875,
+      "ORBITS": 0.625,
+      "SINUSES AND MASTOIDS": 0.75,
+      "VENTRICLES": 0.625
+    },
+    "canal": {
+      "ALIGNMENT": 0.5512,
+      "DISCS/DEGENERATIVE CHANGES": 0.561,
+      "L3-L4": 0.4634,
+      "L4-L5": 0.4732,
+      "L5-S1": 0.4732,
+      "PARASPINAL SOFT TISSUES": 0.478,
+      "SPINAL CORD": 0.4976,
+      "VERTEBRAE": 0.561
+    },
+    "cannot": {
+      "BONES": 0.6154,
+      "JOINTS": 0.3846,
+      "SOFT TISSUES": 0.3077
+    },
+    "capsular": {
+      "ACROMIOCLAVICULAR JOINT": 0.9091,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.9091,
+      "INFRASPINATUS": 0.6364,
+      "MUSCLES": 0.6364,
+      "SUBSCAPULARIS": 0.6364,
+      "SUPRASPINATUS": 0.6364,
+      "TERES MINOR": 0.6364
+    },
+    "capsule": {
+      "ACROMIOCLAVICULAR JOINT": 0.8571,
+      "BONES": 0.8571,
+      "GLENOHUMERAL JOINT": 0.7143,
+      "INFRASPINATUS": 0.5714,
+      "MUSCLES": 0.5714,
+      "SUBSCAPULARIS": 0.7143,
+      "SUPRASPINATUS": 0.7143,
+      "TERES MINOR": 0.7143
+    },
+    "capsulitis": {
+      "ACROMIOCLAVICULAR JOINT": 0.875,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.875,
+      "INFRASPINATUS": 0.5,
+      "MUSCLES": 0.5,
+      "SUBSCAPULARIS": 0.5,
+      "SUPRASPINATUS": 0.5,
+      "TERES MINOR": 0.5
+    },
+    "cardiac": {
+      "BONES": 0.25,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "HEART": 0.25,
+      "LUNGS": 0.4167,
+      "LUNGS/AIRWAYS": 0.25,
+      "LUNGS/AIRWAYS/PLEURA": 0.25,
+      "UPPER ABDOMEN": 0.4167
+    },
+    "cardiomediastinal": {
+      "BONES": 0.8667,
+      "HEART": 0.2667,
+      "LUNGS": 0.9333,
+      "MEDIASTINUM/HILA": 0.6
+    },
+    "cardiopulmonary": {
+      "BONES": 0.8182,
+      "LUNGS": 0.7273,
+      "MEDIASTINUM/HILA": 0.4545
+    },
+    "cardiovascular": {
+      "CARDIOVASCULAR": 0.8889,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6667,
+      "LUNGS/AIRWAYS": 0.6667,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5556,
+      "OTHER FINDINGS": 0.5556,
+      "PLEURA": 0.3333
+    },
+    "carotid": {
+      "LEFT COMMON CAROTID ARTERY": 0.7333,
+      "LEFT ICA/CCA RATIO": 0.7333,
+      "LEFT INTERNAL CAROTID ARTERY": 0.7333,
+      "LEFT VERTEBRAL ARTERY": 0.7333,
+      "RIGHT COMMON CAROTID ARTERY": 0.7333,
+      "RIGHT ICA/CCA RATIO": 0.7333,
+      "RIGHT INTERNAL CAROTID ARTERY": 0.7333,
+      "RIGHT VERTEBRAL ARTERY": 0.7333
+    },
+    "carpal": {
+      "BONES": 0.8095,
+      "JOINTS": 0.9524,
+      "SOFT TISSUES": 0.5714
+    },
+    "carpometacarpal": {
+      "BONES": 0.9259,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.7778
+    },
+    "cartilage": {
+      "Articular Cartilage": 0.6452,
+      "BONES": 0.3226,
+      "Bursae": 0.2742,
+      "Extensor Mechanism": 0.4516,
+      "Joint": 0.629,
+      "Musculature": 0.2742,
+      "Osseous Structures": 0.6613,
+      "Soft Tissues": 0.3387
+    },
+    "cauda": {
+      "ALIGNMENT": 1.0,
+      "DISCS/DEGENERATIVE CHANGES": 1.0,
+      "L3-L4": 1.0,
+      "L4-L5": 1.0,
+      "L5-S1": 1.0,
+      "PARASPINAL SOFT TISSUES": 0.9286,
+      "SPINAL CORD": 1.0,
+      "VERTEBRAE": 1.0
+    },
+    "causing": {
+      "ALIGNMENT": 0.5333,
+      "DISCS/DEGENERATIVE CHANGES": 0.5556,
+      "L1-L2": 0.4667,
+      "L3-L4": 0.5111,
+      "L4-L5": 0.5333,
+      "L5-S1": 0.5333,
+      "SPINAL CORD": 0.4889,
+      "VERTEBRAE": 0.5556
+    },
+    "cavernous": {
+      "BONES": 0.6667,
+      "BRAIN": 0.6667,
+      "ORBITS": 0.6667,
+      "SINUSES AND MASTOIDS": 0.6667,
+      "VENTRICLES": 0.6667
+    },
+    "cavitary": {
+      "BONES": 0.5,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "LUNGS": 0.5,
+      "LUNGS/AIRWAYS/PLEURA": 0.375,
+      "MEDIASTINUM/HILA": 0.5,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.375,
+      "UPPER ABDOMEN": 0.375
+    },
+    "cavity": {
+      "BONES": 0.625,
+      "OTHER FINDINGS": 0.5
+    },
+    "cbd": {
+      "ADRENALS": 0.375,
+      "GALLBLADDER AND BILE DUCTS": 1.0,
+      "KIDNEYS": 1.0,
+      "LIVER": 1.0,
+      "LYMPH NODES": 1.0,
+      "OTHER FINDINGS": 0.625,
+      "PANCREAS": 1.0,
+      "SPLEEN": 1.0
+    },
+    "cells": {
+      "BONES": 0.5926,
+      "BRAIN": 0.9259,
+      "ORBITS": 0.5185,
+      "SINUSES AND MASTOIDS": 0.7778,
+      "VENTRICLES": 0.7778
+    },
+    "cellulitis": {
+      "BONES": 0.7,
+      "EXTENSOR": 0.4,
+      "FLEXOR": 0.4,
+      "FLUID": 0.4,
+      "LATERAL COLLATERAL": 0.4,
+      "LIGAMENTS": 0.4,
+      "MEDIAL COLLATERAL": 0.4,
+      "PERONEAL": 0.4
+    },
+    "centered": {
+      "BONES": 0.5556,
+      "DISC SPACES": 0.3333,
+      "JOINTS": 0.3333,
+      "LIGAMENTS": 0.3333,
+      "SOFT TISSUES": 0.3333,
+      "TENDONS": 0.3333,
+      "VERTEBRAE": 0.3333
+    },
+    "central": {
+      "ALIGNMENT": 0.4444,
+      "DISCS/DEGENERATIVE CHANGES": 0.4506,
+      "L1-L2": 0.4074,
+      "L2-L3": 0.4074,
+      "L3-L4": 0.4136,
+      "L4-L5": 0.4198,
+      "L5-S1": 0.4198,
+      "VERTEBRAE": 0.4444
+    },
+    "centrilobular": {
+      "BONES AND SOFT TISSUES": 0.5,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "HEART AND MEDIASTINUM": 0.5,
+      "LUNGS": 0.5,
+      "LUNGS/AIRWAYS/PLEURA": 0.3,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3,
+      "UPPER ABDOMEN": 0.5
+    },
+    "cerebellar": {
+      "BONES": 0.3,
+      "BRAIN": 0.9,
+      "ORBITS": 0.4,
+      "SINUSES AND MASTOIDS": 0.4,
+      "VENTRICLES": 0.8
+    },
+    "cerebellum": {
+      "BONES": 0.5333,
+      "BRAIN": 1.0,
+      "ORBITS": 0.6667,
+      "SINUSES AND MASTOIDS": 0.8667,
+      "VENTRICLES": 0.8667
+    },
+    "cerebral": {
+      "BONES": 0.4468,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5532,
+      "SINUSES AND MASTOIDS": 0.766,
+      "VENTRICLES": 0.9149
+    },
+    "cervical": {
+      "Alignment": 0.4029,
+      "C2-3": 0.2518,
+      "C3-4": 0.2518,
+      "C4-5": 0.3525,
+      "C5-6": 0.3525,
+      "C6-7": 0.4029,
+      "Spinal Cord": 0.4029,
+      "Vertebral Bodies": 0.3669
+    },
+    "change": {
+      "BONES": 0.5168
+    },
+    "changes": {
+      "BONES": 0.4823,
+      "JOINTS": 0.3746,
+      "SOFT TISSUES": 0.2862
+    },
+    "characterization": {
+      "BONES": 0.4286,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4286,
+      "LUNGS/AIRWAYS": 0.4286,
+      "OTHER FINDINGS": 0.5714,
+      "PLEURA": 0.4286
+    },
+    "characterized": {
+      "BONES": 0.7333,
+      "JOINTS": 0.8,
+      "SOFT TISSUES": 0.5333
+    },
+    "chest": {
+      "CARDIOVASCULAR": 0.6,
+      "CHEST WALL/MUSCULOSKELETAL": 0.64,
+      "LUNGS/AIRWAYS": 0.26,
+      "LUNGS/AIRWAYS/PLEURA": 0.4,
+      "OTHER FINDINGS": 0.26,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.34,
+      "UPPER ABDOMEN": 0.4
+    },
+    "chnges": {
+      "JOINTS": 0.8182
+    },
+    "cholecystectomy": {
+      "ADRENALS": 0.3333,
+      "GALLBLADDER AND BILE DUCTS": 0.3333,
+      "KIDNEYS": 0.3333,
+      "LIVER": 0.5556,
+      "LYMPH NODES": 0.3333,
+      "PANCREAS": 0.5556,
+      "SPLEEN": 0.4444
+    },
+    "chondral": {
+      "Articular Cartilage": 0.5294,
+      "BONES": 0.4118,
+      "Extensor Mechanism": 0.4118,
+      "Joint": 0.5686,
+      "MUSCLES": 0.3137,
+      "Osseous Structures": 0.5882,
+      "Soft Tissues": 0.3529
+    },
+    "chondrosis": {
+      "Articular Cartilage": 0.8,
+      "Bursae": 0.4,
+      "Extensor Mechanism": 0.6,
+      "Joint": 0.7,
+      "Musculature": 0.5,
+      "Osseous Structures": 0.8,
+      "Soft Tissues": 0.5
+    },
+    "chronic": {
+      "BONES": 0.6213,
+      "BRAIN": 0.284,
+      "JOINTS": 0.2544,
+      "SOFT TISSUES": 0.2781
+    },
+    "cisterns": {
+      "BONES": 0.7,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.9,
+      "VENTRICLES": 0.9
+    },
+    "clavicle": {
+      "ACROMIOCLAVICULAR JOINT": 0.3,
+      "BONES": 0.9,
+      "GLENOHUMERAL JOINT": 0.3,
+      "JOINTS": 0.7,
+      "OTHER FINDINGS": 0.5,
+      "SOFT TISSUES": 0.5
+    },
+    "clavicular": {
+      "ACROMIOCLAVICULAR JOINT": 0.3636,
+      "BONES": 0.5455,
+      "GLENOHUMERAL JOINT": 0.2727,
+      "JOINTS": 0.6364
+    },
+    "clear": {
+      "BONES": 0.5625,
+      "BRAIN": 0.4062,
+      "ORBITS": 0.25,
+      "SINUSES AND MASTOIDS": 0.3125,
+      "VENTRICLES": 0.3125
+    },
+    "clinical": {
+      "BONES": 0.3721,
+      "OTHER FINDINGS": 0.3256
+    },
+    "clinically": {
+      "BONES": 0.4444,
+      "OTHER FINDINGS": 0.3333
+    },
+    "clips": {
+      "BONES": 0.6,
+      "DISC SPACES": 0.4,
+      "JOINTS": 0.5,
+      "SOFT TISSUES": 0.9,
+      "VERTEBRAE": 0.4
+    },
+    "cmc": {
+      "BONES": 0.8571,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.6429
+    },
+    "collapse": {
+      "BONES": 1.0,
+      "JOINTS": 0.7778,
+      "SOFT TISSUES": 0.4444
+    },
+    "collateral": {
+      "Articular Cartilage": 0.7869,
+      "Extensor Mechanism": 0.5246,
+      "Joint": 0.8197,
+      "Musculature": 0.2787,
+      "Osseous Structures": 0.8689,
+      "Soft Tissues": 0.541
+    },
+    "collection": {
+      "BONES": 0.4831,
+      "BRAIN": 0.3034,
+      "SINUSES AND MASTOIDS": 0.2584,
+      "SOFT TISSUES": 0.2584,
+      "VENTRICLES": 0.2697
+    },
+    "colonic": {
+      "ADRENAL GLANDS": 0.3571,
+      "GALLBLADDER AND BILIARY TREE": 0.3571,
+      "KIDNEYS AND URETERS": 0.3571,
+      "LIVER": 0.5714,
+      "LYMPH NODES": 0.4286,
+      "PANCREAS": 0.5,
+      "SPLEEN": 0.5,
+      "STOMACH AND BOWEL": 0.5714
+    },
+    "color": {
+      "DEEP VEINS": 0.8,
+      "SOFT TISSUES": 0.5333,
+      "SUPERFICIAL VEINS": 0.4
+    },
+    "common": {
+      "DEEP VEINS": 0.3429,
+      "LIVER": 0.3714,
+      "PANCREAS": 0.3714,
+      "SOFT TISSUES": 0.3143,
+      "SPLEEN": 0.3429
+    },
+    "compared": {
+      "CARDIOVASCULAR": 0.3333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2778,
+      "LUNGS/AIRWAYS": 0.2778,
+      "OTHER FINDINGS": 0.2778,
+      "VERTEBRAE": 0.25
+    },
+    "compartment": {
+      "Articular Cartilage": 0.4483,
+      "BONES": 0.5057,
+      "Extensor Mechanism": 0.2989,
+      "JOINTS": 0.5057,
+      "Joint": 0.4713,
+      "Osseous Structures": 0.4943,
+      "SOFT TISSUES": 0.3103,
+      "Soft Tissues": 0.2989
+    },
+    "compartments": {
+      "Articular Cartilage": 0.2727,
+      "BONES": 0.6364,
+      "JOINTS": 0.6364,
+      "Osseous Structures": 0.2727,
+      "SOFT TISSUES": 0.5455
+    },
+    "compatible": {
+      "BONES": 0.7465,
+      "FLUID": 0.2535
+    },
+    "complete": {
+      "Articular Cartilage": 0.35,
+      "BONES": 0.35,
+      "Joint": 0.4,
+      "Osseous Structures": 0.4,
+      "Soft Tissues": 0.3
+    },
+    "complex": {
+      "Alignment": 0.4194,
+      "C2-3": 0.4194,
+      "C3-4": 0.4194,
+      "C4-5": 0.4194,
+      "C5-6": 0.4194,
+      "C6-7": 0.4194,
+      "C7-T1": 0.4194,
+      "Spinal Cord": 0.4194
+    },
+    "complexes": {
+      "Articular Cartilage": 0.375,
+      "BONES": 0.5,
+      "Extensor Mechanism": 0.375,
+      "Osseous Structures": 0.375
+    },
+    "complication": {
+      "BONES": 0.4375,
+      "DISC SPACES": 0.25,
+      "JOINTS": 0.5625,
+      "SOFT TISSUES": 0.5,
+      "VERTEBRAE": 0.25
+    },
+    "component": {
+      "BONES": 0.3,
+      "LYMPH NODES": 0.3,
+      "OTHER FINDINGS": 0.3
+    },
+    "components": {
+      "BONES": 0.7143,
+      "SOFT TISSUES": 0.4286
+    },
+    "compressibility": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.8182,
+      "SUPERFICIAL VEINS": 0.6364
+    },
+    "compressible": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.4444,
+      "SUPERFICIAL VEINS": 0.3333
+    },
+    "compression": {
+      "ALIGNMENT": 0.3333,
+      "DISC SPACES": 0.3571,
+      "DISCS/DEGENERATIVE CHANGES": 0.3333,
+      "PARASPINAL SOFT TISSUES": 0.2738,
+      "SOFT TISSUES": 0.3095,
+      "SPINAL CORD": 0.3095,
+      "VERTEBRAE": 0.7024
+    },
+    "concern": {
+      "BONES": 0.4667,
+      "JOINTS": 0.4667,
+      "SOFT TISSUES": 0.5333
+    },
+    "condyle": {
+      "Articular Cartilage": 0.8333,
+      "Bursae": 0.2778,
+      "Extensor Mechanism": 0.5556,
+      "Joint": 0.8889,
+      "OTHER FINDINGS": 0.2778,
+      "Osseous Structures": 0.8889,
+      "Soft Tissues": 0.3889
+    },
+    "configuration": {
+      "BONES": 0.4,
+      "BRAIN": 0.7,
+      "ORBITS": 0.3,
+      "SINUSES AND MASTOIDS": 0.5,
+      "VENTRICLES": 0.4
+    },
+    "considered": {
+      "BONES": 0.3889,
+      "JOINTS": 0.3333,
+      "OTHER FINDINGS": 0.3889
+    },
+    "consolidation": {
+      "CARDIOVASCULAR": 0.5577,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5769,
+      "LUNGS": 0.3846,
+      "LUNGS/AIRWAYS": 0.3269,
+      "LUNGS/AIRWAYS/PLEURA": 0.2692,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3077,
+      "OTHER FINDINGS": 0.3077,
+      "UPPER ABDOMEN": 0.2885
+    },
+    "contour": {
+      "BONES": 0.5333,
+      "GALLBLADDER AND BILE DUCTS": 0.2667,
+      "JOINTS": 0.2667,
+      "KIDNEYS": 0.2667,
+      "LIVER": 0.5333,
+      "LYMPH NODES": 0.3333,
+      "PANCREAS": 0.4,
+      "STOMACH AND BOWEL": 0.4
+    },
+    "contrast": {
+      "BONES": 0.4634
+    },
+    "contusion": {
+      "ACROMIOCLAVICULAR JOINT": 0.2857,
+      "Articular Cartilage": 0.2857,
+      "BONES": 0.5,
+      "Extensor Mechanism": 0.2857,
+      "GLENOHUMERAL JOINT": 0.2857,
+      "Joint": 0.2857,
+      "LIGAMENTS": 0.2857,
+      "Osseous Structures": 0.2857
+    },
+    "conus": {
+      "ALIGNMENT": 1.0,
+      "DISCS/DEGENERATIVE CHANGES": 1.0,
+      "L3-L4": 0.8077,
+      "L4-L5": 0.8077,
+      "L5-S1": 0.8077,
+      "PARASPINAL SOFT TISSUES": 0.9231,
+      "SPINAL CORD": 0.9615,
+      "VERTEBRAE": 0.9615
+    },
+    "cord": {
+      "Alignment": 0.6667,
+      "C2-3": 0.5385,
+      "C3-4": 0.5385,
+      "C4-5": 0.6154,
+      "C5-6": 0.6154,
+      "C6-7": 0.6667,
+      "Spinal Cord": 0.6667,
+      "Vertebral Bodies": 0.5897
+    },
+    "coronary": {
+      "BONES AND SOFT TISSUES": 0.303,
+      "CARDIOVASCULAR": 0.6364,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6061,
+      "HEART AND MEDIASTINUM": 0.3333,
+      "LUNGS": 0.303,
+      "LUNGS/AIRWAYS": 0.3333,
+      "OTHER FINDINGS": 0.3333,
+      "UPPER ABDOMEN": 0.3636
+    },
+    "corpus": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.8333,
+      "VENTRICLES": 1.0
+    },
+    "correlate": {
+      "BONES": 0.6667,
+      "JOINTS": 0.3333,
+      "OTHER FINDINGS": 0.4167
+    },
+    "correlation": {
+      "BONES": 0.3448,
+      "OTHER FINDINGS": 0.4138
+    },
+    "corresponding": {
+      "BONES": 0.625,
+      "BRAIN": 0.375,
+      "ORBITS": 0.375,
+      "VENTRICLES": 0.375
+    },
+    "cortical": {
+      "BONES": 0.5938,
+      "BRAIN": 0.25,
+      "LIVER": 0.25,
+      "PANCREAS": 0.2969,
+      "SOFT TISSUES": 0.25,
+      "SPLEEN": 0.2812,
+      "VENTRICLES": 0.25
+    },
+    "craniocervical": {
+      "Alignment": 0.5714,
+      "C2-3": 0.5714,
+      "C3-4": 0.5714,
+      "C4-5": 0.5714,
+      "C5-6": 0.5714,
+      "C6-7": 0.5714,
+      "C7-T1": 0.5714,
+      "Spinal Cord": 0.5714
+    },
+    "criteria": {
+      "CARDIOVASCULAR": 0.7778,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7778,
+      "LUNGS/AIRWAYS/PLEURA": 0.5556,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.5556,
+      "UPPER ABDOMEN": 0.5556
+    },
+    "cruciate": {
+      "Articular Cartilage": 0.8684,
+      "Bursae": 0.3421,
+      "Extensor Mechanism": 0.6842,
+      "Joint": 0.8947,
+      "Musculature": 0.3421,
+      "Osseous Structures": 0.9737,
+      "Soft Tissues": 0.6579
+    },
+    "cuff": {
+      "ACROMIOCLAVICULAR JOINT": 0.6835,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.6962,
+      "INFRASPINATUS": 0.3924,
+      "MUSCLES": 0.3924,
+      "SUBSCAPULARIS": 0.3924,
+      "SUPRASPINATUS": 0.3924,
+      "TERES MINOR": 0.3924
+    },
+    "curvature": {
+      "BONES": 0.2667,
+      "DISC SPACES": 0.7333,
+      "LUNGS": 0.2667,
+      "MEDIASTINUM/HILA": 0.2667,
+      "SOFT TISSUES": 0.5333,
+      "VERTEBRAE": 0.7333
+    },
+    "cyst": {
+      "Articular Cartilage": 0.2727,
+      "Joint": 0.2909,
+      "Osseous Structures": 0.2909
+    },
+    "cystic": {
+      "ACROMIOCLAVICULAR JOINT": 0.3529,
+      "BONES": 0.7843,
+      "GLENOHUMERAL JOINT": 0.3725,
+      "MUSCLES": 0.3137
+    },
+    "cysts": {
+      "ADRENALS": 0.4348,
+      "GALLBLADDER AND BILE DUCTS": 0.5217,
+      "KIDNEYS": 0.5217,
+      "LIVER": 0.5217,
+      "LYMPH NODES": 0.5217,
+      "OTHER FINDINGS": 0.3478,
+      "PANCREAS": 0.5217,
+      "SPLEEN": 0.3478
+    },
+    "decreased": {
+      "DISC SPACES": 0.375,
+      "JOINTS": 0.25,
+      "VERTEBRAE": 0.4375
+    },
+    "dedicated": {
+      "BONES": 0.2857,
+      "OTHER FINDINGS": 0.4286,
+      "SINUSES AND MASTOIDS": 0.2857
+    },
+    "deep": {
+      "BONES": 0.2545,
+      "DEEP VEINS": 0.6182,
+      "SOFT TISSUES": 0.4545
+    },
+    "defect": {
+      "Articular Cartilage": 0.4062,
+      "BONES": 0.4062,
+      "Extensor Mechanism": 0.2812,
+      "Joint": 0.4062,
+      "Osseous Structures": 0.4375,
+      "Soft Tissues": 0.3125
+    },
+    "defects": {
+      "DISC SPACES": 0.4286,
+      "VERTEBRAE": 0.4286
+    },
+    "defined": {
+      "ADRENALS": 0.3,
+      "BONES": 0.3,
+      "GALLBLADDER AND BILE DUCTS": 0.3,
+      "KIDNEYS": 0.3,
+      "LYMPH NODES": 0.4,
+      "PANCREAS": 0.3,
+      "STOMACH AND BOWEL": 0.3,
+      "VASCULATURE": 0.3
+    },
+    "definite": {
+      "Articular Cartilage": 0.3,
+      "BONES": 0.35,
+      "Joint": 0.325,
+      "Osseous Structures": 0.325,
+      "Soft Tissues": 0.2625
+    },
+    "deformity": {
+      "BONES": 0.2653,
+      "DISC SPACES": 0.4286,
+      "JOINTS": 0.2857,
+      "SOFT TISSUES": 0.5918,
+      "VERTEBRAE": 0.5714
+    },
+    "degen": {
+      "JOINTS": 0.8077
+    },
+    "degeneration": {
+      "Articular Cartilage": 0.52,
+      "Extensor Mechanism": 0.4,
+      "Joint": 0.6,
+      "Osseous Structures": 0.6,
+      "Soft Tissues": 0.36
+    },
+    "degenerative": {
+      "BONES": 0.4569,
+      "JOINTS": 0.3587,
+      "SOFT TISSUES": 0.3908,
+      "VERTEBRAE": 0.2525
+    },
+    "delayed": {
+      "ADRENAL GLANDS": 1.0,
+      "LIVER": 1.0,
+      "LYMPH NODES": 1.0,
+      "PANCREAS": 1.0,
+      "PERITONEUM": 1.0,
+      "REPRODUCTIVE": 1.0,
+      "SPLEEN": 1.0,
+      "STOMACH AND BOWEL": 1.0
+    },
+    "demineralization": {
+      "BONES": 0.8462,
+      "JOINTS": 0.8462,
+      "SOFT TISSUES": 0.6923
+    },
+    "demonstrate": {
+      "BONES": 0.4118,
+      "SOFT TISSUES": 0.2647
+    },
+    "demonstrated": {
+      "BONES": 0.25,
+      "DEEP VEINS": 0.4167,
+      "SOFT TISSUES": 0.5
+    },
+    "demonstrates": {
+      "BONES": 0.4058
+    },
+    "density": {
+      "BONES": 1.0,
+      "BRAIN": 0.6667,
+      "SOFT TISSUES": 0.5
+    },
+    "dependent": {
+      "CARDIOVASCULAR": 0.6923,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8462,
+      "LUNGS/AIRWAYS": 0.6154,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4615,
+      "OTHER FINDINGS": 0.6923,
+      "PLEURA": 0.3846
+    },
+    "described": {
+      "BONES": 0.2667,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3333,
+      "OTHER FINDINGS": 0.5333
+    },
+    "desiccation": {
+      "ALIGNMENT": 0.65,
+      "DISCS/DEGENERATIVE CHANGES": 0.7,
+      "L1-L2": 0.45,
+      "L4-L5": 0.5,
+      "L5-S1": 0.5,
+      "PARASPINAL SOFT TISSUES": 0.55,
+      "SPINAL CORD": 0.6,
+      "VERTEBRAE": 0.675
+    },
+    "destruction": {
+      "BONES": 0.7778,
+      "OTHER FINDINGS": 0.4444,
+      "SOFT TISSUES": 0.5556
+    },
+    "destructive": {
+      "BONES": 0.5312,
+      "JOINTS": 0.4375,
+      "OTHER FINDINGS": 0.2812,
+      "SOFT TISSUES": 0.4688
+    },
+    "device": {
+      "OTHER FINDINGS": 0.5714
+    },
+    "dextroconvex": {
+      "DISC SPACES": 0.75,
+      "SOFT TISSUES": 0.375,
+      "VERTEBRAE": 0.75
+    },
+    "diameter": {
+      "ALIGNMENT": 0.4688,
+      "Alignment": 0.5,
+      "C4-5": 0.4375,
+      "C5-6": 0.4375,
+      "C6-7": 0.5,
+      "DISCS/DEGENERATIVE CHANGES": 0.4688,
+      "Spinal Cord": 0.5,
+      "VERTEBRAE": 0.4688
+    },
+    "differentiation": {
+      "BRAIN": 0.6667,
+      "VENTRICLES": 0.5
+    },
+    "diffuse": {
+      "ALIGNMENT": 0.3122,
+      "BONES": 0.328,
+      "DISCS/DEGENERATIVE CHANGES": 0.3122,
+      "L1-L2": 0.291,
+      "L3-L4": 0.3122,
+      "L4-L5": 0.3122,
+      "L5-S1": 0.3122,
+      "VERTEBRAE": 0.3598
+    },
+    "diffusion": {
+      "BONES": 0.375,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.5625,
+      "VENTRICLES": 0.875
+    },
+    "digitorum": {
+      "ACHILLES": 0.5,
+      "BONES": 1.0,
+      "CARTILAGE": 0.75,
+      "EXTENSOR": 1.0,
+      "FLEXOR": 1.0,
+      "FLUID": 1.0,
+      "PERONEAL": 1.0,
+      "PLANTAR FASCIA": 1.0
+    },
+    "dilatation": {
+      "ADRENALS": 0.3043,
+      "GALLBLADDER AND BILE DUCTS": 0.5217,
+      "KIDNEYS": 0.6522,
+      "LIVER": 0.8696,
+      "LYMPH NODES": 0.6087,
+      "PANCREAS": 0.8261,
+      "SPLEEN": 0.7826,
+      "STOMACH AND BOWEL": 0.4348
+    },
+    "dilated": {
+      "BONES": 0.4667,
+      "GALLBLADDER AND BILE DUCTS": 0.5333,
+      "KIDNEYS": 0.5333,
+      "LIVER": 0.8667,
+      "LYMPH NODES": 0.7333,
+      "PANCREAS": 0.8667,
+      "SPLEEN": 0.8,
+      "STOMACH AND BOWEL": 0.6
+    },
+    "dimension": {
+      "ACROMIOCLAVICULAR JOINT": 0.6667,
+      "BONES": 0.6667,
+      "GLENOHUMERAL JOINT": 0.6667,
+      "INFRASPINATUS": 0.6667,
+      "MUSCLES": 0.6667,
+      "SUBSCAPULARIS": 0.6667,
+      "SUPRASPINATUS": 0.6667,
+      "TERES MINOR": 0.6667
+    },
+    "disc": {
+      "ALIGNMENT": 0.3981,
+      "DISCS/DEGENERATIVE CHANGES": 0.4125,
+      "L3-L4": 0.3285,
+      "L4-L5": 0.3429,
+      "L5-S1": 0.3429,
+      "PARASPINAL SOFT TISSUES": 0.3333,
+      "SPINAL CORD": 0.3621,
+      "VERTEBRAE": 0.6427
+    },
+    "discrete": {
+      "ACROMIOCLAVICULAR JOINT": 0.28,
+      "Articular Cartilage": 0.28,
+      "BONES": 0.6,
+      "Extensor Mechanism": 0.28,
+      "GLENOHUMERAL JOINT": 0.28,
+      "INFRASPINATUS": 0.28,
+      "MUSCLES": 0.52,
+      "OTHER FINDINGS": 0.36
+    },
+    "discs": {
+      "ALIGNMENT": 0.7333,
+      "DISCS/DEGENERATIVE CHANGES": 0.7333,
+      "L3-L4": 0.5333,
+      "L4-L5": 0.5333,
+      "L5-S1": 0.5333,
+      "PARASPINAL SOFT TISSUES": 0.6,
+      "SPINAL CORD": 0.6667,
+      "VERTEBRAE": 0.7333
+    },
+    "disease": {
+      "DISC SPACES": 0.3919,
+      "SOFT TISSUES": 0.4054,
+      "VERTEBRAE": 0.473
+    },
+    "dislocation": {
+      "BONES": 0.8563,
+      "JOINTS": 0.7904,
+      "SOFT TISSUES": 0.5689
+    },
+    "displaced": {
+      "ACROMIOCLAVICULAR JOINT": 0.425,
+      "BONES": 0.9,
+      "GLENOHUMERAL JOINT": 0.425,
+      "INFRASPINATUS": 0.25,
+      "JOINTS": 0.25,
+      "MUSCLES": 0.35,
+      "OTHER FINDINGS": 0.275,
+      "SUBSCAPULARIS": 0.25
+    },
+    "displacement": {
+      "BONES": 0.6923,
+      "JOINTS": 0.5385,
+      "SOFT TISSUES": 0.5385
+    },
+    "disruption": {
+      "BONES": 0.5556,
+      "EXTENSOR": 0.3333,
+      "FLEXOR": 0.3333,
+      "FLUID": 0.3333,
+      "Joint": 0.3333,
+      "LATERAL COLLATERAL": 0.3333,
+      "MUSCLES": 0.3333,
+      "OTHER FINDINGS": 0.4444
+    },
+    "distal": {
+      "BONES": 0.712,
+      "JOINTS": 0.488,
+      "SOFT TISSUES": 0.304
+    },
+    "distended": {
+      "ADRENAL GLANDS": 0.3333,
+      "BONES": 0.5333,
+      "LIVER": 0.5333,
+      "LYMPH NODES": 0.6,
+      "PANCREAS": 0.5333,
+      "PERITONEUM": 0.4,
+      "REPRODUCTIVE": 0.6,
+      "SPLEEN": 0.5333
+    },
+    "distortion": {
+      "CARDIOVASCULAR": 0.8333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8333,
+      "LUNGS/AIRWAYS": 0.8333,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.8333,
+      "OTHER FINDINGS": 0.8333
+    },
+    "diverticulitis": {
+      "ADRENAL GLANDS": 0.5,
+      "GALLBLADDER AND BILIARY TREE": 0.5,
+      "KIDNEYS AND URETERS": 0.5,
+      "LIVER": 0.875,
+      "LYMPH NODES": 0.625,
+      "PANCREAS": 0.75,
+      "SPLEEN": 0.75,
+      "STOMACH AND BOWEL": 0.875
+    },
+    "diverticulosis": {
+      "ADRENAL GLANDS": 0.4444,
+      "GALLBLADDER AND BILIARY TREE": 0.4444,
+      "KIDNEYS AND URETERS": 0.4444,
+      "LIVER": 0.7778,
+      "LYMPH NODES": 0.5556,
+      "PANCREAS": 0.6667,
+      "SPLEEN": 0.6667,
+      "STOMACH AND BOWEL": 0.7778
+    },
+    "dome": {
+      "BONES": 0.8333,
+      "EXTENSOR": 0.5,
+      "FLEXOR": 0.5,
+      "FLUID": 0.5,
+      "PERONEAL": 0.5,
+      "PLANTAR FASCIA": 0.5
+    },
+    "doppler": {
+      "DEEP VEINS": 0.76,
+      "SOFT TISSUES": 0.72,
+      "SUPERFICIAL VEINS": 0.52
+    },
+    "dorsal": {
+      "BONES": 0.7917,
+      "EXTENSOR": 0.25,
+      "FLEXOR": 0.25,
+      "FLUID": 0.3333,
+      "JOINTS": 0.4167,
+      "LATERAL COLLATERAL": 0.25,
+      "OTHER FINDINGS": 0.375,
+      "SOFT TISSUES": 0.4167
+    },
+    "dose": {
+      "BONES AND SOFT TISSUES": 0.5,
+      "CARDIOVASCULAR": 0.2857,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3571,
+      "HEART AND MEDIASTINUM": 0.5,
+      "LUNGS": 0.5,
+      "LYMPH NODES": 0.3571
+    },
+    "drainable": {
+      "BONES": 0.9167,
+      "EXTENSOR": 0.6667,
+      "FLEXOR": 0.6667,
+      "FLUID": 0.6667,
+      "LATERAL COLLATERAL": 0.5,
+      "LIGAMENTS": 0.5,
+      "LISFRANC": 0.5,
+      "PERONEAL": 0.6667
+    },
+    "duct": {
+      "GALLBLADDER": 0.35,
+      "GALLBLADDER AND BILE DUCTS": 0.45,
+      "KIDNEYS": 0.6,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.55,
+      "PANCREAS": 1.0,
+      "SPLEEN": 0.9,
+      "STOMACH AND BOWEL": 0.4
+    },
+    "ductal": {
+      "GALLBLADDER AND BILE DUCTS": 0.5556,
+      "KIDNEYS": 0.8889,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.5556,
+      "PANCREAS": 0.8889,
+      "SPLEEN": 0.8889,
+      "STOMACH AND BOWEL": 0.5556,
+      "VASCULATURE": 0.5556
+    },
+    "dvt": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.875,
+      "SUPERFICIAL VEINS": 0.5
+    },
+    "dynamic": {
+      "DISC SPACES": 0.5,
+      "SOFT TISSUES": 0.4,
+      "VERTEBRAE": 0.5
+    },
+    "early": {
+      "BONES": 0.4483,
+      "JOINTS": 0.5172
+    },
+    "echogenic": {
+      "DEEP VEINS": 0.7143,
+      "SOFT TISSUES": 0.6429,
+      "SUPERFICIAL VEINS": 0.3571
+    },
+    "echogenicity": {
+      "AORTA": 0.375,
+      "COMMON BILE DUCT": 0.375,
+      "GALLBLADDER": 0.375,
+      "IVC": 0.375,
+      "KIDNEYS": 0.375,
+      "LIVER": 0.75,
+      "PANCREAS": 0.375,
+      "RIGHT KIDNEY": 0.375
+    },
+    "echotexture": {
+      "ENDOMETRIUM": 0.3,
+      "EPIDIDYMIS": 0.4,
+      "FREE FLUID": 0.3,
+      "LEFT OVARY": 0.3,
+      "LEFT TESTICLE": 0.4,
+      "LIVER": 0.3,
+      "RIGHT TESTICLE": 0.4,
+      "SCROTUM": 0.4
+    },
+    "edema": {
+      "BONES": 0.5874,
+      "FLUID": 0.3107,
+      "MUSCLES": 0.2767
+    },
+    "effacement": {
+      "Alignment": 0.4545,
+      "C2-3": 0.4545,
+      "C3-4": 0.4545,
+      "C4-5": 0.4545,
+      "C5-6": 0.4545,
+      "C6-7": 0.4545,
+      "C7-T1": 0.4545,
+      "Spinal Cord": 0.4545
+    },
+    "effect": {
+      "BONES": 0.5833,
+      "BRAIN": 0.9167,
+      "ORBITS": 0.4167,
+      "SINUSES AND MASTOIDS": 0.6944,
+      "VENTRICLES": 0.8056
+    },
+    "effusion": {
+      "BONES": 0.5172
+    },
+    "effusions": {
+      "BONES": 0.75,
+      "CARTILAGE": 0.375,
+      "EXTENSOR": 0.5,
+      "FLEXOR": 0.5,
+      "FLUID": 0.5,
+      "LATERAL COLLATERAL": 0.5,
+      "MUSCLES": 0.375,
+      "OTHER FINDINGS": 0.5
+    },
+    "elbow": {
+      "BONES": 1.0,
+      "JOINTS": 0.8,
+      "SOFT TISSUES": 0.6
+    },
+    "elements": {
+      "ALIGNMENT": 0.4286,
+      "DISCS/DEGENERATIVE CHANGES": 0.4286,
+      "L3-L4": 0.4286,
+      "L4-L5": 0.4286,
+      "L5-S1": 0.4286,
+      "PARASPINAL SOFT TISSUES": 0.4286,
+      "SOFT TISSUES": 0.4286,
+      "VERTEBRAE": 0.5714
+    },
+    "elevation": {
+      "BONES": 0.6667,
+      "LUNGS": 0.5,
+      "OTHER FINDINGS": 0.5,
+      "PLEURAL SPACES": 0.5
+    },
+    "embolism": {
+      "CARDIOVASCULAR": 1.0,
+      "CHEST WALL/MUSCULOSKELETAL": 1.0,
+      "LUNGS/AIRWAYS/PLEURA": 1.0,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 1.0,
+      "UPPER ABDOMEN": 1.0
+    },
+    "emphysema": {
+      "BONES AND SOFT TISSUES": 0.6667,
+      "HEART AND MEDIASTINUM": 0.6667,
+      "LUNGS": 0.6667
+    },
+    "emphysematous": {
+      "BONES AND SOFT TISSUES": 0.2609,
+      "CARDIOVASCULAR": 0.6087,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5652,
+      "LUNGS": 0.3043,
+      "LUNGS/AIRWAYS": 0.3478,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3043,
+      "OTHER FINDINGS": 0.3478,
+      "UPPER ABDOMEN": 0.3043
+    },
+    "encroachment": {
+      "ALIGNMENT": 0.625,
+      "DISCS/DEGENERATIVE CHANGES": 0.625,
+      "L3-L4": 0.625,
+      "L4-L5": 0.625,
+      "L5-S1": 0.625,
+      "PARASPINAL SOFT TISSUES": 0.5,
+      "SPINAL CORD": 0.625,
+      "VERTEBRAE": 0.625
+    },
+    "endobronchial": {
+      "CARDIOVASCULAR": 0.8333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8333,
+      "LUNGS/AIRWAYS": 0.5,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.5
+    },
+    "endometrial": {
+      "ENDOMETRIUM": 0.8889,
+      "FREE FLUID": 0.8889,
+      "LEFT OVARY": 0.8889,
+      "OTHER FINDINGS": 0.8889,
+      "RIGHT OVARY": 0.8889,
+      "UTERUS/CERVIX": 0.8889
+    },
+    "endplate": {
+      "DISC SPACES": 0.4253,
+      "DISCS/DEGENERATIVE CHANGES": 0.2529,
+      "SOFT TISSUES": 0.2989,
+      "VERTEBRAE": 0.6782
+    },
+    "enhanced": {
+      "BONES": 0.7,
+      "BRAIN": 0.3,
+      "OTHER FINDINGS": 0.3,
+      "SINUSES AND MASTOIDS": 0.3
+    },
+    "enhancement": {
+      "BONES": 0.6327,
+      "BRAIN": 0.449,
+      "LIVER": 0.2653,
+      "LYMPH NODES": 0.3469,
+      "PANCREAS": 0.3061,
+      "SINUSES AND MASTOIDS": 0.2857,
+      "SPLEEN": 0.3061,
+      "VENTRICLES": 0.3265
+    },
+    "enhancing": {
+      "BONES": 0.6154,
+      "BRAIN": 0.4615,
+      "GALLBLADDER AND BILE DUCTS": 0.3462,
+      "KIDNEYS": 0.4231,
+      "LIVER": 0.3846,
+      "LYMPH NODES": 0.5,
+      "PANCREAS": 0.4231,
+      "SPLEEN": 0.3846
+    },
+    "enlarged": {
+      "CARDIOVASCULAR": 0.3143,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3143,
+      "LYMPH NODES": 0.2571,
+      "OTHER FINDINGS": 0.3429
+    },
+    "enlargement": {
+      "BONES": 0.4286,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5714
+    },
+    "enlarging": {
+      "BONES AND SOFT TISSUES": 0.3636,
+      "CARDIOVASCULAR": 0.6364,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6364,
+      "HEART AND MEDIASTINUM": 0.3636,
+      "LUNGS": 0.3636,
+      "LUNGS/AIRWAYS": 0.5455,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5455,
+      "OTHER FINDINGS": 0.4545
+    },
+    "enthesopathic": {
+      "BONES": 0.8421,
+      "JOINTS": 0.7895,
+      "SOFT TISSUES": 0.6842
+    },
+    "enthesophyte": {
+      "BONES": 0.8095,
+      "JOINTS": 0.9048,
+      "SOFT TISSUES": 0.8571
+    },
+    "enthesophytes": {
+      "BONES": 0.8333,
+      "JOINTS": 0.8333,
+      "SOFT TISSUES": 0.6667
+    },
+    "entirely": {
+      "ACROMIOCLAVICULAR JOINT": 0.5,
+      "BONES": 0.5,
+      "GLENOHUMERAL JOINT": 0.5
+    },
+    "equina": {
+      "ALIGNMENT": 1.0,
+      "DISCS/DEGENERATIVE CHANGES": 1.0,
+      "L3-L4": 1.0,
+      "L4-L5": 1.0,
+      "L5-S1": 1.0,
+      "PARASPINAL SOFT TISSUES": 0.9286,
+      "SPINAL CORD": 1.0,
+      "VERTEBRAE": 1.0
+    },
+    "erosions": {
+      "BONES": 0.875,
+      "JOINTS": 0.625,
+      "SOFT TISSUES": 0.5
+    },
+    "erosive": {
+      "BONES": 0.8333,
+      "JOINTS": 0.8333,
+      "SOFT TISSUES": 0.6667
+    },
+    "estimated": {
+      "AORTA": 0.5,
+      "COMMON BILE DUCT": 0.5,
+      "GALLBLADDER": 0.5,
+      "IVC": 0.5,
+      "KIDNEYS": 0.5,
+      "LIVER": 0.5,
+      "PANCREAS": 0.5,
+      "SPLEEN": 0.5
+    },
+    "ethmoid": {
+      "BONES": 0.7143,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5714,
+      "SINUSES AND MASTOIDS": 0.8571,
+      "VENTRICLES": 0.7143
+    },
+    "evaluated": {
+      "DEEP VEINS": 0.9091,
+      "SOFT TISSUES": 0.9091,
+      "SUPERFICIAL VEINS": 0.3636
+    },
+    "evaluation": {
+      "BONES": 0.3958,
+      "JOINTS": 0.2917,
+      "SOFT TISSUES": 0.2917
+    },
+    "evidence": {
+      "BONES": 0.4211,
+      "SOFT TISSUES": 0.2842
+    },
+    "evident": {
+      "BONES": 0.45,
+      "JOINTS": 0.25,
+      "OTHER FINDINGS": 0.275,
+      "SOFT TISSUES": 0.25
+    },
+    "examination": {
+      "BONES": 0.369
+    },
+    "excluded": {
+      "ACROMIOCLAVICULAR JOINT": 0.2857,
+      "BONES": 0.6429,
+      "GLENOHUMERAL JOINT": 0.2857,
+      "JOINTS": 0.3571,
+      "SOFT TISSUES": 0.2857
+    },
+    "excretion": {
+      "ADRENAL GLANDS": 0.875,
+      "LIVER": 0.875,
+      "LYMPH NODES": 1.0,
+      "PANCREAS": 0.875,
+      "PERITONEUM": 1.0,
+      "REPRODUCTIVE": 1.0,
+      "SPLEEN": 0.875,
+      "STOMACH AND BOWEL": 0.875
+    },
+    "exiting": {
+      "ALIGNMENT": 0.6122,
+      "DISCS/DEGENERATIVE CHANGES": 0.6122,
+      "L1-L2": 0.5306,
+      "L2-L3": 0.5306,
+      "L3-L4": 0.5918,
+      "L4-L5": 0.5918,
+      "L5-S1": 0.5918,
+      "VERTEBRAE": 0.6122
+    },
+    "expected": {
+      "ALIGNMENT": 0.2727,
+      "BONES": 0.7273,
+      "DISCS/DEGENERATIVE CHANGES": 0.2727,
+      "JOINTS": 0.3636,
+      "PARASPINAL SOFT TISSUES": 0.2727,
+      "SOFT TISSUES": 0.3636,
+      "SPINAL CORD": 0.2727,
+      "VERTEBRAE": 0.2727
+    },
+    "extending": {
+      "BONES": 0.5625,
+      "CARTILAGE": 0.3125,
+      "EXTENSOR": 0.375,
+      "FLEXOR": 0.375,
+      "FLUID": 0.375,
+      "LATERAL COLLATERAL": 0.375,
+      "MUSCLES": 0.4375,
+      "PLANTAR FASCIA": 0.3125
+    },
+    "extension": {
+      "DISC SPACES": 0.3235,
+      "SOFT TISSUES": 0.3235,
+      "VERTEBRAE": 0.4412
+    },
+    "extensive": {
+      "BONES": 0.7143,
+      "FLUID": 0.2857,
+      "OTHER FINDINGS": 0.3571,
+      "SOFT TISSUES": 0.4286
+    },
+    "extensor": {
+      "Articular Cartilage": 0.3929,
+      "BONES": 0.6071,
+      "CARTILAGE": 0.4286,
+      "EXTENSOR": 0.4643,
+      "FLEXOR": 0.4643,
+      "FLUID": 0.5,
+      "LATERAL COLLATERAL": 0.3929,
+      "PERONEAL": 0.3929
+    },
+    "extra": {
+      "BONES": 0.5882,
+      "BRAIN": 0.9412,
+      "ORBITS": 0.4412,
+      "SINUSES AND MASTOIDS": 0.7941,
+      "VENTRICLES": 0.8529
+    },
+    "extremity": {
+      "DEEP VEINS": 0.8235,
+      "SOFT TISSUES": 0.4706,
+      "SUPERFICIAL VEINS": 0.4118
+    },
+    "extrusion": {
+      "Articular Cartilage": 0.65,
+      "Extensor Mechanism": 0.4,
+      "Joint": 0.9,
+      "Osseous Structures": 0.9,
+      "Soft Tissues": 0.5
+    },
+    "facet": {
+      "ALIGNMENT": 0.4308,
+      "DISCS/DEGENERATIVE CHANGES": 0.4538,
+      "L1-L2": 0.3923,
+      "L2-L3": 0.3923,
+      "L3-L4": 0.3923,
+      "L4-L5": 0.4154,
+      "L5-S1": 0.4154,
+      "VERTEBRAE": 0.7846
+    },
+    "failure": {
+      "BONES": 0.75,
+      "JOINTS": 0.625,
+      "SOFT TISSUES": 0.375
+    },
+    "fascia": {
+      "BONES": 0.9167,
+      "CARTILAGE": 0.8333,
+      "EXTENSOR": 0.9167,
+      "FLEXOR": 0.9167,
+      "FLUID": 0.9167,
+      "LATERAL COLLATERAL": 0.75,
+      "PERONEAL": 0.8333,
+      "PLANTAR FASCIA": 0.9167
+    },
+    "fascial": {
+      "BONES": 0.7778,
+      "CARTILAGE": 0.4444,
+      "EXTENSOR": 0.5556,
+      "FLEXOR": 0.5556,
+      "FLUID": 0.5556,
+      "OTHER FINDINGS": 0.4444,
+      "PERONEAL": 0.5556,
+      "PLANTAR FASCIA": 0.5556
+    },
+    "fat": {
+      "ADRENAL GLANDS": 0.2632,
+      "Articular Cartilage": 0.3158,
+      "BONES": 0.3684,
+      "Joint": 0.3158,
+      "LIVER": 0.4211,
+      "PANCREAS": 0.3684,
+      "SPLEEN": 0.3684,
+      "STOMACH AND BOWEL": 0.4211
+    },
+    "fatty": {
+      "ACROMIOCLAVICULAR JOINT": 0.5,
+      "BONES": 0.8636,
+      "GLENOHUMERAL JOINT": 0.5,
+      "INFRASPINATUS": 0.3636,
+      "MUSCLES": 0.5,
+      "SUBSCAPULARIS": 0.3636,
+      "SUPRASPINATUS": 0.3636,
+      "TERES MINOR": 0.3636
+    },
+    "favored": {
+      "BONES": 0.5385,
+      "LUNGS": 0.3846
+    },
+    "fazekas": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.7,
+      "VENTRICLES": 0.8
+    },
+    "female": {
+      "BONES": 0.3333
+    },
+    "femoral": {
+      "BONES": 0.4556,
+      "DEEP VEINS": 0.2778,
+      "JOINTS": 0.3111,
+      "SOFT TISSUES": 0.3667
+    },
+    "femoris": {
+      "Articular Cartilage": 0.2727,
+      "DEEP VEINS": 0.5455,
+      "Joint": 0.2727,
+      "Osseous Structures": 0.2727,
+      "SOFT TISSUES": 0.2727,
+      "SUPERFICIAL VEINS": 0.2727,
+      "Soft Tissues": 0.2727
+    },
+    "femorotibial": {
+      "Articular Cartilage": 0.6667,
+      "Joint": 0.6667,
+      "Musculature": 0.5,
+      "Osseous Structures": 0.6667,
+      "Soft Tissues": 0.5
+    },
+    "femur": {
+      "Articular Cartilage": 0.2632,
+      "BONES": 0.6842,
+      "JOINTS": 0.4211,
+      "Joint": 0.2632,
+      "OTHER FINDINGS": 0.4211,
+      "Osseous Structures": 0.2632
+    },
+    "few": {
+      "CARDIOVASCULAR": 0.3818,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3455,
+      "LUNGS/AIRWAYS": 0.2727
+    },
+    "fibro": {
+      "CARDIOVASCULAR": 1.0,
+      "CHEST WALL/MUSCULOSKELETAL": 1.0,
+      "LUNGS/AIRWAYS": 1.0,
+      "MEDIASTINAL/HILAR LYMPH NODES": 1.0,
+      "OTHER FINDINGS": 0.6667,
+      "PLEURA": 0.6667
+    },
+    "fibroid": {
+      "ENDOMETRIUM": 0.5,
+      "FREE FLUID": 0.5,
+      "LEFT OVARY": 0.5,
+      "OTHER FINDINGS": 0.6667,
+      "REPRODUCTIVE": 0.5,
+      "RIGHT OVARY": 0.5,
+      "UTERUS/CERVIX": 0.5
+    },
+    "fibrosis": {
+      "BONES AND SOFT TISSUES": 0.3333,
+      "CARDIOVASCULAR": 0.3333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6,
+      "HEART AND MEDIASTINUM": 0.4,
+      "LUNGS": 0.4,
+      "LUNGS/AIRWAYS": 0.2667,
+      "LUNGS/AIRWAYS/PLEURA": 0.3333,
+      "UPPER ABDOMEN": 0.4667
+    },
+    "fibrotic": {
+      "CARDIOVASCULAR": 0.9,
+      "CHEST WALL/MUSCULOSKELETAL": 0.9,
+      "LUNGS/AIRWAYS": 0.5667,
+      "LUNGS/AIRWAYS/PLEURA": 0.3333,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5667,
+      "OTHER FINDINGS": 0.5667,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3333,
+      "UPPER ABDOMEN": 0.3333
+    },
+    "fibula": {
+      "BONES": 0.8333,
+      "JOINTS": 0.8333,
+      "SOFT TISSUES": 0.6667
+    },
+    "fibular": {
+      "Articular Cartilage": 0.3333,
+      "BONES": 0.5556,
+      "JOINTS": 0.5556,
+      "Joint": 0.3333,
+      "Osseous Structures": 0.3333,
+      "SOFT TISSUES": 0.4444,
+      "Soft Tissues": 0.3333
+    },
+    "filling": {
+      "BONES": 0.4,
+      "GALLBLADDER AND BILE DUCTS": 0.3,
+      "KIDNEYS": 0.5,
+      "LIVER": 0.3,
+      "LYMPH NODES": 0.6,
+      "PANCREAS": 0.3,
+      "PERITONEUM": 0.3,
+      "REPRODUCTIVE": 0.4
+    },
+    "first": {
+      "BONES": 0.8481,
+      "JOINTS": 0.7722,
+      "SOFT TISSUES": 0.6329
+    },
+    "fissuring": {
+      "Articular Cartilage": 1.0,
+      "Extensor Mechanism": 0.6667,
+      "Joint": 1.0,
+      "Musculature": 0.6667,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.6667
+    },
+    "five": {
+      "DISC SPACES": 0.85,
+      "SOFT TISSUES": 0.75,
+      "VERTEBRAE": 0.95
+    },
+    "fixation": {
+      "BONES": 0.375,
+      "JOINTS": 0.5,
+      "OSSEOUS STRUCTURES": 0.2917,
+      "SOFT TISSUES": 0.5,
+      "VERTEBRAE": 0.25
+    },
+    "flair": {
+      "BONES": 0.56,
+      "BRAIN": 1.0,
+      "ORBITS": 0.68,
+      "SINUSES AND MASTOIDS": 0.72,
+      "VENTRICLES": 0.84
+    },
+    "flattening": {
+      "Alignment": 0.6667,
+      "C2-3": 0.6667,
+      "C3-4": 0.6667,
+      "C4-5": 0.6667,
+      "C5-6": 0.6667,
+      "C6-7": 0.6667,
+      "C7-T1": 0.6667,
+      "Spinal Cord": 0.6667
+    },
+    "flavum": {
+      "ALIGNMENT": 0.9286,
+      "DISCS/DEGENERATIVE CHANGES": 0.9643,
+      "L1-L2": 0.8571,
+      "L2-L3": 0.8571,
+      "L3-L4": 0.8571,
+      "L4-L5": 0.8929,
+      "L5-S1": 0.8929,
+      "VERTEBRAE": 0.9286
+    },
+    "flexion": {
+      "DISC SPACES": 0.6,
+      "SOFT TISSUES": 0.45,
+      "VERTEBRAE": 0.6
+    },
+    "flexor": {
+      "BONES": 1.0,
+      "CARTILAGE": 0.7059,
+      "EXTENSOR": 0.7647,
+      "FLEXOR": 0.7647,
+      "FLUID": 0.8235,
+      "LATERAL COLLATERAL": 0.6471,
+      "PERONEAL": 0.6471,
+      "PLANTAR FASCIA": 0.6471
+    },
+    "flow": {
+      "BONES": 0.2745,
+      "BRAIN": 0.4314,
+      "DEEP VEINS": 0.4118,
+      "ORBITS": 0.2745,
+      "SINUSES AND MASTOIDS": 0.3922,
+      "SOFT TISSUES": 0.3137,
+      "VENTRICLES": 0.3529
+    },
+    "fluid": {
+      "BONES": 0.5596,
+      "MUSCLES": 0.2661
+    },
+    "focal": {
+      "BONES": 0.4581
+    },
+    "foci": {
+      "BONES": 0.3125,
+      "BRAIN": 0.8125,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.6875,
+      "VENTRICLES": 0.6875
+    },
+    "follow": {
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5714,
+      "LUNGS/AIRWAYS": 0.5,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4286,
+      "OTHER FINDINGS": 0.5
+    },
+    "following": {
+      "BONES": 0.5556,
+      "BRAIN": 0.3333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3333,
+      "LUNGS/AIRWAYS/PLEURA": 0.3333,
+      "UPPER ABDOMEN": 0.3333
+    },
+    "foot": {
+      "BONES": 0.8966,
+      "FLUID": 0.3103,
+      "JOINTS": 0.5517,
+      "SOFT TISSUES": 0.6552
+    },
+    "footprint": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 1.0,
+      "INFRASPINATUS": 0.6667,
+      "MUSCLES": 0.6667,
+      "SUBSCAPULARIS": 0.6667,
+      "SUPRASPINATUS": 0.6667,
+      "TERES MINOR": 0.6667
+    },
+    "foramen": {
+      "ALIGNMENT": 0.75,
+      "DISCS/DEGENERATIVE CHANGES": 0.75,
+      "L1-L2": 0.75,
+      "L2-L3": 0.75,
+      "L3-L4": 0.75,
+      "L4-L5": 0.75,
+      "L5-S1": 0.75,
+      "SPINAL CORD": 0.75
+    },
+    "foraminal": {
+      "ALIGNMENT": 0.5249,
+      "DISCS/DEGENERATIVE CHANGES": 0.5359,
+      "L1-L2": 0.4365,
+      "L3-L4": 0.4586,
+      "L4-L5": 0.4696,
+      "L5-S1": 0.4696,
+      "SPINAL CORD": 0.4696,
+      "VERTEBRAE": 0.5525
+    },
+    "forefoot": {
+      "BONES": 1.0,
+      "EXTENSOR": 0.5556,
+      "FLEXOR": 0.5556,
+      "FLUID": 0.4444,
+      "JOINTS": 0.4444,
+      "LATERAL COLLATERAL": 0.5556,
+      "LISFRANC": 0.4444,
+      "OTHER FINDINGS": 0.5556
+    },
+    "foreign": {
+      "BONES": 0.85,
+      "JOINTS": 0.8,
+      "SOFT TISSUES": 0.9
+    },
+    "form": {
+      "BONES": 0.3636,
+      "SOFT TISSUES": 0.3636
+    },
+    "formation": {
+      "BONES": 0.6083,
+      "JOINTS": 0.475,
+      "SOFT TISSUES": 0.45
+    },
+    "fossa": {
+      "BONES": 0.3529,
+      "BRAIN": 0.2941,
+      "DEEP VEINS": 0.2941,
+      "SOFT TISSUES": 0.3529
+    },
+    "fourth": {
+      "BONES": 0.5,
+      "BRAIN": 0.5,
+      "JOINTS": 0.5,
+      "VENTRICLES": 0.5
+    },
+    "fracture": {
+      "BONES": 0.7118,
+      "JOINTS": 0.5447,
+      "SOFT TISSUES": 0.4524
+    },
+    "fragment": {
+      "BONES": 0.9286,
+      "JOINTS": 0.7857,
+      "SOFT TISSUES": 0.4286
+    },
+    "fraying": {
+      "ACROMIOCLAVICULAR JOINT": 0.8333,
+      "BICEPS ANCHOR COMPLEX": 0.4444,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.8333,
+      "INFRASPINATUS": 0.3889,
+      "MUSCLES": 0.5556,
+      "PERIARTICULAR SOFT TISSUE": 0.4444,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.4444
+    },
+    "free": {
+      "BONES": 0.4211,
+      "KIDNEYS": 0.4211,
+      "LIVER": 0.5263,
+      "LYMPH NODES": 0.6316,
+      "OTHER FINDINGS": 0.4211,
+      "PANCREAS": 0.5263,
+      "REPRODUCTIVE": 0.4211,
+      "SPLEEN": 0.4737
+    },
+    "frontal": {
+      "BONES": 1.0,
+      "BRAIN": 0.7857,
+      "ORBITS": 0.2857,
+      "OTHER FINDINGS": 0.3571,
+      "SINUSES AND MASTOIDS": 0.2857,
+      "VENTRICLES": 0.7857
+    },
+    "full": {
+      "ACROMIOCLAVICULAR JOINT": 0.6667,
+      "BONES": 0.7879,
+      "GLENOHUMERAL JOINT": 0.697,
+      "INFRASPINATUS": 0.4394,
+      "MUSCLES": 0.5152,
+      "SUBSCAPULARIS": 0.4394,
+      "SUPRASPINATUS": 0.4394,
+      "TERES MINOR": 0.4394
+    },
+    "further": {
+      "BONES": 0.4138,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2759,
+      "JOINTS": 0.3448,
+      "SOFT TISSUES": 0.2759
+    },
+    "fusion": {
+      "DISC SPACES": 0.4762,
+      "SOFT TISSUES": 0.381,
+      "VERTEBRAE": 0.4762
+    },
+    "gallbladder": {
+      "BONES": 0.2727,
+      "GALLBLADDER AND BILE DUCTS": 0.4545,
+      "KIDNEYS": 0.6818,
+      "LIVER": 0.8182,
+      "LYMPH NODES": 0.5,
+      "PANCREAS": 0.8182,
+      "SPLEEN": 0.7273,
+      "STOMACH AND BOWEL": 0.5
+    },
+    "ganglia": {
+      "BONES": 0.375,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.875,
+      "VENTRICLES": 1.0
+    },
+    "gas": {
+      "BONES": 0.5,
+      "JOINTS": 0.25,
+      "SOFT TISSUES": 0.5833
+    },
+    "generalized": {
+      "BONES": 0.4545,
+      "BRAIN": 1.0,
+      "ORBITS": 1.0,
+      "SINUSES AND MASTOIDS": 0.8182,
+      "VENTRICLES": 1.0
+    },
+    "gland": {
+      "BONES": 0.55,
+      "BRAIN": 0.45,
+      "ORBITS": 0.3,
+      "SINUSES AND MASTOIDS": 0.6,
+      "VENTRICLES": 0.45
+    },
+    "glands": {
+      "ADRENALS": 0.5,
+      "GALLBLADDER AND BILE DUCTS": 0.5,
+      "KIDNEYS": 0.6,
+      "LIVER": 0.8,
+      "LYMPH NODES": 0.8,
+      "PANCREAS": 0.8,
+      "SPLEEN": 0.6,
+      "STOMACH AND BOWEL": 0.6
+    },
+    "glass": {
+      "CARDIOVASCULAR": 0.9048,
+      "CHEST WALL/MUSCULOSKELETAL": 0.9048,
+      "LUNGS/AIRWAYS": 0.6667,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.6667,
+      "OTHER FINDINGS": 0.5714
+    },
+    "glenohumeral": {
+      "ACROMIOCLAVICULAR JOINT": 0.6,
+      "BONES": 0.9294,
+      "GLENOHUMERAL JOINT": 0.6353,
+      "INFRASPINATUS": 0.3882,
+      "MUSCLES": 0.4,
+      "SUBSCAPULARIS": 0.3882,
+      "SUPRASPINATUS": 0.4,
+      "TERES MINOR": 0.3882
+    },
+    "glenoid": {
+      "ACROMIOCLAVICULAR JOINT": 0.7273,
+      "BICEPS ANCHOR COMPLEX": 0.7273,
+      "BONES": 0.9091,
+      "GLENOHUMERAL JOINT": 0.9091,
+      "PERIARTICULAR SOFT TISSUE": 0.5455,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.7273
+    },
+    "gluteus": {
+      "ABDUCTORS": 0.8,
+      "BONES": 1.0,
+      "CARTILAGE": 0.8,
+      "EXTENSORS/HAMSTRING": 0.4,
+      "FLUID": 1.0,
+      "LABRUM": 0.8,
+      "MUSCLES": 1.0,
+      "OTHER FINDINGS": 0.6
+    },
+    "grade": {
+      "BONES": 0.3495,
+      "VERTEBRAE": 0.3204
+    },
+    "granuloma": {
+      "BONES AND SOFT TISSUES": 0.75,
+      "HEART AND MEDIASTINUM": 0.75,
+      "LUNGS": 0.75,
+      "LYMPH NODES": 0.75,
+      "PLEURAL SPACES": 0.375
+    },
+    "gray": {
+      "BRAIN": 0.5,
+      "DEEP VEINS": 0.5
+    },
+    "great": {
+      "BONES": 0.5294,
+      "EXTENSOR": 0.3529,
+      "FLEXOR": 0.3529,
+      "LATERAL COLLATERAL": 0.3529,
+      "LIGAMENTS": 0.3529,
+      "MEDIAL COLLATERAL": 0.3529,
+      "OTHER FINDINGS": 0.3529,
+      "PERONEAL": 0.3529
+    },
+    "greater": {
+      "ACROMIOCLAVICULAR JOINT": 0.2877,
+      "BONES": 0.7945,
+      "GLENOHUMERAL JOINT": 0.2877,
+      "JOINTS": 0.3151,
+      "MUSCLES": 0.3151,
+      "SOFT TISSUES": 0.2877
+    },
+    "greatest": {
+      "DISC SPACES": 0.369,
+      "SOFT TISSUES": 0.4524,
+      "VERTEBRAE": 0.4405
+    },
+    "groove": {
+      "ACROMIOCLAVICULAR JOINT": 0.8824,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.8824,
+      "INFRASPINATUS": 0.5882,
+      "MUSCLES": 0.7059,
+      "SUBSCAPULARIS": 0.5882,
+      "SUPRASPINATUS": 0.5882,
+      "TERES MINOR": 0.5882
+    },
+    "gross": {
+      "ACROMIOCLAVICULAR JOINT": 0.375,
+      "BICEPS ANCHOR COMPLEX": 0.3125,
+      "BONES": 0.4375,
+      "CARDIOVASCULAR": 0.25,
+      "CHEST WALL/MUSCULOSKELETAL": 0.25,
+      "GLENOHUMERAL JOINT": 0.375,
+      "PERIARTICULAR SOFT TISSUE": 0.3125,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.3125
+    },
+    "grossly": {
+      "BONES": 0.4074,
+      "OTHER FINDINGS": 0.2593,
+      "SOFT TISSUES": 0.2963
+    },
+    "ground": {
+      "CARDIOVASCULAR": 0.95,
+      "CHEST WALL/MUSCULOSKELETAL": 0.95,
+      "LUNGS/AIRWAYS": 0.7,
+      "LUNGS/AIRWAYS/PLEURA": 0.25,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.7,
+      "OTHER FINDINGS": 0.6,
+      "PLEURA": 0.25,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.25
+    },
+    "hallucis": {
+      "ACHILLES": 0.5,
+      "BONES": 1.0,
+      "CARTILAGE": 0.75,
+      "EXTENSOR": 1.0,
+      "FLEXOR": 1.0,
+      "FLUID": 1.0,
+      "PERONEAL": 1.0,
+      "PLANTAR FASCIA": 1.0
+    },
+    "hallux": {
+      "BONES": 0.9167,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.8333
+    },
+    "hand": {
+      "BONES": 0.8889,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.6667
+    },
+    "hardware": {
+      "BONES": 0.4474,
+      "JOINTS": 0.4737,
+      "SOFT TISSUES": 0.5263
+    },
+    "head": {
+      "ACROMIOCLAVICULAR JOINT": 0.3854,
+      "BONES": 0.9167,
+      "GLENOHUMERAL JOINT": 0.3854,
+      "JOINTS": 0.2917,
+      "MUSCLES": 0.4479,
+      "SUBSCAPULARIS": 0.2917,
+      "SUPRASPINATUS": 0.2917,
+      "TERES MINOR": 0.2917
+    },
+    "healed": {
+      "SOFT TISSUES": 0.6667
+    },
+    "healing": {
+      "BONES": 0.8125,
+      "JOINTS": 0.625,
+      "SOFT TISSUES": 0.625
+    },
+    "heart": {
+      "CARDIOVASCULAR": 0.7333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7333,
+      "LUNGS/AIRWAYS": 0.3333,
+      "LUNGS/AIRWAYS/PLEURA": 0.4333,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3333,
+      "OTHER FINDINGS": 0.3333,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3667,
+      "UPPER ABDOMEN": 0.4333
+    },
+    "heel": {
+      "BONES": 0.8333,
+      "JOINTS": 0.6667,
+      "SOFT TISSUES": 0.6667
+    },
+    "height": {
+      "ALIGNMENT": 0.3333,
+      "DISCS/DEGENERATIVE CHANGES": 0.4286,
+      "L4-L5": 0.3333,
+      "L5-S1": 0.3333,
+      "VERTEBRAE": 0.6667
+    },
+    "heights": {
+      "ALIGNMENT": 0.2958,
+      "DISC SPACES": 0.3944,
+      "DISCS/DEGENERATIVE CHANGES": 0.2958,
+      "SOFT TISSUES": 0.3099,
+      "SPINAL CORD": 0.2676,
+      "VERTEBRAE": 0.6761
+    },
+    "hematoma": {
+      "BONES": 0.5,
+      "BRAIN": 0.3571,
+      "OTHER FINDINGS": 0.3571,
+      "SOFT TISSUES": 0.5714,
+      "VENTRICLES": 0.3571
+    },
+    "hemidiaphragm": {
+      "BONES": 0.5,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "LUNGS": 0.5,
+      "LUNGS/AIRWAYS": 0.5,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.6667,
+      "PLEURAL SPACES": 0.5
+    },
+    "hemispheres": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.4,
+      "SINUSES AND MASTOIDS": 0.8,
+      "VENTRICLES": 1.0
+    },
+    "hemithorax": {
+      "BONES": 0.8235,
+      "JOINTS": 0.8235,
+      "SOFT TISSUES": 0.8824
+    },
+    "hemorrhage": {
+      "BONES": 0.5588,
+      "BRAIN": 0.9706,
+      "ORBITS": 0.4706,
+      "SINUSES AND MASTOIDS": 0.7353,
+      "VENTRICLES": 0.8529
+    },
+    "hepatic": {
+      "GALLBLADDER AND BILE DUCTS": 0.3333,
+      "KIDNEYS": 0.3704,
+      "LIVER": 0.8519,
+      "LYMPH NODES": 0.3704,
+      "PANCREAS": 0.4815,
+      "RIGHT KIDNEY": 0.3704,
+      "SPLEEN": 0.3704,
+      "STOMACH AND BOWEL": 0.2963
+    },
+    "hepatomegaly": {
+      "GALLBLADDER AND BILE DUCTS": 0.4286,
+      "KIDNEYS": 0.4286,
+      "LIVER": 0.8571,
+      "LYMPH NODES": 0.5714,
+      "PANCREAS": 0.4286,
+      "STOMACH AND BOWEL": 0.4286
+    },
+    "hernia": {
+      "CARDIOVASCULAR": 0.6667,
+      "LUNGS/AIRWAYS": 0.6667,
+      "OTHER FINDINGS": 0.6667,
+      "PLEURA": 0.6667
+    },
+    "herniation": {
+      "ALIGNMENT": 0.48,
+      "Alignment": 0.4,
+      "C6-7": 0.4,
+      "DISCS/DEGENERATIVE CHANGES": 0.48,
+      "PARASPINAL SOFT TISSUES": 0.44,
+      "SPINAL CORD": 0.44,
+      "Spinal Cord": 0.4,
+      "VERTEBRAE": 0.44
+    },
+    "heterogeneous": {
+      "BONES": 0.4167
+    },
+    "high": {
+      "ALIGNMENT": 0.3478,
+      "BONES": 0.3913,
+      "DISCS/DEGENERATIVE CHANGES": 0.3478,
+      "L3-L4": 0.2609,
+      "L4-L5": 0.2609,
+      "PARASPINAL SOFT TISSUES": 0.3478,
+      "SPINAL CORD": 0.3478,
+      "VERTEBRAE": 0.3478
+    },
+    "hila": {
+      "CARDIOVASCULAR": 0.8,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8,
+      "LUNGS/AIRWAYS": 0.4,
+      "LUNGS/AIRWAYS/PLEURA": 0.4,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4,
+      "OTHER FINDINGS": 0.4,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.4,
+      "UPPER ABDOMEN": 0.4
+    },
+    "hilar": {
+      "CARDIOVASCULAR": 0.75,
+      "CHEST WALL/MUSCULOSKELETAL": 0.75,
+      "LUNGS/AIRWAYS": 0.4375,
+      "LUNGS/AIRWAYS/PLEURA": 0.3125,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4375,
+      "OTHER FINDINGS": 0.4062,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3125,
+      "UPPER ABDOMEN": 0.3125
+    },
+    "hindfoot": {
+      "ACHILLES": 0.4444,
+      "BONES": 1.0,
+      "EXTENSOR": 0.7778,
+      "FLEXOR": 0.7778,
+      "FLUID": 0.7778,
+      "OTHER FINDINGS": 0.5556,
+      "PERONEAL": 0.7778,
+      "PLANTAR FASCIA": 0.7778
+    },
+    "hip": {
+      "BONES": 0.8,
+      "JOINTS": 0.5304,
+      "SOFT TISSUES": 0.4
+    },
+    "history": {
+      "BONES": 0.3333
+    },
+    "honeycombing": {
+      "CARDIOVASCULAR": 1.0,
+      "CHEST WALL/MUSCULOSKELETAL": 1.0,
+      "LUNGS/AIRWAYS": 0.5714,
+      "LUNGS/AIRWAYS/PLEURA": 0.4286,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5714,
+      "OTHER FINDINGS": 0.5714,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.4286,
+      "UPPER ABDOMEN": 0.4286
+    },
+    "horn": {
+      "Articular Cartilage": 0.8889,
+      "Extensor Mechanism": 0.5556,
+      "Joint": 0.8889,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.4444
+    },
+    "humeral": {
+      "ACROMIOCLAVICULAR JOINT": 0.4286,
+      "BICEPS ANCHOR COMPLEX": 0.2857,
+      "BONES": 0.9286,
+      "GLENOHUMERAL JOINT": 0.5714,
+      "JOINTS": 0.4286,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.2857,
+      "SOFT TISSUES": 0.5
+    },
+    "humerus": {
+      "ACROMIOCLAVICULAR JOINT": 0.5,
+      "BONES": 0.6429,
+      "GLENOHUMERAL JOINT": 0.4286,
+      "JOINTS": 0.2857,
+      "OSSEOUS STRUCTURES": 0.3571,
+      "SOFT TISSUES": 0.7143
+    },
+    "hydrocephalus": {
+      "BONES": 0.6087,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5217,
+      "SINUSES AND MASTOIDS": 0.6957,
+      "VENTRICLES": 0.8696
+    },
+    "hydronephrosis": {
+      "ADRENALS": 0.4444,
+      "GALLBLADDER AND BILE DUCTS": 0.5556,
+      "KIDNEYS": 0.8333,
+      "LIVER": 0.8333,
+      "LYMPH NODES": 0.8333,
+      "PANCREAS": 0.9444,
+      "SPLEEN": 0.8889,
+      "STOMACH AND BOWEL": 0.6111
+    },
+    "hyperinflation": {
+      "BONES": 0.6,
+      "HEART AND MEDIASTINUM": 0.3,
+      "LUNGS": 1.0,
+      "MEDIASTINUM/HILA": 0.6,
+      "PLEURAL SPACES": 0.3
+    },
+    "hyperintense": {
+      "BONES": 0.4634,
+      "BRAIN": 0.3902,
+      "ORBITS": 0.2683,
+      "SINUSES AND MASTOIDS": 0.3171,
+      "VENTRICLES": 0.3415
+    },
+    "hyperintensity": {
+      "BONES": 0.4815
+    },
+    "hypertrophic": {
+      "ALIGNMENT": 0.4,
+      "DISCS/DEGENERATIVE CHANGES": 0.4,
+      "L1-L2": 0.4,
+      "L2-L3": 0.4,
+      "L3-L4": 0.4,
+      "L4-L5": 0.4,
+      "L5-S1": 0.4,
+      "VERTEBRAE": 0.5
+    },
+    "hypertrophy": {
+      "ALIGNMENT": 0.38,
+      "DISCS/DEGENERATIVE CHANGES": 0.38,
+      "L1-L2": 0.36,
+      "L2-L3": 0.36,
+      "L3-L4": 0.36,
+      "L4-L5": 0.36,
+      "L5-S1": 0.36,
+      "VERTEBRAE": 0.38
+    },
+    "hypointense": {
+      "BONES": 0.375,
+      "GALLBLADDER AND BILE DUCTS": 0.375,
+      "KIDNEYS": 0.375,
+      "LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.5,
+      "PANCREAS": 0.375,
+      "SPLEEN": 0.375
+    },
+    "ica": {
+      "LEFT COMMON CAROTID ARTERY": 1.0,
+      "LEFT ICA/CCA RATIO": 1.0,
+      "LEFT INTERNAL CAROTID ARTERY": 1.0,
+      "LEFT VERTEBRAL ARTERY": 1.0,
+      "RIGHT COMMON CAROTID ARTERY": 1.0,
+      "RIGHT ICA/CCA RATIO": 1.0,
+      "RIGHT INTERNAL CAROTID ARTERY": 1.0,
+      "RIGHT VERTEBRAL ARTERY": 1.0
+    },
+    "identified": {
+      "BONES": 0.4391,
+      "SOFT TISSUES": 0.3198
+    },
+    "iliac": {
+      "BONES": 0.5,
+      "DISC SPACES": 0.3,
+      "JOINTS": 0.3,
+      "SOFT TISSUES": 0.3,
+      "STOMACH AND BOWEL": 0.3,
+      "VERTEBRAE": 0.3
+    },
+    "image": {
+      "BONES AND SOFT TISSUES": 0.3333,
+      "CARDIOVASCULAR": 0.25,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4167,
+      "HEART AND MEDIASTINUM": 0.4167,
+      "LUNGS": 0.5,
+      "LUNGS/AIRWAYS": 0.25,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.25,
+      "OTHER FINDINGS": 0.25
+    },
+    "images": {
+      "BONES": 0.4388
+    },
+    "impingement": {
+      "ALIGNMENT": 0.439,
+      "DISCS/DEGENERATIVE CHANGES": 0.439,
+      "L1-L2": 0.3659,
+      "L2-L3": 0.3659,
+      "L3-L4": 0.439,
+      "L4-L5": 0.439,
+      "L5-S1": 0.439,
+      "VERTEBRAE": 0.439
+    },
+    "impression": {
+      "BONES": 0.4545,
+      "OTHER FINDINGS": 0.3636,
+      "SOFT TISSUES": 0.3182
+    },
+    "incidental": {
+      "SOFT TISSUES": 0.5
+    },
+    "including": {
+      "BONES": 0.3636
+    },
+    "increase": {
+      "CHEST WALL/MUSCULOSKELETAL": 1.0,
+      "LUNGS/AIRWAYS": 0.625,
+      "LUNGS/AIRWAYS/PLEURA": 0.375,
+      "OTHER FINDINGS": 0.625,
+      "PLEURA": 0.5,
+      "UPPER ABDOMEN": 0.375
+    },
+    "increased": {
+      "BONES": 0.4167,
+      "Joint": 0.3333,
+      "Osseous Structures": 0.3333
+    },
+    "indentation": {
+      "ALIGNMENT": 0.4848,
+      "Alignment": 0.3939,
+      "C6-7": 0.3939,
+      "DISCS/DEGENERATIVE CHANGES": 0.5455,
+      "L4-L5": 0.4242,
+      "L5-S1": 0.4242,
+      "SPINAL CORD": 0.4242,
+      "VERTEBRAE": 0.5152
+    },
+    "indicated": {
+      "BONES": 0.3333,
+      "OTHER FINDINGS": 0.3333,
+      "SOFT TISSUES": 0.3333
+    },
+    "infarct": {
+      "BONES": 0.6154,
+      "BRAIN": 0.9231,
+      "ORBITS": 0.6154,
+      "SINUSES AND MASTOIDS": 0.6923,
+      "VENTRICLES": 0.8462
+    },
+    "infarction": {
+      "BONES": 0.5152,
+      "BRAIN": 0.9697,
+      "ORBITS": 0.4848,
+      "SINUSES AND MASTOIDS": 0.697,
+      "VENTRICLES": 0.8182
+    },
+    "inferior": {
+      "ACROMIOCLAVICULAR JOINT": 0.3636,
+      "BONES": 0.7045,
+      "GLENOHUMERAL JOINT": 0.3636,
+      "JOINTS": 0.25,
+      "MUSCLES": 0.2727,
+      "SOFT TISSUES": 0.3182
+    },
+    "inflammatory": {
+      "BONES": 0.5435,
+      "FLUID": 0.2609,
+      "OTHER FINDINGS": 0.3478
+    },
+    "infraspinatus": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 1.0,
+      "INFRASPINATUS": 0.6087,
+      "MUSCLES": 0.6087,
+      "SUBSCAPULARIS": 0.6087,
+      "SUPRASPINATUS": 0.6087,
+      "TERES MINOR": 0.6087
+    },
+    "inguinal": {
+      "ADRENAL GLANDS": 0.3333,
+      "BONES": 0.6667,
+      "DEEP VEINS": 0.3333,
+      "LIVER": 0.3333,
+      "PANCREAS": 0.3333,
+      "PERITONEUM": 0.3333,
+      "REPRODUCTIVE": 0.3333,
+      "SOFT TISSUES": 0.5556
+    },
+    "injury": {
+      "BONES": 0.7222,
+      "EXTENSOR": 0.2778,
+      "FLEXOR": 0.2778,
+      "FLUID": 0.2778,
+      "JOINTS": 0.5,
+      "LATERAL COLLATERAL": 0.2778,
+      "MUSCLES": 0.2778,
+      "OTHER FINDINGS": 0.2778
+    },
+    "insertion": {
+      "ACROMIOCLAVICULAR JOINT": 0.6129,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.6129,
+      "INFRASPINATUS": 0.3548,
+      "MUSCLES": 0.5484,
+      "SUBSCAPULARIS": 0.3871,
+      "SUPRASPINATUS": 0.3871,
+      "TERES MINOR": 0.3871
+    },
+    "insertional": {
+      "ACROMIOCLAVICULAR JOINT": 0.2857,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.3333,
+      "INFRASPINATUS": 0.2857,
+      "JOINTS": 0.4286,
+      "MUSCLES": 0.5238,
+      "SOFT TISSUES": 0.381,
+      "SUBSCAPULARIS": 0.2857
+    },
+    "instability": {
+      "DISC SPACES": 0.6667,
+      "SOFT TISSUES": 0.5556,
+      "VERTEBRAE": 0.6667
+    },
+    "intact": {
+      "Articular Cartilage": 0.3476,
+      "BONES": 0.4979,
+      "Extensor Mechanism": 0.2532,
+      "Joint": 0.3648,
+      "Osseous Structures": 0.3906,
+      "Soft Tissues": 0.2918
+    },
+    "intensity": {
+      "ALIGNMENT": 0.3235,
+      "DISCS/DEGENERATIVE CHANGES": 0.3235,
+      "PARASPINAL SOFT TISSUES": 0.3088,
+      "SPINAL CORD": 0.3088,
+      "VERTEBRAE": 0.3088
+    },
+    "interbody": {
+      "DISC SPACES": 0.7778,
+      "SOFT TISSUES": 0.3333,
+      "VERTEBRAE": 0.7778
+    },
+    "intercarpal": {
+      "BONES": 0.8889,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.6667
+    },
+    "internal": {
+      "BONES": 0.3235,
+      "BRAIN": 0.2647,
+      "SOFT TISSUES": 0.2647
+    },
+    "interphalangeal": {
+      "BONES": 0.7273,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.7818
+    },
+    "interstitial": {
+      "BONES": 0.2727,
+      "CARDIOVASCULAR": 0.5152,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5152,
+      "LUNGS": 0.3636,
+      "LUNGS/AIRWAYS": 0.3939,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3939,
+      "MEDIASTINUM/HILA": 0.2727,
+      "OTHER FINDINGS": 0.3939
+    },
+    "interval": {
+      "BONES": 0.3333,
+      "CARDIOVASCULAR": 0.2667,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4167,
+      "LUNGS/AIRWAYS": 0.3333,
+      "OTHER FINDINGS": 0.3333
+    },
+    "intervertebral": {
+      "ALIGNMENT": 0.5,
+      "DISCS/DEGENERATIVE CHANGES": 0.5,
+      "L1-L2": 0.3824,
+      "L3-L4": 0.4118,
+      "L4-L5": 0.4118,
+      "L5-S1": 0.4118,
+      "SPINAL CORD": 0.4412,
+      "VERTEBRAE": 0.6471
+    },
+    "into": {
+      "BONES": 0.2941,
+      "SOFT TISSUES": 0.2941,
+      "VERTEBRAE": 0.2941
+    },
+    "intra": {
+      "Articular Cartilage": 0.3056,
+      "BONES": 0.5833,
+      "Joint": 0.3056,
+      "MUSCLES": 0.25
+    },
+    "intracranial": {
+      "BONES": 0.5455,
+      "BRAIN": 0.9351,
+      "ORBITS": 0.5455,
+      "SINUSES AND MASTOIDS": 0.7532,
+      "VENTRICLES": 0.8052
+    },
+    "intrahepatic": {
+      "ADRENALS": 0.2857,
+      "GALLBLADDER AND BILE DUCTS": 0.5,
+      "KIDNEYS": 0.5714,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.5714,
+      "PANCREAS": 0.8571,
+      "SPLEEN": 0.7857,
+      "STOMACH AND BOWEL": 0.3571
+    },
+    "intraluminal": {
+      "DEEP VEINS": 0.5909,
+      "LIVER": 0.2727,
+      "LYMPH NODES": 0.3636,
+      "PANCREAS": 0.2727,
+      "SOFT TISSUES": 0.4545,
+      "SPLEEN": 0.2727,
+      "SUPERFICIAL VEINS": 0.2727
+    },
+    "intramedullary": {
+      "ALIGNMENT": 0.3333,
+      "Alignment": 0.4444,
+      "C4-5": 0.3333,
+      "C5-6": 0.3333,
+      "C6-7": 0.4444,
+      "DISCS/DEGENERATIVE CHANGES": 0.3333,
+      "Spinal Cord": 0.4444,
+      "Vertebral Bodies": 0.4444
+    },
+    "intramuscular": {
+      "ABDUCTORS": 0.3333,
+      "ADDUCTORS": 0.3333,
+      "BONES": 0.5556,
+      "CARTILAGE": 0.5556,
+      "FLUID": 0.5556,
+      "MUSCLES": 0.5556,
+      "OTHER FINDINGS": 0.4444,
+      "TENDONS": 0.5556
+    },
+    "intrasubstance": {
+      "Articular Cartilage": 0.6923,
+      "BONES": 0.2692,
+      "Extensor Mechanism": 0.3077,
+      "Joint": 0.7308,
+      "Osseous Structures": 0.7308,
+      "Soft Tissues": 0.3462
+    },
+    "intravenous": {
+      "BONES": 0.375,
+      "CARDIOVASCULAR": 0.25,
+      "CHEST WALL/MUSCULOSKELETAL": 0.25
+    },
+    "intrinsic": {
+      "BONES": 0.8571,
+      "CARTILAGE": 0.5714,
+      "EXTENSOR": 0.7143,
+      "FLEXOR": 0.7143,
+      "FLUID": 0.7143,
+      "LATERAL COLLATERAL": 0.7143,
+      "LISFRANC": 0.5714,
+      "MUSCLES": 0.8571
+    },
+    "involvement": {
+      "BONES": 0.6667,
+      "SOFT TISSUES": 0.5556
+    },
+    "involving": {
+      "BONES": 0.6318,
+      "JOINTS": 0.2687,
+      "SOFT TISSUES": 0.2637
+    },
+    "irregularity": {
+      "BONES": 0.7407,
+      "JOINTS": 0.5185,
+      "SOFT TISSUES": 0.4074
+    },
+    "ischemic": {
+      "BONES": 0.5625,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5938,
+      "SINUSES AND MASTOIDS": 0.7188,
+      "VENTRICLES": 0.75
+    },
+    "its": {
+      "ACROMIOCLAVICULAR JOINT": 0.2778,
+      "BONES": 0.8333,
+      "CARTILAGE": 0.3889,
+      "FLUID": 0.3889,
+      "GLENOHUMERAL JOINT": 0.2778,
+      "LATERAL COLLATERAL": 0.2778,
+      "MEDIAL COLLATERAL": 0.2778,
+      "MUSCLES": 0.3333
+    },
+    "joint": {
+      "BONES": 0.7607,
+      "JOINTS": 0.5677,
+      "SOFT TISSUES": 0.3878
+    },
+    "joints": {
+      "BONES": 0.6885,
+      "JOINTS": 0.5902,
+      "SOFT TISSUES": 0.5738
+    },
+    "junction": {
+      "Alignment": 0.25,
+      "BONES": 0.4,
+      "C4-5": 0.25,
+      "C5-6": 0.25,
+      "C6-7": 0.25,
+      "Spinal Cord": 0.25,
+      "Vertebral Bodies": 0.25
+    },
+    "kidney": {
+      "ADRENAL GLANDS": 0.5556,
+      "KIDNEYS": 0.6111,
+      "LIVER": 0.9444,
+      "LYMPH NODES": 0.7222,
+      "PANCREAS": 1.0,
+      "PERITONEUM": 0.5556,
+      "SPLEEN": 0.9444,
+      "STOMACH AND BOWEL": 0.7222
+    },
+    "kidneys": {
+      "GALLBLADDER AND BILE DUCTS": 0.5625,
+      "KIDNEYS": 0.8125,
+      "LIVER": 0.8125,
+      "LYMPH NODES": 0.8125,
+      "PANCREAS": 0.8125,
+      "SPLEEN": 0.6875,
+      "STOMACH AND BOWEL": 0.5625,
+      "VASCULATURE": 0.5625
+    },
+    "knee": {
+      "Articular Cartilage": 0.2737,
+      "BONES": 0.6211,
+      "JOINTS": 0.6632,
+      "Joint": 0.3158,
+      "Osseous Structures": 0.2947,
+      "SOFT TISSUES": 0.3789
+    },
+    "kyphosis": {
+      "ALIGNMENT": 0.4444,
+      "DISC SPACES": 0.4444,
+      "DISCS/DEGENERATIVE CHANGES": 0.4444,
+      "PARASPINAL SOFT TISSUES": 0.4444,
+      "SPINAL CORD": 0.4444,
+      "VERTEBRAE": 0.8889
+    },
+    "labral": {
+      "ACROMIOCLAVICULAR JOINT": 0.8333,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.8333,
+      "INFRASPINATUS": 0.4583,
+      "MUSCLES": 0.5833,
+      "SUBSCAPULARIS": 0.4583,
+      "SUPRASPINATUS": 0.4583,
+      "TERES MINOR": 0.4583
+    },
+    "labrum": {
+      "ACROMIOCLAVICULAR JOINT": 0.6923,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.6923,
+      "INFRASPINATUS": 0.4231,
+      "MUSCLES": 0.6923,
+      "SUBSCAPULARIS": 0.4231,
+      "SUPRASPINATUS": 0.4231,
+      "TERES MINOR": 0.4231
+    },
+    "lacunar": {
+      "BONES": 0.6667,
+      "BRAIN": 1.0,
+      "ORBITS": 0.6667,
+      "SINUSES AND MASTOIDS": 0.6667,
+      "VENTRICLES": 0.8333
+    },
+    "largest": {
+      "GALLBLADDER AND BILE DUCTS": 0.4444,
+      "KIDNEYS": 0.4444,
+      "LIVER": 0.4444,
+      "LYMPH NODES": 0.4444,
+      "PANCREAS": 0.4444,
+      "SPLEEN": 0.4444
+    },
+    "lateral": {
+      "Articular Cartilage": 0.4136,
+      "BONES": 0.2963,
+      "Extensor Mechanism": 0.2778,
+      "Joint": 0.4259,
+      "Osseous Structures": 0.4568,
+      "Soft Tissues": 0.3086
+    },
+    "lead": {
+      "LUNGS": 0.6667
+    },
+    "leads": {
+      "CARDIOVASCULAR": 0.375,
+      "CHEST WALL/MUSCULOSKELETAL": 0.375,
+      "LINES/TUBES/SUPPORT DEVICES": 0.375,
+      "LUNGS": 0.375,
+      "LUNGS/AIRWAYS": 0.375,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.375,
+      "OTHER FINDINGS": 0.625
+    },
+    "leg": {
+      "BONES": 0.5,
+      "JOINTS": 0.5,
+      "SOFT TISSUES": 0.9,
+      "VASCULARITY": 0.3
+    },
+    "lesion": {
+      "BONES": 0.5167
+    },
+    "lesions": {
+      "BONES": 0.5,
+      "BRAIN": 0.6667,
+      "SINUSES AND MASTOIDS": 0.6667,
+      "VENTRICLES": 0.5
+    },
+    "leukoaraiosis": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.75,
+      "VENTRICLES": 0.75
+    },
+    "level": {
+      "ALIGNMENT": 0.6078,
+      "DISCS/DEGENERATIVE CHANGES": 0.6078,
+      "L3-L4": 0.4706,
+      "L4-L5": 0.4706,
+      "L5-S1": 0.4706,
+      "PARASPINAL SOFT TISSUES": 0.549,
+      "SPINAL CORD": 0.5882,
+      "VERTEBRAE": 0.6471
+    },
+    "levels": {
+      "DISC SPACES": 0.3103,
+      "VERTEBRAE": 0.6207
+    },
+    "levoconvex": {
+      "DISC SPACES": 1.0,
+      "SOFT TISSUES": 0.9091,
+      "VERTEBRAE": 1.0
+    },
+    "levoscoliosis": {
+      "ALIGNMENT": 0.6667,
+      "DISCS/DEGENERATIVE CHANGES": 0.6667,
+      "L1-L2": 0.6667,
+      "L2-L3": 0.6667,
+      "L3-L4": 0.6667,
+      "L4-L5": 0.6667,
+      "L5-S1": 0.6667,
+      "VERTEBRAE": 1.0
+    },
+    "ligament": {
+      "Articular Cartilage": 0.5922,
+      "BONES": 0.2524,
+      "Extensor Mechanism": 0.4272,
+      "Joint": 0.6602,
+      "Osseous Structures": 0.7087,
+      "Soft Tissues": 0.4757
+    },
+    "ligamentous": {
+      "BONES": 0.5556,
+      "JOINTS": 0.3333,
+      "Joint": 0.3333,
+      "Osseous Structures": 0.3333,
+      "SOFT TISSUES": 0.4444
+    },
+    "ligaments": {
+      "Articular Cartilage": 0.5833,
+      "BONES": 0.3889,
+      "CARTILAGE": 0.2778,
+      "EXTENSOR": 0.2778,
+      "Extensor Mechanism": 0.4722,
+      "FLUID": 0.3333,
+      "Joint": 0.5278,
+      "Osseous Structures": 0.5556
+    },
+    "ligamentum": {
+      "ALIGNMENT": 0.9286,
+      "DISCS/DEGENERATIVE CHANGES": 0.9643,
+      "L1-L2": 0.8571,
+      "L2-L3": 0.8571,
+      "L3-L4": 0.8571,
+      "L4-L5": 0.8929,
+      "L5-S1": 0.8929,
+      "VERTEBRAE": 0.9286
+    },
+    "like": {
+      "Articular Cartilage": 0.4444,
+      "BONES": 0.3333,
+      "Joint": 0.4444,
+      "OTHER FINDINGS": 0.7778,
+      "Osseous Structures": 0.4444
+    },
+    "likely": {
+      "BONES": 0.3377
+    },
+    "limb": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.875
+    },
+    "limitations": {
+      "BONES": 0.7143,
+      "CARTILAGE": 0.5714,
+      "JOINTS": 0.4286,
+      "LIGAMENTS": 0.5714,
+      "Median": 0.4286,
+      "NERVES": 0.4286,
+      "TENDONS": 0.5714,
+      "TRIANGULAR FIBROCARTILAGE": 0.4286
+    },
+    "limited": {
+      "BONES": 0.3333
+    },
+    "limits": {
+      "BONES": 0.4,
+      "CARDIOVASCULAR": 0.2727,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2727,
+      "LUNGS": 0.2727
+    },
+    "line": {
+      "BONES": 0.7143,
+      "EXTENSOR": 0.5714,
+      "FLEXOR": 0.5714,
+      "FLUID": 0.7143,
+      "LATERAL COLLATERAL": 0.5714,
+      "LISFRANC": 0.5714,
+      "MUSCLES": 0.7143,
+      "OTHER FINDINGS": 0.7143
+    },
+    "linear": {
+      "BONES": 0.3824,
+      "CARDIOVASCULAR": 0.3235,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3235,
+      "LUNGS": 0.4118
+    },
+    "lingula": {
+      "CARDIOVASCULAR": 0.5714,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8571,
+      "LUNGS/AIRWAYS/PLEURA": 0.7143,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.4286,
+      "UPPER ABDOMEN": 0.7143
+    },
+    "lisfranc": {
+      "BONES": 1.0,
+      "EXTENSOR": 0.75,
+      "FLEXOR": 0.75,
+      "FLUID": 0.75,
+      "LATERAL COLLATERAL": 0.75,
+      "LISFRANC": 0.75,
+      "MUSCLES": 0.75,
+      "OTHER FINDINGS": 0.75
+    },
+    "listhesis": {
+      "DISC SPACES": 0.5,
+      "SOFT TISSUES": 0.5,
+      "VERTEBRAE": 0.7
+    },
+    "liver": {
+      "ADRENALS": 0.3,
+      "GALLBLADDER AND BILE DUCTS": 0.45,
+      "KIDNEYS": 0.65,
+      "LIVER": 0.95,
+      "LYMPH NODES": 0.55,
+      "PANCREAS": 0.75,
+      "SPLEEN": 0.6,
+      "STOMACH AND BOWEL": 0.45
+    },
+    "lobe": {
+      "CARDIOVASCULAR": 0.5876,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7216,
+      "LUNGS/AIRWAYS": 0.4742,
+      "LUNGS/AIRWAYS/PLEURA": 0.2784,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3711,
+      "OTHER FINDINGS": 0.4227,
+      "UPPER ABDOMEN": 0.2887
+    },
+    "lobes": {
+      "CARDIOVASCULAR": 0.8235,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8235,
+      "LUNGS/AIRWAYS": 0.4118,
+      "LUNGS/AIRWAYS/PLEURA": 0.4118,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4118,
+      "OTHER FINDINGS": 0.4118,
+      "PLEURA": 0.4118,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.4118
+    },
+    "long": {
+      "ACROMIOCLAVICULAR JOINT": 0.9677,
+      "BONES": 0.9677,
+      "GLENOHUMERAL JOINT": 0.9355,
+      "INFRASPINATUS": 0.7097,
+      "MUSCLES": 0.7097,
+      "SUBSCAPULARIS": 0.7419,
+      "SUPRASPINATUS": 0.7419,
+      "TERES MINOR": 0.7419
+    },
+    "longus": {
+      "BONES": 1.0,
+      "CARTILAGE": 0.8,
+      "EXTENSOR": 1.0,
+      "FLEXOR": 1.0,
+      "FLUID": 1.0,
+      "LATERAL COLLATERAL": 0.6,
+      "PERONEAL": 1.0,
+      "PLANTAR FASCIA": 1.0
+    },
+    "loops": {
+      "BLADDER": 0.3,
+      "BONES": 0.8,
+      "BOWEL": 0.6,
+      "LIVER": 0.4,
+      "LYMPH NODES": 0.7,
+      "OTHER FINDINGS": 0.4,
+      "REPRODUCTIVE": 0.5,
+      "STOMACH AND BOWEL": 0.4
+    },
+    "loose": {
+      "Articular Cartilage": 0.2963,
+      "BONES": 0.6296,
+      "JOINTS": 0.4815,
+      "Joint": 0.2963,
+      "Osseous Structures": 0.2593
+    },
+    "loosening": {
+      "BONES": 0.6,
+      "JOINTS": 0.5,
+      "SOFT TISSUES": 0.6
+    },
+    "lordosis": {
+      "Alignment": 0.2982,
+      "C4-5": 0.2632,
+      "C5-6": 0.2632,
+      "C6-7": 0.2982,
+      "Spinal Cord": 0.2982,
+      "VERTEBRAE": 0.3333,
+      "Vertebral Bodies": 0.2632
+    },
+    "loss": {
+      "BONES": 0.3636,
+      "BRAIN": 0.3333
+    },
+    "low": {
+      "ACROMIOCLAVICULAR JOINT": 0.3125,
+      "BONES": 0.5833,
+      "GLENOHUMERAL JOINT": 0.3125,
+      "MUSCLES": 0.375
+    },
+    "lower": {
+      "CHEST WALL/MUSCULOSKELETAL": 0.2722,
+      "DISC SPACES": 0.2604,
+      "SOFT TISSUES": 0.3669,
+      "VERTEBRAE": 0.3373
+    },
+    "lucency": {
+      "BONES": 0.6667,
+      "JOINTS": 0.8333,
+      "SOFT TISSUES": 0.6667
+    },
+    "lumbar": {
+      "DISC SPACES": 0.6435,
+      "SOFT TISSUES": 0.6065,
+      "VERTEBRAE": 0.8843
+    },
+    "lumbosacral": {
+      "ADRENAL GLANDS": 0.5,
+      "BONES": 0.8333,
+      "GALLBLADDER AND BILIARY TREE": 0.5,
+      "KIDNEYS AND URETERS": 0.5,
+      "LIVER": 0.5,
+      "MAJOR VESSELS": 0.5,
+      "PANCREAS": 0.5,
+      "PERITONEUM": 0.6667
+    },
+    "lung": {
+      "BONES AND SOFT TISSUES": 0.36,
+      "CARDIOVASCULAR": 0.34,
+      "CHEST WALL/MUSCULOSKELETAL": 0.34,
+      "HEART AND MEDIASTINUM": 0.36,
+      "LUNGS": 0.42,
+      "LUNGS/AIRWAYS": 0.26,
+      "OTHER FINDINGS": 0.28
+    },
+    "lungs": {
+      "CARDIOVASCULAR": 0.5106,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4894,
+      "LUNGS": 0.4043,
+      "LUNGS/AIRWAYS/PLEURA": 0.3191,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.2553,
+      "UPPER ABDOMEN": 0.3191
+    },
+    "lymph": {
+      "CARDIOVASCULAR": 0.4884,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4884,
+      "LUNGS/AIRWAYS": 0.3256,
+      "LYMPH NODES": 0.3256,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3256,
+      "OTHER FINDINGS": 0.3256
+    },
+    "lymphadenopathy": {
+      "CARDIOVASCULAR": 0.5161,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5484,
+      "LUNGS/AIRWAYS": 0.2581,
+      "LUNGS/AIRWAYS/PLEURA": 0.2903,
+      "LYMPH NODES": 0.4516,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2581,
+      "OTHER FINDINGS": 0.3226,
+      "UPPER ABDOMEN": 0.2903
+    },
+    "lytic": {
+      "BONES": 0.6,
+      "JOINTS": 0.4667,
+      "SOFT TISSUES": 0.6667
+    },
+    "main": {
+      "CARDIOVASCULAR": 0.5833,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4167,
+      "LIVER": 0.4167,
+      "LUNGS/AIRWAYS/PLEURA": 0.3333,
+      "LYMPH NODES": 0.3333,
+      "OTHER FINDINGS": 0.4167,
+      "PANCREAS": 0.3333,
+      "SPLEEN": 0.3333
+    },
+    "maintained": {
+      "BONES": 0.4242,
+      "JOINTS": 0.3636,
+      "SOFT TISSUES": 0.4394,
+      "VERTEBRAE": 0.303
+    },
+    "major": {
+      "BONES": 0.5,
+      "BRAIN": 0.7727,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.7273,
+      "VENTRICLES": 0.6818
+    },
+    "marginal": {
+      "BONES": 0.6871,
+      "JOINTS": 0.6503,
+      "SOFT TISSUES": 0.4724
+    },
+    "marked": {
+      "BONES": 0.5,
+      "JOINTS": 0.3333,
+      "SOFT TISSUES": 0.2857
+    },
+    "marrow": {
+      "BONES": 0.492,
+      "MUSCLES": 0.262
+    },
+    "mass": {
+      "BONES": 0.4672,
+      "BRAIN": 0.4344,
+      "SINUSES AND MASTOIDS": 0.3361,
+      "VENTRICLES": 0.3852
+    },
+    "mastoid": {
+      "BONES": 0.5833,
+      "BRAIN": 0.9167,
+      "ORBITS": 0.5417,
+      "SINUSES AND MASTOIDS": 0.7917,
+      "VENTRICLES": 0.75
+    },
+    "matter": {
+      "BONES": 0.475,
+      "BRAIN": 1.0,
+      "ORBITS": 0.575,
+      "SINUSES AND MASTOIDS": 0.7,
+      "VENTRICLES": 0.8
+    },
+    "maxillary": {
+      "BONES": 0.5556,
+      "BRAIN": 0.5556,
+      "ORBITS": 0.3333,
+      "SINUSES AND MASTOIDS": 0.7778,
+      "VENTRICLES": 0.4444
+    },
+    "maximum": {
+      "OTHER FINDINGS": 0.5
+    },
+    "may": {
+      "BONES": 0.4464,
+      "JOINTS": 0.3571,
+      "OTHER FINDINGS": 0.2679,
+      "SOFT TISSUES": 0.2857
+    },
+    "mcl": {
+      "Articular Cartilage": 0.6364,
+      "Extensor Mechanism": 0.3636,
+      "Joint": 1.0,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.4545
+    },
+    "measuring": {
+      "BONES": 0.28,
+      "OTHER FINDINGS": 0.26
+    },
+    "mechanism": {
+      "Articular Cartilage": 1.0,
+      "Bursae": 0.4545,
+      "Extensor Mechanism": 0.7273,
+      "Joint": 0.9091,
+      "Musculature": 0.3636,
+      "Osseous Structures": 0.9091,
+      "Soft Tissues": 0.6364
+    },
+    "medial": {
+      "Articular Cartilage": 0.5628,
+      "BONES": 0.2864,
+      "Extensor Mechanism": 0.3417,
+      "JOINTS": 0.2764,
+      "Joint": 0.6231,
+      "Osseous Structures": 0.6583,
+      "Soft Tissues": 0.3467
+    },
+    "mediastinal": {
+      "CARDIOVASCULAR": 0.8462,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8462,
+      "LUNGS/AIRWAYS": 0.4872,
+      "LUNGS/AIRWAYS/PLEURA": 0.359,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4872,
+      "OTHER FINDINGS": 0.359,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.359,
+      "UPPER ABDOMEN": 0.359
+    },
+    "mediastinum": {
+      "CARDIOVASCULAR": 0.8,
+      "CHEST WALL/MUSCULOSKELETAL": 0.75,
+      "LUNGS/AIRWAYS": 0.5,
+      "LUNGS/AIRWAYS/PLEURA": 0.3,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.45,
+      "OTHER FINDINGS": 0.45,
+      "PLEURA": 0.3,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3
+    },
+    "medius": {
+      "ABDUCTORS": 0.7143,
+      "BONES": 1.0,
+      "CARTILAGE": 0.7143,
+      "EXTENSORS/HAMSTRING": 0.4286,
+      "FLUID": 1.0,
+      "LABRUM": 0.7143,
+      "MUSCLES": 1.0,
+      "OTHER FINDINGS": 0.7143
+    },
+    "medullaris": {
+      "ALIGNMENT": 1.0,
+      "DISCS/DEGENERATIVE CHANGES": 1.0,
+      "L3-L4": 0.7826,
+      "L4-L5": 0.7826,
+      "L5-S1": 0.7826,
+      "PARASPINAL SOFT TISSUES": 0.913,
+      "SPINAL CORD": 0.9565,
+      "VERTEBRAE": 0.9565
+    },
+    "meniscal": {
+      "Articular Cartilage": 0.85,
+      "Extensor Mechanism": 0.5,
+      "Joint": 1.0,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.6
+    },
+    "menisci": {
+      "Articular Cartilage": 0.9286,
+      "Bursae": 0.5714,
+      "Extensor Mechanism": 0.8571,
+      "Joint": 0.9286,
+      "Musculature": 0.5,
+      "Osseous Structures": 0.9286,
+      "Soft Tissues": 0.5714
+    },
+    "meniscus": {
+      "Articular Cartilage": 0.8542,
+      "Extensor Mechanism": 0.4792,
+      "Joint": 0.9375,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.5625
+    },
+    "metacarpal": {
+      "BONES": 1.0,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.7143
+    },
+    "metacarpophalangeal": {
+      "BONES": 1.0,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.75
+    },
+    "metallic": {
+      "ACROMIOCLAVICULAR JOINT": 0.375,
+      "BICEPS ANCHOR COMPLEX": 0.375,
+      "BONES": 0.75,
+      "GLENOHUMERAL JOINT": 0.375,
+      "LIGAMENTS": 0.375,
+      "PERIARTICULAR SOFT TISSUE": 0.375,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.375,
+      "SOFT TISSUES": 0.375
+    },
+    "metatarsal": {
+      "BONES": 0.8,
+      "CARTILAGE": 0.4,
+      "EXTENSOR": 0.55,
+      "FLEXOR": 0.55,
+      "FLUID": 0.65,
+      "LATERAL COLLATERAL": 0.55,
+      "LISFRANC": 0.55,
+      "MUSCLES": 0.55
+    },
+    "metatarsophalangeal": {
+      "BONES": 0.8065,
+      "EXTENSOR": 0.3226,
+      "FLEXOR": 0.3226,
+      "JOINTS": 0.6774,
+      "LATERAL COLLATERAL": 0.3226,
+      "OTHER FINDINGS": 0.2581,
+      "SOFT TISSUES": 0.5806
+    },
+    "microvascular": {
+      "BONES": 0.6667,
+      "BRAIN": 1.0,
+      "ORBITS": 0.7333,
+      "SINUSES AND MASTOIDS": 0.7333,
+      "VENTRICLES": 0.8
+    },
+    "mid": {
+      "DISC SPACES": 0.3333,
+      "SOFT TISSUES": 0.5714,
+      "VERTEBRAE": 0.381
+    },
+    "middle": {
+      "CARDIOVASCULAR": 0.4,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6,
+      "LUNGS/AIRWAYS": 0.3,
+      "LUNGS/AIRWAYS/PLEURA": 0.3,
+      "PLEURA": 0.3,
+      "UPPER ABDOMEN": 0.3
+    },
+    "midfoot": {
+      "BONES": 1.0,
+      "JOINTS": 0.7692,
+      "SOFT TISSUES": 0.6154
+    },
+    "midline": {
+      "BONES": 0.5161,
+      "BRAIN": 0.9677,
+      "ORBITS": 0.3871,
+      "SINUSES AND MASTOIDS": 0.6774,
+      "VENTRICLES": 0.8065
+    },
+    "mildly": {
+      "BONES": 0.4722,
+      "JOINTS": 0.25,
+      "OTHER FINDINGS": 0.25,
+      "SOFT TISSUES": 0.3611
+    },
+    "mineralization": {
+      "BONES": 1.0,
+      "JOINTS": 0.8889,
+      "SOFT TISSUES": 1.0
+    },
+    "minimal": {
+      "BONES": 0.5526
+    },
+    "minor": {
+      "ACROMIOCLAVICULAR JOINT": 0.9375,
+      "BONES": 0.9375,
+      "GLENOHUMERAL JOINT": 0.9375,
+      "INFRASPINATUS": 0.625,
+      "MUSCLES": 0.625,
+      "SUBSCAPULARIS": 0.625,
+      "SUPRASPINATUS": 0.625,
+      "TERES MINOR": 0.625
+    },
+    "months": {
+      "BONES AND SOFT TISSUES": 0.5556,
+      "HEART AND MEDIASTINUM": 0.5556,
+      "LUNGS": 0.5556,
+      "PLEURAL SPACES": 0.3333
+    },
+    "more": {
+      "ALIGNMENT": 0.28,
+      "BONES": 0.28,
+      "DISCS/DEGENERATIVE CHANGES": 0.28,
+      "SPINAL CORD": 0.28,
+      "VERTEBRAE": 0.28
+    },
+    "morphology": {
+      "BONES": 0.3667
+    },
+    "most": {
+      "BONES": 0.3333,
+      "DISC SPACES": 0.3333,
+      "SOFT TISSUES": 0.3889,
+      "VERTEBRAE": 0.4167
+    },
+    "motion": {
+      "DISC SPACES": 0.5,
+      "SOFT TISSUES": 0.5,
+      "VERTEBRAE": 0.5
+    },
+    "mri": {
+      "BONES": 0.5625
+    },
+    "mtp": {
+      "BONES": 0.8,
+      "JOINTS": 0.8,
+      "SOFT TISSUES": 0.7
+    },
+    "mucoid": {
+      "Articular Cartilage": 0.8571,
+      "Extensor Mechanism": 0.5714,
+      "Joint": 1.0,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.8571
+    },
+    "mucosal": {
+      "BONES": 0.8571,
+      "BRAIN": 0.7143,
+      "ORBITS": 0.6429,
+      "SINUSES AND MASTOIDS": 0.7857,
+      "VENTRICLES": 0.5714
+    },
+    "multifocal": {
+      "BONES": 0.7778,
+      "JOINTS": 0.6111,
+      "SOFT TISSUES": 0.5556
+    },
+    "multilevel": {
+      "DISC SPACES": 0.3756,
+      "SOFT TISSUES": 0.2986,
+      "VERTEBRAE": 0.6154
+    },
+    "multiplanar": {
+      "BONES": 0.7
+    },
+    "multisequence": {
+      "BONES": 0.6667
+    },
+    "muscle": {
+      "ACROMIOCLAVICULAR JOINT": 0.3404,
+      "BONES": 0.5745,
+      "GLENOHUMERAL JOINT": 0.3404,
+      "MUSCLES": 0.4255
+    },
+    "muscles": {
+      "ACROMIOCLAVICULAR JOINT": 0.4167,
+      "BONES": 0.7083,
+      "GLENOHUMERAL JOINT": 0.4167,
+      "INFRASPINATUS": 0.3333,
+      "MUSCLES": 0.5417,
+      "SUBSCAPULARIS": 0.3333,
+      "SUPRASPINATUS": 0.3333,
+      "TERES MINOR": 0.3333
+    },
+    "musculature": {
+      "ACROMIOCLAVICULAR JOINT": 0.3,
+      "BONES": 0.6333,
+      "GLENOHUMERAL JOINT": 0.3,
+      "INFRASPINATUS": 0.2667,
+      "MUSCLES": 0.5333,
+      "OTHER FINDINGS": 0.2667,
+      "SUBSCAPULARIS": 0.2667,
+      "SUPRASPINATUS": 0.2667
+    },
+    "myelomalacia": {
+      "Alignment": 0.7778,
+      "C2-3": 0.7778,
+      "C3-4": 0.7778,
+      "C4-5": 0.7778,
+      "C5-6": 0.7778,
+      "C6-7": 0.7778,
+      "C7-T1": 0.7222,
+      "Spinal Cord": 0.7778
+    },
+    "narrowing": {
+      "BONES": 0.3716,
+      "JOINTS": 0.3142,
+      "SOFT TISSUES": 0.2787,
+      "VERTEBRAE": 0.3634
+    },
+    "near": {
+      "ACROMIOCLAVICULAR JOINT": 0.45,
+      "BONES": 0.8,
+      "GLENOHUMERAL JOINT": 0.4,
+      "MUSCLES": 0.4,
+      "SUBSCAPULARIS": 0.25,
+      "SUPRASPINATUS": 0.25,
+      "TERES MINOR": 0.25
+    },
+    "neck": {
+      "BONES": 0.6364,
+      "FLUID": 0.2727,
+      "LYMPH NODES": 0.2727
+    },
+    "necrosis": {
+      "ABDUCTORS": 0.3158,
+      "BONES": 0.8421,
+      "CARTILAGE": 0.3158,
+      "FLUID": 0.3158,
+      "JOINTS": 0.3684,
+      "LABRUM": 0.3158,
+      "MUSCLES": 0.3158,
+      "SOFT TISSUES": 0.3684
+    },
+    "negative": {
+      "BONES": 0.625,
+      "BONES AND SOFT TISSUES": 0.375,
+      "HEART AND MEDIASTINUM": 0.375,
+      "JOINTS": 0.5,
+      "LUNGS": 0.375,
+      "PLEURAL SPACES": 0.5
+    },
+    "nerve": {
+      "ALIGNMENT": 0.6389,
+      "DISCS/DEGENERATIVE CHANGES": 0.6389,
+      "L1-L2": 0.5694,
+      "L2-L3": 0.5694,
+      "L3-L4": 0.625,
+      "L4-L5": 0.625,
+      "L5-S1": 0.625,
+      "VERTEBRAE": 0.6389
+    },
+    "neural": {
+      "ALIGNMENT": 0.548,
+      "DISCS/DEGENERATIVE CHANGES": 0.5593,
+      "L1-L2": 0.4576,
+      "L3-L4": 0.4802,
+      "L4-L5": 0.4915,
+      "L5-S1": 0.4915,
+      "SPINAL CORD": 0.4915,
+      "VERTEBRAE": 0.5763
+    },
+    "neurovascular": {
+      "BONES": 0.6667,
+      "CARTILAGE": 0.6667,
+      "FLUID": 0.5
+    },
+    "new": {
+      "BONES": 0.2683,
+      "CARDIOVASCULAR": 0.439,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4634,
+      "LUNGS/AIRWAYS": 0.3659,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2927,
+      "OTHER FINDINGS": 0.3415
+    },
+    "node": {
+      "CARDIOVASCULAR": 0.375,
+      "CHEST WALL/MUSCULOSKELETAL": 0.375,
+      "LUNGS/AIRWAYS": 0.375,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.375,
+      "OTHER FINDINGS": 0.375
+    },
+    "nodes": {
+      "CARDIOVASCULAR": 0.45,
+      "CHEST WALL/MUSCULOSKELETAL": 0.45,
+      "LUNGS/AIRWAYS": 0.275,
+      "LYMPH NODES": 0.3,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.275,
+      "OTHER FINDINGS": 0.275
+    },
+    "nodular": {
+      "CARDIOVASCULAR": 0.75,
+      "CHEST WALL/MUSCULOSKELETAL": 0.75,
+      "LUNGS/AIRWAYS": 0.375,
+      "LUNGS/AIRWAYS/PLEURA": 0.375,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.375,
+      "OTHER FINDINGS": 0.375,
+      "PLEURA": 0.375,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.375
+    },
+    "nodule": {
+      "CARDIOVASCULAR": 0.5556,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6389,
+      "LUNGS": 0.25,
+      "LUNGS/AIRWAYS": 0.4306,
+      "LUNGS/AIRWAYS/PLEURA": 0.2778,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2917,
+      "OTHER FINDINGS": 0.4167,
+      "UPPER ABDOMEN": 0.3194
+    },
+    "nodules": {
+      "CARDIOVASCULAR": 0.7143,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6667,
+      "LUNGS/AIRWAYS": 0.619,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.381,
+      "OTHER FINDINGS": 0.5238
+    },
+    "non": {
+      "BONES": 0.322,
+      "DISC SPACES": 0.3051,
+      "SOFT TISSUES": 0.3559,
+      "VERTEBRAE": 0.339
+    },
+    "noncontrast": {
+      "BONES": 0.375,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "LUNGS/AIRWAYS": 0.5,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.5,
+      "PLEURA": 0.375
+    },
+    "nondisplaced": {
+      "BONES": 0.9,
+      "JOINTS": 0.8,
+      "SOFT TISSUES": 0.9
+    },
+    "none": {
+      "BONES": 0.5312,
+      "JOINTS": 0.2812,
+      "SOFT TISSUES": 0.375
+    },
+    "nonspecific": {
+      "BONES": 0.4167,
+      "BRAIN": 0.3333,
+      "CARDIOVASCULAR": 0.3333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3333,
+      "LUNGS/AIRWAYS": 0.25,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.25,
+      "OTHER FINDINGS": 0.25,
+      "VENTRICLES": 0.2917
+    },
+    "normally": {
+      "ACROMIOCLAVICULAR JOINT": 0.5,
+      "BONES": 0.8077,
+      "GLENOHUMERAL JOINT": 0.5,
+      "INFRASPINATUS": 0.2692,
+      "MUSCLES": 0.3462,
+      "SUBSCAPULARIS": 0.2692,
+      "SUPRASPINATUS": 0.2692,
+      "TERES MINOR": 0.2692
+    },
+    "now": {
+      "CHEST WALL/MUSCULOSKELETAL": 0.8571,
+      "LUNGS/AIRWAYS/PLEURA": 0.5714,
+      "UPPER ABDOMEN": 0.5714
+    },
+    "obliteration": {
+      "ALIGNMENT": 0.625,
+      "DISCS/DEGENERATIVE CHANGES": 0.625,
+      "L1-L2": 0.625,
+      "L2-L3": 0.625,
+      "L3-L4": 0.625,
+      "L4-L5": 0.625,
+      "L5-S1": 0.625,
+      "SPINAL CORD": 0.625
+    },
+    "obstruction": {
+      "BONES": 0.619,
+      "LIVER": 0.381,
+      "LYMPH NODES": 0.5238,
+      "PANCREAS": 0.381,
+      "PERITONEUM": 0.381,
+      "REPRODUCTIVE": 0.5238,
+      "SPLEEN": 0.381,
+      "STOMACH AND BOWEL": 0.381
+    },
+    "obstructive": {
+      "ADRENAL GLANDS": 0.6364,
+      "GALLBLADDER AND BILIARY TREE": 0.4545,
+      "KIDNEYS AND URETERS": 0.4545,
+      "LIVER": 0.6364,
+      "PANCREAS": 0.6364,
+      "PERITONEUM": 0.6364,
+      "SPLEEN": 0.6364,
+      "STOMACH AND BOWEL": 0.6364
+    },
+    "obtained": {
+      "BONES": 0.5893,
+      "JOINTS": 0.4821,
+      "SOFT TISSUES": 0.4464
+    },
+    "obvious": {
+      "BONES": 0.2609,
+      "LIVER": 0.2609,
+      "LYMPH NODES": 0.3478,
+      "OTHER FINDINGS": 0.6087,
+      "PANCREAS": 0.2609,
+      "SPLEEN": 0.2609
+    },
+    "occult": {
+      "BONES": 0.6667,
+      "JOINTS": 0.6667,
+      "SOFT TISSUES": 0.5556
+    },
+    "old": {
+      "BONES": 0.4375,
+      "LUNGS": 0.25,
+      "SOFT TISSUES": 0.25
+    },
+    "olecranon": {
+      "BICEPS": 0.375,
+      "BONES": 1.0,
+      "BRACHIALIS": 0.375,
+      "CARTILAGE": 1.0,
+      "COMMON EXTENSOR": 0.375,
+      "COMMON FLEXOR": 0.375,
+      "FLUID": 1.0,
+      "TRICEPS": 1.0
+    },
+    "opacities": {
+      "CARDIOVASCULAR": 0.92,
+      "CHEST WALL/MUSCULOSKELETAL": 0.92,
+      "LUNGS/AIRWAYS": 0.68,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.68,
+      "OTHER FINDINGS": 0.6,
+      "PLEURA": 0.32
+    },
+    "opacity": {
+      "BONES": 0.3,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "HEART": 0.3,
+      "LUNGS": 0.4,
+      "LUNGS/AIRWAYS/PLEURA": 0.3,
+      "MEDIASTINUM/HILA": 0.3,
+      "PLEURAL SPACES": 0.3
+    },
+    "operative": {
+      "BONES": 1.0
+    },
+    "orbital": {
+      "BONES": 0.625,
+      "BRAIN": 0.875,
+      "ORBITS": 0.875,
+      "SINUSES AND MASTOIDS": 0.75,
+      "VENTRICLES": 0.625
+    },
+    "orbits": {
+      "BONES": 0.7692,
+      "BRAIN": 0.8462,
+      "ORBITS": 0.7692,
+      "SINUSES AND MASTOIDS": 0.7692,
+      "VENTRICLES": 0.6923
+    },
+    "organized": {
+      "BONES": 0.375,
+      "SOFT TISSUES": 0.5
+    },
+    "organs": {
+      "CARDIOVASCULAR": 0.6667,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6667
+    },
+    "orif": {
+      "BONES": 0.6667,
+      "JOINTS": 0.6667,
+      "SOFT TISSUES": 0.5
+    },
+    "osseous": {
+      "BONES": 0.623,
+      "JOINTS": 0.4317,
+      "SOFT TISSUES": 0.4754
+    },
+    "osteoarthritic": {
+      "BONES": 0.7419,
+      "JOINTS": 0.7097,
+      "SOFT TISSUES": 0.4839
+    },
+    "osteoarthritis": {
+      "BONES": 0.7812,
+      "JOINTS": 0.5833,
+      "SOFT TISSUES": 0.375
+    },
+    "osteoarthrosis": {
+      "BONES": 0.8829,
+      "JOINTS": 0.7658,
+      "SOFT TISSUES": 0.5676
+    },
+    "osteochondral": {
+      "Articular Cartilage": 0.4375,
+      "BONES": 0.5,
+      "CARTILAGE": 0.375,
+      "EXTENSOR": 0.3125,
+      "FLUID": 0.4375,
+      "Joint": 0.4375,
+      "Osseous Structures": 0.4375,
+      "Soft Tissues": 0.4375
+    },
+    "osteomyelitis": {
+      "BONES": 0.9375,
+      "EXTENSOR": 0.5625,
+      "FLEXOR": 0.5625,
+      "FLUID": 0.4375,
+      "LATERAL COLLATERAL": 0.4375,
+      "LIGAMENTS": 0.4375,
+      "MEDIAL COLLATERAL": 0.4375,
+      "PERONEAL": 0.5625
+    },
+    "osteonecrosis": {
+      "ACROMIOCLAVICULAR JOINT": 0.6667,
+      "BONES": 0.7778,
+      "GLENOHUMERAL JOINT": 0.6667,
+      "INFRASPINATUS": 0.4444,
+      "MUSCLES": 0.4444,
+      "SUBSCAPULARIS": 0.4444,
+      "SUPRASPINATUS": 0.4444,
+      "TERES MINOR": 0.4444
+    },
+    "osteopenia": {
+      "BONES": 0.6667,
+      "DISC SPACES": 0.2963,
+      "JOINTS": 0.5556,
+      "SOFT TISSUES": 0.5926,
+      "VERTEBRAE": 0.3333
+    },
+    "osteophyte": {
+      "BONES": 0.471,
+      "JOINTS": 0.3841,
+      "SOFT TISSUES": 0.3551
+    },
+    "osteophytes": {
+      "BONES": 0.5177,
+      "JOINTS": 0.5035,
+      "SOFT TISSUES": 0.3333,
+      "VERTEBRAE": 0.2553
+    },
+    "other": {
+      "BONES": 0.3226,
+      "SOFT TISSUES": 0.2903
+    },
+    "otherwise": {
+      "BONES": 0.4773,
+      "JOINTS": 0.2727
+    },
+    "outlet": {
+      "ACROMIOCLAVICULAR JOINT": 0.9048,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.9048,
+      "INFRASPINATUS": 0.5238,
+      "MUSCLES": 0.5238,
+      "SUBSCAPULARIS": 0.5238,
+      "SUPRASPINATUS": 0.5238,
+      "TERES MINOR": 0.5238
+    },
+    "ovary": {
+      "ENDOMETRIUM": 1.0,
+      "FREE FLUID": 1.0,
+      "LEFT OVARY": 1.0,
+      "OTHER FINDINGS": 1.0,
+      "RIGHT OVARY": 1.0,
+      "UTERUS/CERVIX": 1.0
+    },
+    "over": {
+      "BONES": 0.3462,
+      "DISC SPACES": 0.2692,
+      "SOFT TISSUES": 0.5,
+      "VERTEBRAE": 0.4231
+    },
+    "overall": {
+      "BONES": 0.5714,
+      "CARDIOVASCULAR": 0.2857,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2857,
+      "JOINTS": 0.2857,
+      "LUNGS/AIRWAYS": 0.2857,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2857,
+      "OTHER FINDINGS": 0.4286,
+      "SOFT TISSUES": 0.3571
+    },
+    "pacemaker": {
+      "BONES AND SOFT TISSUES": 0.375,
+      "HEART AND MEDIASTINUM": 0.375,
+      "LUNGS": 0.625
+    },
+    "pain": {
+      "BONES": 0.5556,
+      "JOINTS": 0.4444,
+      "SOFT TISSUES": 0.5185
+    },
+    "palpable": {
+      "SOFT TISSUES": 1.0,
+      "VASCULARITY": 0.5
+    },
+    "pancreas": {
+      "ADRENALS": 0.3077,
+      "GALLBLADDER AND BILE DUCTS": 0.4615,
+      "KIDNEYS": 0.6923,
+      "LIVER": 0.9231,
+      "LYMPH NODES": 0.6154,
+      "PANCREAS": 0.9231,
+      "SPLEEN": 0.8462,
+      "STOMACH AND BOWEL": 0.4615
+    },
+    "pancreatic": {
+      "ADRENALS": 0.4545,
+      "GALLBLADDER AND BILE DUCTS": 0.6364,
+      "KIDNEYS": 0.7273,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.7273,
+      "PANCREAS": 1.0,
+      "SPLEEN": 0.9091,
+      "STOMACH AND BOWEL": 0.6364
+    },
+    "paranasal": {
+      "BONES": 0.64,
+      "BRAIN": 0.88,
+      "ORBITS": 0.52,
+      "SINUSES AND MASTOIDS": 0.76,
+      "VENTRICLES": 0.72
+    },
+    "parasellar": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.6667,
+      "SINUSES AND MASTOIDS": 0.6667,
+      "VENTRICLES": 0.8333
+    },
+    "paraseptal": {
+      "BONES AND SOFT TISSUES": 0.4286,
+      "CARDIOVASCULAR": 0.4286,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4286,
+      "HEART AND MEDIASTINUM": 0.5714,
+      "LUNGS": 0.5714,
+      "UPPER ABDOMEN": 0.4286
+    },
+    "paraspinal": {
+      "ALIGNMENT": 0.697,
+      "DISCS/DEGENERATIVE CHANGES": 0.697,
+      "L3-L4": 0.5152,
+      "L4-L5": 0.5152,
+      "L5-S1": 0.5152,
+      "PARASPINAL SOFT TISSUES": 0.697,
+      "SPINAL CORD": 0.697,
+      "VERTEBRAE": 0.7273
+    },
+    "parenchyma": {
+      "BONES": 0.6,
+      "BRAIN": 0.8,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.5,
+      "VENTRICLES": 0.7
+    },
+    "parenchymal": {
+      "BONES": 0.2619,
+      "CARDIOVASCULAR": 0.4524,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4524,
+      "LUNGS/AIRWAYS/PLEURA": 0.2619,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.2619,
+      "UPPER ABDOMEN": 0.3095
+    },
+    "partial": {
+      "ACROMIOCLAVICULAR JOINT": 0.4865,
+      "BONES": 0.6757,
+      "GLENOHUMERAL JOINT": 0.4595,
+      "MUSCLES": 0.3514,
+      "SUBSCAPULARIS": 0.2703,
+      "SUPRASPINATUS": 0.2703,
+      "TERES MINOR": 0.2703
+    },
+    "partially": {
+      "BONES": 0.4375,
+      "DISC SPACES": 0.25,
+      "OTHER FINDINGS": 0.3125,
+      "SOFT TISSUES": 0.4375,
+      "VERTEBRAE": 0.25
+    },
+    "patchy": {
+      "ALIGNMENT": 0.25,
+      "BONES": 0.375,
+      "DISCS/DEGENERATIVE CHANGES": 0.25,
+      "L3-L4": 0.25,
+      "L4-L5": 0.25,
+      "L5-S1": 0.25,
+      "OTHER FINDINGS": 0.2917,
+      "PARASPINAL SOFT TISSUES": 0.25
+    },
+    "patella": {
+      "Articular Cartilage": 0.75,
+      "Extensor Mechanism": 0.5,
+      "Joint": 0.75,
+      "Osseous Structures": 0.75
+    },
+    "patellar": {
+      "Articular Cartilage": 0.881,
+      "Extensor Mechanism": 0.619,
+      "Joint": 0.9048,
+      "Musculature": 0.381,
+      "Osseous Structures": 0.9524,
+      "Soft Tissues": 0.6905
+    },
+    "patellofemoral": {
+      "Articular Cartilage": 0.4082,
+      "BONES": 0.5918,
+      "Extensor Mechanism": 0.2857,
+      "JOINTS": 0.5918,
+      "Joint": 0.3878,
+      "Osseous Structures": 0.4082,
+      "SOFT TISSUES": 0.3061
+    },
+    "patent": {
+      "CARDIOVASCULAR": 0.3,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3,
+      "DEEP VEINS": 0.32,
+      "SOFT TISSUES": 0.3
+    },
+    "pathologically": {
+      "CARDIOVASCULAR": 0.625,
+      "CHEST WALL/MUSCULOSKELETAL": 0.625,
+      "LUNGS/AIRWAYS": 0.5,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.625
+    },
+    "patient": {
+      "BONES": 0.3182,
+      "JOINTS": 0.2727
+    },
+    "pattern": {
+      "BONES": 0.3,
+      "CARDIOVASCULAR": 0.3,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3
+    },
+    "pcl": {
+      "Articular Cartilage": 0.7273,
+      "Extensor Mechanism": 0.4545,
+      "Joint": 1.0,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.6364
+    },
+    "pelvic": {
+      "BLADDER": 0.3824,
+      "BONES": 0.7647,
+      "LYMPH NODES": 0.4412,
+      "OTHER FINDINGS": 0.3529,
+      "REPRODUCTIVE": 0.5294
+    },
+    "pelvis": {
+      "BONES": 0.6552,
+      "JOINTS": 0.3793,
+      "REPRODUCTIVE": 0.2759,
+      "SOFT TISSUES": 0.5862
+    },
+    "performed": {
+      "BONES": 0.4,
+      "SOFT TISSUES": 0.3333
+    },
+    "periarticular": {
+      "Articular Cartilage": 0.3125,
+      "BONES": 0.5625,
+      "JOINTS": 0.3125,
+      "Joint": 0.375,
+      "LIGAMENTS": 0.25,
+      "Osseous Structures": 0.375,
+      "SOFT TISSUES": 0.25,
+      "Soft Tissues": 0.3125
+    },
+    "peribronchial": {
+      "BONES": 0.5714,
+      "HEART": 0.4286,
+      "LUNGS": 0.8571,
+      "MEDIASTINUM/HILA": 0.7143
+    },
+    "pericardial": {
+      "CARDIOVASCULAR": 0.7,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7,
+      "LUNGS/AIRWAYS": 0.3,
+      "LUNGS/AIRWAYS/PLEURA": 0.45,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3,
+      "OTHER FINDINGS": 0.3,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.35,
+      "UPPER ABDOMEN": 0.45
+    },
+    "pericholecystic": {
+      "COMMON BILE DUCT": 0.5,
+      "GALLBLADDER": 0.5,
+      "KIDNEYS": 0.5,
+      "LIVER": 0.8333,
+      "PANCREAS": 0.8333,
+      "SPLEEN": 0.8333
+    },
+    "perinephric": {
+      "ADRENAL GLANDS": 0.4286,
+      "ADRENALS": 0.4286,
+      "KIDNEYS": 0.5714,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.5714,
+      "PANCREAS": 0.8571,
+      "SPLEEN": 0.8571,
+      "STOMACH AND BOWEL": 0.8571
+    },
+    "periosteal": {
+      "BONES": 1.0,
+      "JOINTS": 0.7857,
+      "SOFT TISSUES": 0.7857
+    },
+    "peripheral": {
+      "CARDIOVASCULAR": 0.6429,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6429,
+      "LINES/TUBES/SUPPORT DEVICES": 0.3571,
+      "LUNGS/AIRWAYS": 0.4286,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4286,
+      "OTHER FINDINGS": 0.5
+    },
+    "periventricular": {
+      "BONES": 0.5909,
+      "BRAIN": 1.0,
+      "ORBITS": 0.5455,
+      "SINUSES AND MASTOIDS": 0.6818,
+      "VENTRICLES": 0.7273
+    },
+    "peroneal": {
+      "BONES": 0.4545,
+      "DEEP VEINS": 0.5455,
+      "EXTENSOR": 0.4545,
+      "FLEXOR": 0.4545,
+      "FLUID": 0.4545,
+      "PERONEAL": 0.4545,
+      "PLANTAR FASCIA": 0.4545,
+      "SOFT TISSUES": 0.4545
+    },
+    "peroneus": {
+      "BONES": 1.0,
+      "CARTILAGE": 1.0,
+      "EXTENSOR": 1.0,
+      "FLEXOR": 1.0,
+      "FLUID": 1.0,
+      "LATERAL COLLATERAL": 1.0,
+      "MEDIAL COLLATERAL": 1.0,
+      "PERONEAL": 1.0
+    },
+    "persist": {
+      "BONES": 0.75,
+      "JOINTS": 0.5,
+      "OTHER FINDINGS": 0.375
+    },
+    "persistent": {
+      "BONES": 0.3077
+    },
+    "phalanx": {
+      "BONES": 0.9444,
+      "EXTENSOR": 0.5,
+      "FLEXOR": 0.5,
+      "FLUID": 0.3333,
+      "JOINTS": 0.5,
+      "LATERAL COLLATERAL": 0.5,
+      "LISFRANC": 0.3333,
+      "OTHER FINDINGS": 0.3889
+    },
+    "phenomenon": {
+      "DISC SPACES": 1.0,
+      "SOFT TISSUES": 1.0,
+      "VERTEBRAE": 1.0
+    },
+    "pituitary": {
+      "BONES": 0.5294,
+      "BRAIN": 0.6176,
+      "ORBITS": 0.3529,
+      "SELLA TURCICA": 0.3824,
+      "SINUSES AND MASTOIDS": 1.0,
+      "VENTRICLES": 0.6176
+    },
+    "planes": {
+      "BONES": 0.6667,
+      "FLUID": 0.5
+    },
+    "plantar": {
+      "BONES": 0.9464,
+      "CARTILAGE": 0.4286,
+      "EXTENSOR": 0.5357,
+      "FLEXOR": 0.5357,
+      "FLUID": 0.5,
+      "LATERAL COLLATERAL": 0.4643,
+      "PERONEAL": 0.4821,
+      "PLANTAR FASCIA": 0.4643
+    },
+    "plate": {
+      "BONES": 0.4,
+      "JOINTS": 0.6,
+      "OSSEOUS STRUCTURES": 0.4,
+      "SOFT TISSUES": 0.6
+    },
+    "plateau": {
+      "Articular Cartilage": 0.8571,
+      "Extensor Mechanism": 0.4286,
+      "Joint": 1.0,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.5714
+    },
+    "pleura": {
+      "CARDIOVASCULAR": 0.8421,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7368,
+      "LUNGS/AIRWAYS": 0.4211,
+      "LUNGS/AIRWAYS/PLEURA": 0.4211,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3684,
+      "OTHER FINDINGS": 0.3684,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3684,
+      "UPPER ABDOMEN": 0.3684
+    },
+    "pleural": {
+      "CARDIOVASCULAR": 0.5385,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5385,
+      "LUNGS": 0.4286,
+      "LUNGS/AIRWAYS": 0.2637,
+      "LUNGS/AIRWAYS/PLEURA": 0.2967,
+      "OTHER FINDINGS": 0.2637,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.2747,
+      "UPPER ABDOMEN": 0.2967
+    },
+    "pneumonia": {
+      "BONES": 0.3333,
+      "CARDIOVASCULAR": 0.5556,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5556,
+      "LINES/TUBES/SUPPORT DEVICES": 0.3333,
+      "LUNGS": 0.4444,
+      "LUNGS/AIRWAYS": 0.3333,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3333,
+      "OTHER FINDINGS": 0.3333
+    },
+    "pneumothorax": {
+      "BONES": 0.2881,
+      "CARDIOVASCULAR": 0.5085,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5085,
+      "LUNGS": 0.4237,
+      "LUNGS/AIRWAYS": 0.3051,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2712,
+      "OTHER FINDINGS": 0.3051
+    },
+    "pole": {
+      "ADRENALS": 0.6667,
+      "KIDNEYS": 0.6667,
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.6667,
+      "PANCREAS": 1.0,
+      "SPLEEN": 1.0
+    },
+    "popliteal": {
+      "Articular Cartilage": 0.2857,
+      "DEEP VEINS": 0.6571,
+      "Joint": 0.2857,
+      "Osseous Structures": 0.2857,
+      "SOFT TISSUES": 0.5143,
+      "SUPERFICIAL VEINS": 0.2571
+    },
+    "portal": {
+      "LIVER": 1.0,
+      "LYMPH NODES": 0.4286,
+      "PANCREAS": 0.4286,
+      "RIGHT KIDNEY": 0.5714,
+      "STOMACH AND BOWEL": 0.4286
+    },
+    "portions": {
+      "AORTA": 0.4286,
+      "CARDIOVASCULAR": 0.4286,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4286,
+      "COMMON BILE DUCT": 0.4286,
+      "GALLBLADDER": 0.4286,
+      "IVC": 0.4286,
+      "KIDNEYS": 0.4286,
+      "LIVER": 0.4286
+    },
+    "position": {
+      "ADRENAL GLANDS": 0.25,
+      "BONES": 0.5,
+      "GALLBLADDER AND BILIARY TREE": 0.25,
+      "KIDNEYS AND URETERS": 0.25,
+      "LIVER": 0.25,
+      "LYMPH NODES": 0.3333,
+      "PERITONEUM": 0.3333,
+      "REPRODUCTIVE": 0.3333
+    },
+    "positioned": {
+      "ACROMIOCLAVICULAR JOINT": 0.7647,
+      "BONES": 0.9412,
+      "GLENOHUMERAL JOINT": 0.7647,
+      "INFRASPINATUS": 0.4706,
+      "MUSCLES": 0.4706,
+      "SUBSCAPULARIS": 0.4706,
+      "SUPRASPINATUS": 0.4706,
+      "TERES MINOR": 0.4706
+    },
+    "possibility": {
+      "OTHER FINDINGS": 0.6667
+    },
+    "post": {
+      "BONES": 0.5
+    },
+    "posterior": {
+      "VERTEBRAE": 0.2961
+    },
+    "postoperative": {
+      "BONES": 0.5161,
+      "SOFT TISSUES": 0.4194
+    },
+    "postsurgical": {
+      "BONES": 0.4857,
+      "DISC SPACES": 0.2571,
+      "JOINTS": 0.3714,
+      "SOFT TISSUES": 0.5429,
+      "VERTEBRAE": 0.2571
+    },
+    "predominant": {
+      "BONES": 0.2857,
+      "CARDIOVASCULAR": 0.6429,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6429,
+      "LUNGS/AIRWAYS": 0.5714,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5714,
+      "OTHER FINDINGS": 0.7143,
+      "PLEURA": 0.3571
+    },
+    "predominantly": {
+      "BONES": 0.375,
+      "JOINTS": 0.2917,
+      "Joint": 0.25,
+      "OTHER FINDINGS": 0.25,
+      "Osseous Structures": 0.25,
+      "SOFT TISSUES": 0.25
+    },
+    "present": {
+      "BONES": 0.3905,
+      "JOINTS": 0.281,
+      "SOFT TISSUES": 0.381,
+      "VERTEBRAE": 0.2619
+    },
+    "preserved": {
+      "BONES": 0.5349,
+      "JOINTS": 0.3101,
+      "SOFT TISSUES": 0.3256
+    },
+    "prevertebral": {
+      "Alignment": 0.3333,
+      "C4-5": 0.3333,
+      "C5-6": 0.3333,
+      "C6-7": 0.3333,
+      "Paravertebral Soft Tissues": 0.2778,
+      "Spinal Cord": 0.3333
+    },
+    "previous": {
+      "CARDIOVASCULAR": 0.36,
+      "CHEST WALL/MUSCULOSKELETAL": 0.32,
+      "LUNGS/AIRWAYS": 0.28,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.28,
+      "OTHER FINDINGS": 0.28
+    },
+    "previously": {
+      "BONES": 0.3333,
+      "CARDIOVASCULAR": 0.2857,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5238,
+      "LUNGS/AIRWAYS": 0.2857,
+      "OTHER FINDINGS": 0.2857
+    },
+    "prior": {
+      "CARDIOVASCULAR": 0.3158,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2982,
+      "OTHER FINDINGS": 0.2982
+    },
+    "process": {
+      "BONES": 0.5556
+    },
+    "producing": {
+      "Alignment": 0.5385,
+      "C2-3": 0.5385,
+      "C3-4": 0.5385,
+      "C4-5": 0.5385,
+      "C5-6": 0.5385,
+      "C6-7": 0.5385,
+      "C7-T1": 0.5385,
+      "Spinal Cord": 0.5385
+    },
+    "profunda": {
+      "DEEP VEINS": 0.8571,
+      "SOFT TISSUES": 0.4286,
+      "SUPERFICIAL VEINS": 0.4286
+    },
+    "progression": {
+      "CARDIOVASCULAR": 0.4,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4,
+      "LUNGS/AIRWAYS": 0.4,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4,
+      "OTHER FINDINGS": 0.4
+    },
+    "project": {
+      "DISC SPACES": 0.6667,
+      "SOFT TISSUES": 1.0,
+      "VERTEBRAE": 0.6667
+    },
+    "projecting": {
+      "BONES": 0.6667
+    },
+    "projects": {
+      "SOFT TISSUES": 0.8333
+    },
+    "prominence": {
+      "BONES": 0.5714,
+      "BRAIN": 0.4762,
+      "LUNGS": 0.3333,
+      "MEDIASTINUM/HILA": 0.2857,
+      "SINUSES AND MASTOIDS": 0.3333,
+      "VENTRICLES": 0.4762
+    },
+    "prominent": {
+      "BONES": 0.5
+    },
+    "pronounced": {
+      "DISC SPACES": 0.2821,
+      "SOFT TISSUES": 0.3077,
+      "VERTEBRAE": 0.4872
+    },
+    "prostate": {
+      "BLADDER": 0.4286,
+      "BONES": 0.7143,
+      "LIVER": 0.4286,
+      "LYMPH NODES": 0.8571,
+      "OTHER FINDINGS": 0.5714,
+      "REPRODUCTIVE": 0.8571,
+      "STOMACH AND BOWEL": 0.4286
+    },
+    "prosthesis": {
+      "ACROMIOCLAVICULAR JOINT": 0.5,
+      "BICEPS ANCHOR COMPLEX": 0.5,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.5,
+      "LIGAMENTS": 0.5,
+      "PERIARTICULAR SOFT TISSUE": 0.5,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.5
+    },
+    "protrusion": {
+      "ALIGNMENT": 0.7742,
+      "DISCS/DEGENERATIVE CHANGES": 0.7742,
+      "L1-L2": 0.6774,
+      "L2-L3": 0.6774,
+      "L3-L4": 0.6774,
+      "L4-L5": 0.6774,
+      "SPINAL CORD": 0.7742,
+      "VERTEBRAE": 0.7742
+    },
+    "protrusions": {
+      "ALIGNMENT": 0.6667,
+      "DISCS/DEGENERATIVE CHANGES": 0.6667,
+      "PARASPINAL SOFT TISSUES": 0.5,
+      "SPINAL CORD": 0.5,
+      "VERTEBRAE": 0.5
+    },
+    "provided": {
+      "BONES": 0.3514
+    },
+    "proximal": {
+      "BONES": 0.7,
+      "JOINTS": 0.3714,
+      "OTHER FINDINGS": 0.2571,
+      "SOFT TISSUES": 0.4286
+    },
+    "pubic": {
+      "BLADDER": 0.25,
+      "BONES": 0.6429,
+      "Hip Joints": 0.3214,
+      "JOINTS": 0.3571,
+      "REPRODUCTIVE": 0.3214,
+      "SOFT TISSUES": 0.4286,
+      "Sacroiliac Joints & Pubic Symphysis": 0.3214
+    },
+    "pulmonary": {
+      "CARDIOVASCULAR": 0.6429,
+      "CHEST WALL/MUSCULOSKELETAL": 0.627,
+      "LUNGS": 0.3254,
+      "LUNGS/AIRWAYS": 0.3889,
+      "LUNGS/AIRWAYS/PLEURA": 0.2857,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3175,
+      "OTHER FINDINGS": 0.3651,
+      "UPPER ABDOMEN": 0.3095
+    },
+    "quadriceps": {
+      "Articular Cartilage": 0.85,
+      "Extensor Mechanism": 0.7,
+      "Joint": 0.95,
+      "Musculature": 0.25,
+      "Osseous Structures": 0.9,
+      "Soft Tissues": 0.6
+    },
+    "radial": {
+      "BONES": 1.0,
+      "JOINTS": 0.8182,
+      "MUSCLES": 0.2727,
+      "SOFT TISSUES": 0.7273
+    },
+    "radicle": {
+      "ADRENALS": 0.5,
+      "GALLBLADDER AND BILE DUCTS": 0.8333,
+      "KIDNEYS": 0.8333,
+      "LIVER": 1.0,
+      "LYMPH NODES": 1.0,
+      "PANCREAS": 1.0,
+      "SPLEEN": 0.8333
+    },
+    "radiocapitellar": {
+      "BONES": 1.0,
+      "CARTILAGE": 0.6667,
+      "COMMON EXTENSOR": 0.6667,
+      "COMMON FLEXOR": 0.6667,
+      "FLUID": 0.6667,
+      "LATERAL COLLATERAL": 0.6667,
+      "MEDIAL COLLATERAL": 0.6667,
+      "MUSCLES": 0.6667
+    },
+    "radiocarpal": {
+      "BONES": 1.0,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.5
+    },
+    "radiographic": {
+      "BONES": 0.6333,
+      "JOINTS": 0.4,
+      "SOFT TISSUES": 0.5
+    },
+    "radiographs": {
+      "BONES": 0.5467,
+      "JOINTS": 0.4267,
+      "SOFT TISSUES": 0.5333
+    },
+    "radiopaque": {
+      "BONES": 0.8182,
+      "JOINTS": 0.7273,
+      "SOFT TISSUES": 0.8636
+    },
+    "radius": {
+      "BONES": 1.0,
+      "JOINTS": 0.9286,
+      "SOFT TISSUES": 0.7857
+    },
+    "rads": {
+      "BONES AND SOFT TISSUES": 0.6154,
+      "CARDIOVASCULAR": 0.3846,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3846,
+      "HEART AND MEDIASTINUM": 0.6154,
+      "LUNGS": 0.5385,
+      "LUNGS/AIRWAYS": 0.3846,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3846,
+      "OTHER FINDINGS": 0.3846
+    },
+    "reaction": {
+      "BONES": 1.0,
+      "EXTENSOR": 0.3077,
+      "FLEXOR": 0.3077,
+      "FLUID": 0.3077,
+      "JOINTS": 0.5385,
+      "LATERAL COLLATERAL": 0.3077,
+      "OTHER FINDINGS": 0.3846,
+      "SOFT TISSUES": 0.6154
+    },
+    "reactive": {
+      "ACROMIOCLAVICULAR JOINT": 0.3636,
+      "BONES": 0.6364,
+      "GLENOHUMERAL JOINT": 0.4,
+      "MUSCLES": 0.4,
+      "OTHER FINDINGS": 0.2545
+    },
+    "recent": {
+      "SOFT TISSUES": 0.5
+    },
+    "recess": {
+      "ALIGNMENT": 0.52,
+      "DISCS/DEGENERATIVE CHANGES": 0.6,
+      "L1-L2": 0.52,
+      "L2-L3": 0.52,
+      "L3-L4": 0.52,
+      "L4-L5": 0.6,
+      "L5-S1": 0.6,
+      "VERTEBRAE": 0.6
+    },
+    "recommend": {
+      "BONES": 0.5,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "LUNGS/AIRWAYS": 0.5,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.5
+    },
+    "recommendation": {
+      "BONES": 0.5,
+      "BONES AND SOFT TISSUES": 0.5,
+      "HEART AND MEDIASTINUM": 0.5,
+      "JOINTS": 0.375,
+      "LUNGS": 0.5,
+      "SOFT TISSUES": 0.375
+    },
+    "recommended": {
+      "BONES": 0.4444,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2593,
+      "OTHER FINDINGS": 0.3333,
+      "SOFT TISSUES": 0.2593
+    },
+    "reconstruction": {
+      "Articular Cartilage": 0.375,
+      "CHEST WALL/MUSCULOSKELETAL": 0.375,
+      "Extensor Mechanism": 0.375,
+      "Joint": 0.375,
+      "Osseous Structures": 0.375
+    },
+    "reduced": {
+      "BONES": 0.4167,
+      "JOINTS": 0.5833
+    },
+    "reduction": {
+      "BONES": 0.3,
+      "JOINTS": 0.25,
+      "Joint": 0.25,
+      "Osseous Structures": 0.25
+    },
+    "reflect": {
+      "BONES": 0.5263,
+      "JOINTS": 0.4737,
+      "SOFT TISSUES": 0.4211
+    },
+    "region": {
+      "BONES": 0.4615,
+      "SOFT TISSUES": 0.3462
+    },
+    "regions": {
+      "BRAIN": 0.625,
+      "SINUSES AND MASTOIDS": 0.375,
+      "VENTRICLES": 0.625
+    },
+    "relatively": {
+      "DISC SPACES": 0.4286,
+      "SOFT TISSUES": 0.4286,
+      "VERTEBRAE": 0.4286
+    },
+    "remaining": {
+      "BONES": 0.4651
+    },
+    "remains": {
+      "BONES": 0.4615,
+      "MUSCLES": 0.3077
+    },
+    "remodeling": {
+      "BONES": 0.9167,
+      "JOINTS": 0.75,
+      "SOFT TISSUES": 0.25
+    },
+    "renal": {
+      "GALLBLADDER AND BILE DUCTS": 0.48,
+      "KIDNEYS": 0.68,
+      "LIVER": 0.64,
+      "LYMPH NODES": 0.7,
+      "PANCREAS": 0.74,
+      "SPLEEN": 0.72,
+      "STOMACH AND BOWEL": 0.52,
+      "VASCULATURE": 0.44
+    },
+    "replacing": {
+      "ALIGNMENT": 0.3667,
+      "BONES": 0.3667,
+      "DISCS/DEGENERATIVE CHANGES": 0.3667,
+      "PARASPINAL SOFT TISSUES": 0.3667,
+      "SPINAL CORD": 0.3667,
+      "VERTEBRAE": 0.3667
+    },
+    "represent": {
+      "BONES": 0.3529,
+      "CARDIOVASCULAR": 0.2941,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2941,
+      "OTHER FINDINGS": 0.2941
+    },
+    "representing": {
+      "BONES": 0.4167,
+      "OTHER FINDINGS": 0.25
+    },
+    "residual": {
+      "BONES": 0.6875,
+      "FLUID": 0.375,
+      "JOINTS": 0.3125,
+      "MUSCLES": 0.25,
+      "SOFT TISSUES": 0.25
+    },
+    "resolution": {
+      "BONES": 0.4,
+      "CARDIOVASCULAR": 0.5,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5,
+      "FLUID": 0.4,
+      "LUNGS/AIRWAYS/PLEURA": 0.3,
+      "MUSCLES": 0.3,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3,
+      "UPPER ABDOMEN": 0.3
+    },
+    "restricted": {
+      "BONES": 0.4,
+      "BRAIN": 1.0,
+      "ORBITS": 0.4,
+      "SINUSES AND MASTOIDS": 0.5,
+      "VENTRICLES": 0.8
+    },
+    "resulting": {
+      "ALIGNMENT": 0.3333,
+      "Alignment": 0.381,
+      "C2-3": 0.3333,
+      "C4-5": 0.381,
+      "C5-6": 0.381,
+      "C6-7": 0.381,
+      "Spinal Cord": 0.381,
+      "Vertebral Bodies": 0.381
+    },
+    "reticular": {
+      "CARDIOVASCULAR": 0.8333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8333,
+      "LUNGS/AIRWAYS": 0.6667,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.6667,
+      "OTHER FINDINGS": 0.6667
+    },
+    "retinacula": {
+      "Articular Cartilage": 1.0,
+      "Extensor Mechanism": 0.625,
+      "Joint": 0.875,
+      "Musculature": 0.375,
+      "Osseous Structures": 1.0,
+      "Soft Tissues": 0.875
+    },
+    "retraction": {
+      "ACROMIOCLAVICULAR JOINT": 0.8947,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.8947,
+      "INFRASPINATUS": 0.5263,
+      "MUSCLES": 0.6316,
+      "SUBSCAPULARIS": 0.5263,
+      "SUPRASPINATUS": 0.5263,
+      "TERES MINOR": 0.5263
+    },
+    "retrolisthesis": {
+      "DISC SPACES": 0.85,
+      "SOFT TISSUES": 0.8,
+      "VERTEBRAE": 0.85
+    },
+    "rib": {
+      "BONES": 0.2963,
+      "DISC SPACES": 0.5926,
+      "SOFT TISSUES": 0.7037,
+      "VERTEBRAE": 0.6667
+    },
+    "ring": {
+      "BONES": 0.5714,
+      "JOINTS": 0.4286
+    },
+    "root": {
+      "ALIGNMENT": 0.6176,
+      "DISCS/DEGENERATIVE CHANGES": 0.6176,
+      "L1-L2": 0.5588,
+      "L2-L3": 0.5588,
+      "L3-L4": 0.5882,
+      "L4-L5": 0.5882,
+      "L5-S1": 0.5882,
+      "VERTEBRAE": 0.6176
+    },
+    "roots": {
+      "ALIGNMENT": 0.7576,
+      "DISCS/DEGENERATIVE CHANGES": 0.7576,
+      "L1-L2": 0.6667,
+      "L3-L4": 0.7576,
+      "L4-L5": 0.7576,
+      "L5-S1": 0.7576,
+      "SPINAL CORD": 0.697,
+      "VERTEBRAE": 0.7576
+    },
+    "rotator": {
+      "ACROMIOCLAVICULAR JOINT": 0.6988,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.7108,
+      "INFRASPINATUS": 0.4217,
+      "MUSCLES": 0.4217,
+      "SUBSCAPULARIS": 0.4217,
+      "SUPRASPINATUS": 0.4217,
+      "TERES MINOR": 0.4217
+    },
+    "sac": {
+      "ALIGNMENT": 0.525,
+      "Alignment": 0.4,
+      "C6-7": 0.4,
+      "DISCS/DEGENERATIVE CHANGES": 0.575,
+      "PARASPINAL SOFT TISSUES": 0.4,
+      "SPINAL CORD": 0.475,
+      "Spinal Cord": 0.4,
+      "VERTEBRAE": 0.55
+    },
+    "sacroiliac": {
+      "BONES": 0.4746,
+      "DISC SPACES": 0.3559,
+      "JOINTS": 0.3898,
+      "SOFT TISSUES": 0.6441,
+      "VERTEBRAE": 0.3898
+    },
+    "satisfactory": {
+      "SOFT TISSUES": 0.5
+    },
+    "scalp": {
+      "BONES": 1.0,
+      "SINUSES": 0.7143,
+      "SOFT TISSUES": 0.7143
+    },
+    "scarring": {
+      "BONES": 0.2807,
+      "CARDIOVASCULAR": 0.5263,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5263,
+      "LUNGS": 0.3158,
+      "LUNGS/AIRWAYS/PLEURA": 0.3509,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3158,
+      "UPPER ABDOMEN": 0.386
+    },
+    "scattered": {
+      "BONES": 0.55,
+      "BRAIN": 0.275,
+      "JOINTS": 0.5,
+      "SOFT TISSUES": 0.4
+    },
+    "sclerosis": {
+      "BONES": 0.6941,
+      "JOINTS": 0.6824,
+      "SOFT TISSUES": 0.5176
+    },
+    "sclerotic": {
+      "BONES": 0.75,
+      "JOINTS": 0.4167,
+      "SOFT TISSUES": 0.6667
+    },
+    "scoliosis": {
+      "DISC SPACES": 0.8148,
+      "SOFT TISSUES": 0.7407,
+      "VERTEBRAE": 0.9259
+    },
+    "screening": {
+      "BONES AND SOFT TISSUES": 0.875,
+      "HEART AND MEDIASTINUM": 0.875,
+      "LUNGS": 0.875,
+      "LYMPH NODES": 0.5,
+      "PLEURAL SPACES": 0.5
+    },
+    "screw": {
+      "BONES": 0.5,
+      "JOINTS": 0.6667,
+      "OSSEOUS STRUCTURES": 0.3333,
+      "SOFT TISSUES": 0.5
+    },
+    "screws": {
+      "BONES": 0.5
+    },
+    "second": {
+      "BONES": 1.0,
+      "EXTENSOR": 0.8,
+      "FLEXOR": 0.8,
+      "FLUID": 0.8,
+      "LATERAL COLLATERAL": 0.8,
+      "LISFRANC": 0.8,
+      "MUSCLES": 0.9,
+      "OTHER FINDINGS": 0.8
+    },
+    "secondary": {
+      "BONES": 0.3684,
+      "LIVER": 0.2632,
+      "LYMPH NODES": 0.2632,
+      "REPRODUCTIVE": 0.2632,
+      "SOFT TISSUES": 0.2632
+    },
+    "segment": {
+      "CARDIOVASCULAR": 0.6111,
+      "CHEST WALL/MUSCULOSKELETAL": 0.8889,
+      "LUNGS/AIRWAYS": 0.4444,
+      "LUNGS/AIRWAYS/PLEURA": 0.5,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3889,
+      "UPPER ABDOMEN": 0.4444
+    },
+    "sella": {
+      "BONES": 0.875,
+      "BRAIN": 0.625,
+      "ORBITS": 0.625,
+      "SELLA TURCICA": 0.375,
+      "SINUSES AND MASTOIDS": 1.0,
+      "VENTRICLES": 0.625
+    },
+    "sellar": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.4286,
+      "SINUSES AND MASTOIDS": 0.7143,
+      "VENTRICLES": 0.8571
+    },
+    "sequences": {
+      "Articular Cartilage": 0.25,
+      "BONES": 0.25,
+      "BRAIN": 0.3333,
+      "Joint": 0.25,
+      "LYMPH NODES": 0.25,
+      "OTHER FINDINGS": 0.25,
+      "Osseous Structures": 0.25,
+      "SINUSES AND MASTOIDS": 0.25
+    },
+    "series": {
+      "BONES AND SOFT TISSUES": 0.4444,
+      "CARDIOVASCULAR": 0.3333,
+      "CHEST WALL/MUSCULOSKELETAL": 0.5556,
+      "HEART AND MEDIASTINUM": 0.3333,
+      "LUNGS": 0.4444,
+      "LUNGS/AIRWAYS": 0.3333,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3333,
+      "OTHER FINDINGS": 0.3333
+    },
+    "setting": {
+      "BONES": 0.4545,
+      "BRAIN": 0.2727,
+      "CARDIOVASCULAR": 0.2727,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2727,
+      "OTHER FINDINGS": 0.3636,
+      "VENTRICLES": 0.2727
+    },
+    "several": {
+      "ALIGNMENT": 0.5,
+      "BONES AND SOFT TISSUES": 0.5,
+      "DISCS/DEGENERATIVE CHANGES": 0.5,
+      "HEART AND MEDIASTINUM": 0.5,
+      "LUNGS": 0.5,
+      "PARASPINAL SOFT TISSUES": 0.5,
+      "SPINAL CORD": 0.5,
+      "VERTEBRAE": 0.5
+    },
+    "shaft": {
+      "ACROMIOCLAVICULAR JOINT": 0.3333,
+      "BONES": 0.6667,
+      "EXTENSOR": 0.3333,
+      "FLEXOR": 0.3333,
+      "FLUID": 0.3333,
+      "GLENOHUMERAL JOINT": 0.3333,
+      "JOINTS": 0.3333,
+      "SOFT TISSUES": 0.5833
+    },
+    "shift": {
+      "BONES": 0.5357,
+      "BRAIN": 0.9643,
+      "ORBITS": 0.3929,
+      "SINUSES AND MASTOIDS": 0.6786,
+      "VENTRICLES": 0.7857
+    },
+    "shoulder": {
+      "ACROMIOCLAVICULAR JOINT": 0.25,
+      "BONES": 0.8611,
+      "GLENOHUMERAL JOINT": 0.2778,
+      "JOINTS": 0.6667,
+      "SOFT TISSUES": 0.4444
+    },
+    "side": {
+      "BONES": 0.4
+    },
+    "sided": {
+      "ACROMIOCLAVICULAR JOINT": 0.5,
+      "BONES": 0.6786,
+      "GLENOHUMERAL JOINT": 0.4643,
+      "INFRASPINATUS": 0.2857,
+      "MUSCLES": 0.2857,
+      "SUBSCAPULARIS": 0.3214,
+      "SUPRASPINATUS": 0.3214,
+      "TERES MINOR": 0.3214
+    },
+    "signal": {
+      "BONES": 0.2736
+    },
+    "significant": {
+      "DISCS/DEGENERATIVE CHANGES": 0.253,
+      "VERTEBRAE": 0.2741
+    },
+    "significantly": {
+      "OTHER FINDINGS": 0.3333
+    },
+    "silhouette": {
+      "BONES": 0.875,
+      "HEART": 0.3125,
+      "LUNGS": 0.9375,
+      "MEDIASTINUM/HILA": 0.625,
+      "SOFT TISSUES": 0.25
+    },
+    "simple": {
+      "ADRENALS": 0.6429,
+      "GALLBLADDER AND BILE DUCTS": 0.5714,
+      "KIDNEYS": 0.7857,
+      "LIVER": 0.7857,
+      "LYMPH NODES": 0.7143,
+      "PANCREAS": 0.8571,
+      "SPLEEN": 0.7857,
+      "STOMACH AND BOWEL": 0.4286
+    },
+    "single": {
+      "BONES": 0.6667,
+      "HEART": 0.5,
+      "LUNGS": 0.6667,
+      "MEDIASTINUM/HILA": 0.5
+    },
+    "sinus": {
+      "BONES": 0.7222,
+      "BRAIN": 0.4444,
+      "CARTILAGE": 0.2778,
+      "FLUID": 0.2778,
+      "ORBITS": 0.3333,
+      "SINUSES AND MASTOIDS": 0.6111,
+      "VENTRICLES": 0.4444
+    },
+    "sinuses": {
+      "BONES": 0.7,
+      "BRAIN": 0.7667,
+      "ORBITS": 0.5333,
+      "SINUSES AND MASTOIDS": 0.6667,
+      "VENTRICLES": 0.6
+    },
+    "site": {
+      "BONES": 0.3846,
+      "SOFT TISSUES": 0.6923
+    },
+    "situ": {
+      "BONES": 0.6,
+      "JOINTS": 0.3333,
+      "SOFT TISSUES": 0.3333
+    },
+    "size": {
+      "BONES": 0.2755,
+      "CARDIOVASCULAR": 0.3163,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3776,
+      "LIVER": 0.2857,
+      "LYMPH NODES": 0.2959,
+      "OTHER FINDINGS": 0.2551,
+      "PANCREAS": 0.2857,
+      "SPLEEN": 0.2551
+    },
+    "slightly": {
+      "BONES": 0.375
+    },
+    "sludge": {
+      "GALLBLADDER AND BILE DUCTS": 0.8333,
+      "KIDNEYS": 0.8333,
+      "LIVER": 0.8333,
+      "LYMPH NODES": 0.8333,
+      "OTHER FINDINGS": 0.8333,
+      "PANCREAS": 0.8333,
+      "SPLEEN": 0.8333
+    },
+    "smooth": {
+      "BONES": 0.6667,
+      "KIDNEYS": 0.5,
+      "LYMPH NODES": 0.6667
+    },
+    "soft": {
+      "BONES": 0.6474,
+      "JOINTS": 0.3494,
+      "SOFT TISSUES": 0.4199
+    },
+    "solid": {
+      "CARDIOVASCULAR": 0.4231,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4231,
+      "LUNGS/AIRWAYS": 0.4231,
+      "OTHER FINDINGS": 0.5769
+    },
+    "sonographic": {
+      "DEEP VEINS": 0.5833,
+      "SOFT TISSUES": 0.5833,
+      "SUPERFICIAL VEINS": 0.25
+    },
+    "space": {
+      "BONES": 0.5265,
+      "JOINTS": 0.4886,
+      "SOFT TISSUES": 0.4015
+    },
+    "spaces": {
+      "BONES": 0.5208,
+      "JOINTS": 0.375,
+      "SOFT TISSUES": 0.4167
+    },
+    "spasm": {
+      "Alignment": 0.2632,
+      "C4-5": 0.2632,
+      "C5-6": 0.2632,
+      "C6-7": 0.2632,
+      "Spinal Cord": 0.2632,
+      "VERTEBRAE": 0.2632,
+      "Vertebral Bodies": 0.2632
+    },
+    "spectral": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.6667,
+      "SUPERFICIAL VEINS": 0.5556
+    },
+    "spinal": {
+      "ALIGNMENT": 0.5,
+      "Alignment": 0.4453,
+      "C6-7": 0.4453,
+      "DISCS/DEGENERATIVE CHANGES": 0.5078,
+      "PARASPINAL SOFT TISSUES": 0.4453,
+      "SPINAL CORD": 0.4766,
+      "Spinal Cord": 0.4453,
+      "VERTEBRAE": 0.5391
+    },
+    "spine": {
+      "DISC SPACES": 0.4058,
+      "SOFT TISSUES": 0.3043,
+      "VERTEBRAE": 0.5362
+    },
+    "spleen": {
+      "ADRENALS": 0.3077,
+      "GALLBLADDER AND BILE DUCTS": 0.4615,
+      "KIDNEYS": 0.6923,
+      "LIVER": 0.9231,
+      "LYMPH NODES": 0.6154,
+      "PANCREAS": 0.9231,
+      "SPLEEN": 0.8462,
+      "STOMACH AND BOWEL": 0.4615
+    },
+    "spondylolisthesis": {
+      "ALIGNMENT": 0.2581,
+      "DISC SPACES": 0.4516,
+      "DISCS/DEGENERATIVE CHANGES": 0.2581,
+      "PARASPINAL SOFT TISSUES": 0.2581,
+      "SOFT TISSUES": 0.3871,
+      "SPINAL CORD": 0.2581,
+      "VERTEBRAE": 0.7419
+    },
+    "spondylosis": {
+      "DISC SPACES": 0.3269,
+      "SOFT TISSUES": 0.3077,
+      "VERTEBRAE": 0.4423
+    },
+    "spondylotic": {
+      "CARDIOVASCULAR": 0.25,
+      "CHEST WALL/MUSCULOSKELETAL": 0.275,
+      "VERTEBRAE": 0.325
+    },
+    "spontaneous": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.875,
+      "SUPERFICIAL VEINS": 0.625
+    },
+    "sprain": {
+      "Articular Cartilage": 0.5625,
+      "Joint": 0.875,
+      "Osseous Structures": 0.875,
+      "Soft Tissues": 0.4375
+    },
+    "spur": {
+      "BONES": 0.8421,
+      "JOINTS": 0.4737,
+      "SOFT TISSUES": 0.4737
+    },
+    "spurring": {
+      "BONES": 0.9091,
+      "JOINTS": 0.6818,
+      "SOFT TISSUES": 0.5909
+    },
+    "spurs": {
+      "BONES": 0.625,
+      "JOINTS": 0.75,
+      "SOFT TISSUES": 0.625
+    },
+    "stable": {
+      "CARDIOVASCULAR": 0.4356,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4455,
+      "HEART AND MEDIASTINUM": 0.2673,
+      "LUNGS": 0.2673,
+      "LUNGS/AIRWAYS": 0.3267,
+      "OTHER FINDINGS": 0.3069,
+      "UPPER ABDOMEN": 0.3168
+    },
+    "status": {
+      "BONES": 0.25,
+      "JOINTS": 0.25,
+      "LIVER": 0.3333,
+      "PANCREAS": 0.3333,
+      "SPLEEN": 0.25
+    },
+    "stenosis": {
+      "ALIGNMENT": 0.4844,
+      "Alignment": 0.4219,
+      "C6-7": 0.4219,
+      "DISCS/DEGENERATIVE CHANGES": 0.5,
+      "PARASPINAL SOFT TISSUES": 0.4323,
+      "SPINAL CORD": 0.4479,
+      "Spinal Cord": 0.4219,
+      "VERTEBRAE": 0.5052
+    },
+    "stir": {
+      "BONES": 0.5385,
+      "CARTILAGE": 0.2821,
+      "FLUID": 0.359,
+      "MUSCLES": 0.2564,
+      "OTHER FINDINGS": 0.2821
+    },
+    "straightening": {
+      "Alignment": 0.3269,
+      "C4-5": 0.2885,
+      "C5-6": 0.2885,
+      "C6-7": 0.3269,
+      "Spinal Cord": 0.3269,
+      "VERTEBRAE": 0.25,
+      "Vertebral Bodies": 0.2885
+    },
+    "stranding": {
+      "ADRENAL GLANDS": 0.4286,
+      "BONES": 0.4286,
+      "GALLBLADDER AND BILIARY TREE": 0.4286,
+      "KIDNEYS": 0.4286,
+      "LIVER": 0.8571,
+      "PANCREAS": 0.7143,
+      "SPLEEN": 0.7143,
+      "STOMACH AND BOWEL": 0.8571
+    },
+    "stress": {
+      "BONES": 1.0,
+      "EXTENSOR": 0.8182,
+      "FLEXOR": 0.8182,
+      "FLUID": 0.8182,
+      "LATERAL COLLATERAL": 0.8182,
+      "LISFRANC": 0.7273,
+      "MUSCLES": 0.8182,
+      "OTHER FINDINGS": 0.7273
+    },
+    "stricture": {
+      "GALLBLADDER AND BILE DUCTS": 0.5,
+      "KIDNEYS": 0.6667,
+      "LIVER": 0.8333,
+      "LYMPH NODES": 0.6667,
+      "PANCREAS": 0.8333,
+      "SPLEEN": 0.6667
+    },
+    "structures": {
+      "BONES": 0.3797,
+      "CARDIOVASCULAR": 0.2658,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2785,
+      "OTHER FINDINGS": 0.3165
+    },
+    "subacromial": {
+      "ACROMIOCLAVICULAR JOINT": 0.9773,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.9545,
+      "INFRASPINATUS": 0.5455,
+      "MUSCLES": 0.5455,
+      "SUBSCAPULARIS": 0.5682,
+      "SUPRASPINATUS": 0.5682,
+      "TERES MINOR": 0.5682
+    },
+    "subacute": {
+      "BONES": 1.0
+    },
+    "subcentimetric": {
+      "CARDIOVASCULAR": 0.6667,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6667
+    },
+    "subchondral": {
+      "BONES": 0.7426,
+      "JOINTS": 0.5149,
+      "SOFT TISSUES": 0.3267
+    },
+    "subcortical": {
+      "ACROMIOCLAVICULAR JOINT": 0.3,
+      "BONES": 0.6,
+      "BRAIN": 0.6,
+      "GLENOHUMERAL JOINT": 0.3,
+      "ORBITS": 0.3,
+      "SINUSES AND MASTOIDS": 0.3,
+      "VENTRICLES": 0.5
+    },
+    "subcutaneous": {
+      "BONES": 0.4444,
+      "EXTENSOR": 0.2963,
+      "FLEXOR": 0.2963,
+      "FLUID": 0.3333,
+      "OTHER FINDINGS": 0.3333,
+      "SOFT TISSUES": 0.3333
+    },
+    "subdeltoid": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 1.0,
+      "INFRASPINATUS": 0.6207,
+      "MUSCLES": 0.6207,
+      "SUBSCAPULARIS": 0.6207,
+      "SUPRASPINATUS": 0.6207,
+      "TERES MINOR": 0.6207
+    },
+    "subdural": {
+      "BONES": 1.0,
+      "BRAIN": 1.0,
+      "SINUSES AND MASTOIDS": 0.8333,
+      "SOFT TISSUES": 0.8333,
+      "VENTRICLES": 1.0
+    },
+    "subluxation": {
+      "BONES": 0.5714,
+      "JOINTS": 0.4286,
+      "SOFT TISSUES": 0.2857
+    },
+    "submitted": {
+      "BONES": 0.5333,
+      "EXTENSOR": 0.3333,
+      "FLEXOR": 0.3333,
+      "LATERAL COLLATERAL": 0.3333,
+      "MEDIAL COLLATERAL": 0.3333,
+      "OTHER FINDINGS": 0.4667,
+      "PERONEAL": 0.3333
+    },
+    "subpleural": {
+      "CARDIOVASCULAR": 0.7143,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7143,
+      "LUNGS/AIRWAYS/PLEURA": 0.4286,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.4286,
+      "UPPER ABDOMEN": 0.4286
+    },
+    "subscapularis": {
+      "ACROMIOCLAVICULAR JOINT": 0.8929,
+      "BONES": 0.9643,
+      "GLENOHUMERAL JOINT": 0.9643,
+      "INFRASPINATUS": 0.5357,
+      "MUSCLES": 0.5714,
+      "SUBSCAPULARIS": 0.5714,
+      "SUPRASPINATUS": 0.6071,
+      "TERES MINOR": 0.5714
+    },
+    "subsegmental": {
+      "CARDIOVASCULAR": 0.4706,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7059,
+      "LUNGS": 0.2941,
+      "LUNGS/AIRWAYS/PLEURA": 0.5882,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.4706,
+      "UPPER ABDOMEN": 0.5882
+    },
+    "subtalar": {
+      "BONES": 1.0,
+      "CARTILAGE": 0.5714,
+      "EXTENSOR": 0.7143,
+      "FLEXOR": 0.7143,
+      "FLUID": 0.7143,
+      "LATERAL COLLATERAL": 0.4762,
+      "PERONEAL": 0.7143,
+      "PLANTAR FASCIA": 0.7143
+    },
+    "subtle": {
+      "BONES": 0.5714,
+      "CARDIOVASCULAR": 0.2857,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2857,
+      "FLUID": 0.2857,
+      "LUNGS/AIRWAYS": 0.2857,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.2857,
+      "MUSCLES": 0.2857
+    },
+    "suggest": {
+      "BONES": 0.3704,
+      "BRAIN": 0.4444,
+      "SINUSES AND MASTOIDS": 0.2593,
+      "VENTRICLES": 0.4074
+    },
+    "suggesting": {
+      "BONES": 0.5,
+      "SOFT TISSUES": 0.5
+    },
+    "suggestive": {
+      "Articular Cartilage": 0.2609,
+      "BONES": 0.4348,
+      "Joint": 0.3261,
+      "Osseous Structures": 0.3043
+    },
+    "sulci": {
+      "BONES": 0.625,
+      "BRAIN": 0.9375,
+      "ORBITS": 0.5,
+      "SINUSES AND MASTOIDS": 0.75,
+      "VENTRICLES": 0.875
+    },
+    "superficial": {
+      "Articular Cartilage": 0.2963,
+      "DEEP VEINS": 0.4815,
+      "Joint": 0.3333,
+      "Osseous Structures": 0.2593,
+      "SOFT TISSUES": 0.5556,
+      "SUPERFICIAL VEINS": 0.4074,
+      "Soft Tissues": 0.2593
+    },
+    "superimposed": {
+      "ALIGNMENT": 0.2727,
+      "CARDIOVASCULAR": 0.3636,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3636,
+      "DISCS/DEGENERATIVE CHANGES": 0.2727,
+      "L1-L2": 0.2727,
+      "LUNGS/AIRWAYS": 0.3636,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3636,
+      "OTHER FINDINGS": 0.3636
+    },
+    "superior": {
+      "ACROMIOCLAVICULAR JOINT": 0.32,
+      "BONES": 0.8,
+      "GLENOHUMERAL JOINT": 0.32,
+      "JOINTS": 0.32,
+      "SOFT TISSUES": 0.34
+    },
+    "superolateral": {
+      "BONES": 0.6429,
+      "JOINTS": 0.6429,
+      "SOFT TISSUES": 0.2857,
+      "Soft Tissues": 0.2857
+    },
+    "suprapatellar": {
+      "Articular Cartilage": 0.4444,
+      "BONES": 0.4444,
+      "Bursae": 0.3333,
+      "Extensor Mechanism": 0.5556,
+      "JOINTS": 0.4444,
+      "Joint": 0.5556,
+      "SOFT TISSUES": 0.3333
+    },
+    "suprasellar": {
+      "BRAIN": 0.7143,
+      "SINUSES AND MASTOIDS": 1.0,
+      "VENTRICLES": 0.7143
+    },
+    "supraspinatus": {
+      "ACROMIOCLAVICULAR JOINT": 0.9615,
+      "BONES": 0.9872,
+      "GLENOHUMERAL JOINT": 0.9872,
+      "INFRASPINATUS": 0.5513,
+      "MUSCLES": 0.5641,
+      "SUBSCAPULARIS": 0.5641,
+      "SUPRASPINATUS": 0.5769,
+      "TERES MINOR": 0.5641
+    },
+    "surface": {
+      "ACROMIOCLAVICULAR JOINT": 0.3214,
+      "Articular Cartilage": 0.3929,
+      "BONES": 0.5357,
+      "GLENOHUMERAL JOINT": 0.3214,
+      "Joint": 0.4286,
+      "Osseous Structures": 0.4286
+    },
+    "surgical": {
+      "BONES": 0.6429,
+      "DISC SPACES": 0.3571,
+      "JOINTS": 0.4286,
+      "SOFT TISSUES": 0.6429,
+      "VERTEBRAE": 0.3571
+    },
+    "surrounding": {
+      "BONES": 0.6
+    },
+    "susceptibility": {
+      "BONES": 1.0,
+      "CARTILAGE": 0.4286,
+      "LIGAMENTS": 0.4286,
+      "TENDONS": 0.4286
+    },
+    "suspicious": {
+      "BONES": 0.25,
+      "CARDIOVASCULAR": 0.2647,
+      "LYMPH NODES": 0.25,
+      "OTHER FINDINGS": 0.2941
+    },
+    "swelling": {
+      "BONES": 0.6727,
+      "JOINTS": 0.6545,
+      "SOFT TISSUES": 0.7636
+    },
+    "symmetric": {
+      "BONES": 0.375,
+      "BRAIN": 0.5
+    },
+    "symphysis": {
+      "BONES": 0.5455,
+      "Hip Joints": 0.4091,
+      "JOINTS": 0.4545,
+      "SOFT TISSUES": 0.3636,
+      "Sacroiliac Joints & Pubic Symphysis": 0.4091
+    },
+    "symptoms": {
+      "BONES": 0.6,
+      "JOINTS": 0.7,
+      "OTHER FINDINGS": 0.3
+    },
+    "synovial": {
+      "Articular Cartilage": 0.625,
+      "Bursae": 0.25,
+      "Extensor Mechanism": 0.4375,
+      "Joint": 0.6875,
+      "Osseous Structures": 0.5
+    },
+    "synovitis": {
+      "Articular Cartilage": 0.5556,
+      "Extensor Mechanism": 0.4444,
+      "Joint": 0.7778,
+      "Osseous Structures": 0.7778,
+      "Soft Tissues": 0.4444
+    },
+    "system": {
+      "BONES": 0.25,
+      "BRAIN": 0.375,
+      "DEEP VEINS": 0.3125,
+      "LIVER": 0.25,
+      "SINUSES AND MASTOIDS": 0.2812,
+      "SOFT TISSUES": 0.2812,
+      "VENTRICLES": 0.375
+    },
+    "t10": {
+      "ALIGNMENT": 0.6667,
+      "DISCS/DEGENERATIVE CHANGES": 0.6667,
+      "PARASPINAL SOFT TISSUES": 0.6667,
+      "SPINAL CORD": 0.6667,
+      "VERTEBRAE": 0.6667
+    },
+    "t11": {
+      "ALIGNMENT": 0.7273,
+      "DISCS/DEGENERATIVE CHANGES": 0.7273,
+      "PARASPINAL SOFT TISSUES": 0.7273,
+      "SPINAL CORD": 0.7273,
+      "VERTEBRAE": 0.9091
+    },
+    "t12": {
+      "ALIGNMENT": 0.4615,
+      "DISC SPACES": 0.3846,
+      "DISCS/DEGENERATIVE CHANGES": 0.4615,
+      "PARASPINAL SOFT TISSUES": 0.4615,
+      "SPINAL CORD": 0.4615,
+      "VERTEBRAE": 0.8462
+    },
+    "talar": {
+      "BONES": 0.9,
+      "CARTILAGE": 0.3,
+      "EXTENSOR": 0.4,
+      "FLEXOR": 0.4,
+      "FLUID": 0.4,
+      "JOINTS": 0.5,
+      "PERONEAL": 0.4,
+      "PLANTAR FASCIA": 0.4
+    },
+    "talofibular": {
+      "ACHILLES": 0.6667,
+      "BONES": 1.0,
+      "CARTILAGE": 0.6667,
+      "EXTENSOR": 1.0,
+      "FLEXOR": 1.0,
+      "FLUID": 1.0,
+      "PERONEAL": 1.0,
+      "PLANTAR FASCIA": 1.0
+    },
+    "talus": {
+      "BONES": 0.8333,
+      "JOINTS": 0.5
+    },
+    "tarsal": {
+      "BONES": 0.8571,
+      "CARTILAGE": 0.8571,
+      "EXTENSOR": 0.8571,
+      "FLEXOR": 0.8571,
+      "FLUID": 0.8571,
+      "LATERAL COLLATERAL": 0.8571,
+      "MEDIAL COLLATERAL": 0.8571,
+      "PERONEAL": 0.8571
+    },
+    "tear": {
+      "ACROMIOCLAVICULAR JOINT": 0.4798,
+      "BONES": 0.7052,
+      "GLENOHUMERAL JOINT": 0.4855,
+      "INFRASPINATUS": 0.289,
+      "MUSCLES": 0.4335,
+      "SUBSCAPULARIS": 0.2948,
+      "SUPRASPINATUS": 0.2948,
+      "TERES MINOR": 0.2948
+    },
+    "technique": {
+      "BONES": 0.4444,
+      "SOFT TISSUES": 0.3333
+    },
+    "temporal": {
+      "BONES": 0.4286,
+      "BRAIN": 1.0,
+      "ORBITS": 0.4286,
+      "SINUSES AND MASTOIDS": 0.7143,
+      "VENTRICLES": 0.5714
+    },
+    "tendinopathy": {
+      "BONES": 0.9286,
+      "JOINTS": 0.7857,
+      "SOFT TISSUES": 0.7857
+    },
+    "tendinosis": {
+      "ACROMIOCLAVICULAR JOINT": 0.7,
+      "BONES": 0.9375,
+      "GLENOHUMERAL JOINT": 0.7125,
+      "INFRASPINATUS": 0.425,
+      "MUSCLES": 0.625,
+      "SUBSCAPULARIS": 0.45,
+      "SUPRASPINATUS": 0.4625,
+      "TERES MINOR": 0.45
+    },
+    "tendon": {
+      "ACROMIOCLAVICULAR JOINT": 0.5683,
+      "BONES": 0.8142,
+      "GLENOHUMERAL JOINT": 0.5683,
+      "INFRASPINATUS": 0.3607,
+      "MUSCLES": 0.5027,
+      "SUBSCAPULARIS": 0.3661,
+      "SUPRASPINATUS": 0.3661,
+      "TERES MINOR": 0.3661
+    },
+    "tendons": {
+      "BONES": 0.8947,
+      "CARTILAGE": 0.5614,
+      "EXTENSOR": 0.4737,
+      "FLEXOR": 0.4737,
+      "FLUID": 0.5965,
+      "LATERAL COLLATERAL": 0.4211,
+      "PERONEAL": 0.4386,
+      "PLANTAR FASCIA": 0.4386
+    },
+    "tenosynovitis": {
+      "ACROMIOCLAVICULAR JOINT": 0.6154,
+      "BONES": 0.9231,
+      "GLENOHUMERAL JOINT": 0.6154,
+      "INFRASPINATUS": 0.5385,
+      "MUSCLES": 0.6154,
+      "SUBSCAPULARIS": 0.5385,
+      "SUPRASPINATUS": 0.5385,
+      "TERES MINOR": 0.5385
+    },
+    "teres": {
+      "ACROMIOCLAVICULAR JOINT": 1.0,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 1.0,
+      "INFRASPINATUS": 0.6667,
+      "MUSCLES": 0.6667,
+      "SUBSCAPULARIS": 0.6667,
+      "SUPRASPINATUS": 0.6667,
+      "TERES MINOR": 0.6667
+    },
+    "terminates": {
+      "ALIGNMENT": 1.0,
+      "DISCS/DEGENERATIVE CHANGES": 1.0,
+      "L3-L4": 0.75,
+      "L4-L5": 0.75,
+      "L5-S1": 0.75,
+      "PARASPINAL SOFT TISSUES": 0.875,
+      "SPINAL CORD": 0.9375,
+      "VERTEBRAE": 0.9375
+    },
+    "thalami": {
+      "BRAIN": 1.0,
+      "ORBITS": 0.5714,
+      "SINUSES AND MASTOIDS": 1.0,
+      "VENTRICLES": 1.0
+    },
+    "thecal": {
+      "ALIGNMENT": 0.5385,
+      "Alignment": 0.4103,
+      "C6-7": 0.4103,
+      "DISCS/DEGENERATIVE CHANGES": 0.5897,
+      "PARASPINAL SOFT TISSUES": 0.4103,
+      "SPINAL CORD": 0.4872,
+      "Spinal Cord": 0.4103,
+      "VERTEBRAE": 0.5641
+    },
+    "these": {
+      "BONES": 0.3704,
+      "SOFT TISSUES": 0.2593
+    },
+    "thickening": {
+      "BONES": 0.507
+    },
+    "thickness": {
+      "ACROMIOCLAVICULAR JOINT": 0.5463,
+      "BONES": 0.75,
+      "GLENOHUMERAL JOINT": 0.5648,
+      "INFRASPINATUS": 0.3333,
+      "MUSCLES": 0.4259,
+      "SUBSCAPULARIS": 0.3333,
+      "SUPRASPINATUS": 0.3333,
+      "TERES MINOR": 0.3333
+    },
+    "thin": {
+      "BONES": 0.6667
+    },
+    "thinning": {
+      "Articular Cartilage": 0.4651,
+      "BONES": 0.5116,
+      "Extensor Mechanism": 0.2791,
+      "Joint": 0.4651,
+      "MUSCLES": 0.3953,
+      "Osseous Structures": 0.4651
+    },
+    "third": {
+      "BONES": 0.5,
+      "JOINTS": 0.6667,
+      "SOFT TISSUES": 0.5
+    },
+    "thoracic": {
+      "ALIGNMENT": 0.2588,
+      "CARDIOVASCULAR": 0.3118,
+      "CHEST WALL/MUSCULOSKELETAL": 0.3176,
+      "DISCS/DEGENERATIVE CHANGES": 0.2588,
+      "VERTEBRAE": 0.4353
+    },
+    "thoracolumbar": {
+      "DISC SPACES": 0.6,
+      "SOFT TISSUES": 0.5,
+      "VERTEBRAE": 0.6
+    },
+    "three": {
+      "BONES": 0.9286,
+      "JOINTS": 0.9286,
+      "SOFT TISSUES": 0.7143
+    },
+    "thrombosis": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.6,
+      "SUPERFICIAL VEINS": 0.45
+    },
+    "thrombus": {
+      "DEEP VEINS": 1.0,
+      "SOFT TISSUES": 0.6667,
+      "SUPERFICIAL VEINS": 0.4
+    },
+    "through": {
+      "DISC SPACES": 0.3939,
+      "SOFT TISSUES": 0.3636,
+      "VERTEBRAE": 0.5152
+    },
+    "throughout": {
+      "ALIGNMENT": 0.25,
+      "DEEP VEINS": 0.3333,
+      "DISCS/DEGENERATIVE CHANGES": 0.25,
+      "SOFT TISSUES": 0.4167,
+      "SUPERFICIAL VEINS": 0.25,
+      "VERTEBRAE": 0.25
+    },
+    "thumb": {
+      "BONES": 1.0,
+      "Extensor compartments": 0.5714,
+      "Flexor compartments": 0.5714,
+      "JOINTS": 1.0,
+      "LIGAMENTS": 0.5714,
+      "MUSCLES": 0.5714,
+      "NERVES": 0.5714,
+      "TENDONS": 0.5714
+    },
+    "thyroid": {
+      "CARDIOVASCULAR": 0.4286,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6429,
+      "LUNGS/AIRWAYS": 0.6429,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4286,
+      "OTHER FINDINGS": 0.7143,
+      "PLEURA": 0.6429
+    },
+    "tibia": {
+      "BONES": 0.7692,
+      "JOINTS": 0.6154,
+      "SOFT TISSUES": 0.6154
+    },
+    "tibial": {
+      "BONES": 0.2727,
+      "DEEP VEINS": 0.3333,
+      "Joint": 0.303,
+      "Osseous Structures": 0.303,
+      "SOFT TISSUES": 0.3333
+    },
+    "tibiofemoral": {
+      "Articular Cartilage": 0.3448,
+      "BONES": 0.5517,
+      "JOINTS": 0.5517,
+      "Joint": 0.4483,
+      "Osseous Structures": 0.4483,
+      "SOFT TISSUES": 0.2759
+    },
+    "tibiotalar": {
+      "ACHILLES": 0.375,
+      "BONES": 1.0,
+      "CARTILAGE": 0.5,
+      "EXTENSOR": 0.75,
+      "FLEXOR": 0.75,
+      "FLUID": 0.75,
+      "PERONEAL": 0.75,
+      "PLANTAR FASCIA": 0.75
+    },
+    "tiny": {
+      "BONES": 0.5714,
+      "OTHER FINDINGS": 0.2857
+    },
+    "tissue": {
+      "BONES": 0.7029,
+      "JOINTS": 0.3371,
+      "SOFT TISSUES": 0.4171
+    },
+    "tissues": {
+      "BONES": 0.5827,
+      "JOINTS": 0.3669,
+      "SOFT TISSUES": 0.4173
+    },
+    "toe": {
+      "BONES": 0.9167,
+      "EXTENSOR": 0.5,
+      "FLEXOR": 0.5,
+      "JOINTS": 0.5,
+      "LATERAL COLLATERAL": 0.5,
+      "LIGAMENTS": 0.5,
+      "MEDIAL COLLATERAL": 0.5,
+      "PERONEAL": 0.5
+    },
+    "total": {
+      "BONES": 0.7692,
+      "JOINTS": 0.6154,
+      "SOFT TISSUES": 0.4615
+    },
+    "trace": {
+      "ACROMIOCLAVICULAR JOINT": 0.5,
+      "BONES": 0.75,
+      "GLENOHUMERAL JOINT": 0.5
+    },
+    "tracheobronchial": {
+      "CARDIOVASCULAR": 0.875,
+      "CHEST WALL/MUSCULOSKELETAL": 0.875,
+      "LUNGS/AIRWAYS": 0.5,
+      "LUNGS/AIRWAYS/PLEURA": 0.375,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.5,
+      "OTHER FINDINGS": 0.375,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.375,
+      "UPPER ABDOMEN": 0.375
+    },
+    "traction": {
+      "CARDIOVASCULAR": 0.7273,
+      "CHEST WALL/MUSCULOSKELETAL": 0.7273,
+      "LUNGS/AIRWAYS": 0.4545,
+      "LUNGS/AIRWAYS/PLEURA": 0.2727,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.4545,
+      "OTHER FINDINGS": 0.4545,
+      "PLEURA": 0.2727,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.2727
+    },
+    "traumatic": {
+      "ACROMIOCLAVICULAR JOINT": 0.4286,
+      "BICEPS ANCHOR COMPLEX": 0.4286,
+      "BONES": 0.6429,
+      "GLENOHUMERAL JOINT": 0.4286,
+      "LIGAMENTS": 0.4286,
+      "PERIARTICULAR SOFT TISSUE": 0.4286,
+      "ROTATOR CUFF TENDONS AND MUSCLES": 0.4286,
+      "SOFT TISSUES": 0.4286
+    },
+    "tree": {
+      "CARDIOVASCULAR": 0.6667,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6667,
+      "LUNGS/AIRWAYS": 0.3333,
+      "LUNGS/AIRWAYS/PLEURA": 0.3333,
+      "LYMPH NODES": 0.3333,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.3333,
+      "OTHER FINDINGS": 0.3333,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.3333
+    },
+    "triceps": {
+      "BONES": 1.0,
+      "CARTILAGE": 1.0,
+      "COMMON EXTENSOR": 0.4286,
+      "COMMON FLEXOR": 0.4286,
+      "FLUID": 1.0,
+      "LATERAL COLLATERAL": 0.4286,
+      "MEDIAL COLLATERAL": 0.4286,
+      "TRICEPS": 0.8571
+    },
+    "tricompartmental": {
+      "Articular Cartilage": 0.2609,
+      "BONES": 0.7391,
+      "JOINTS": 0.7391,
+      "Joint": 0.2609,
+      "Osseous Structures": 0.2609,
+      "SOFT TISSUES": 0.3043
+    },
+    "trochanter": {
+      "BONES": 0.8571,
+      "FLUID": 0.4286,
+      "JOINTS": 0.4286,
+      "MUSCLES": 0.4286,
+      "SOFT TISSUES": 0.4286
+    },
+    "trochanteric": {
+      "ABDUCTORS": 0.7692,
+      "BONES": 1.0,
+      "CARTILAGE": 0.7692,
+      "EXTENSORS/HAMSTRING": 0.3846,
+      "FLUID": 0.7692,
+      "LABRUM": 0.7692,
+      "MUSCLES": 0.7692,
+      "OTHER FINDINGS": 0.4615
+    },
+    "tuberculosis": {
+      "BONES": 1.0,
+      "LUNGS": 1.0,
+      "MEDIASTINUM/HILA": 1.0
+    },
+    "tuberosity": {
+      "ACROMIOCLAVICULAR JOINT": 0.5526,
+      "BONES": 1.0,
+      "GLENOHUMERAL JOINT": 0.5526,
+      "INFRASPINATUS": 0.2895,
+      "JOINTS": 0.4211,
+      "MUSCLES": 0.2895,
+      "SOFT TISSUES": 0.3684,
+      "SUBSCAPULARIS": 0.2895
+    },
+    "tunnel": {
+      "BONES": 0.8333,
+      "CARTILAGE": 0.6667,
+      "EXTENSOR": 0.6667,
+      "FLEXOR": 0.6667,
+      "FLUID": 0.6667,
+      "LATERAL COLLATERAL": 0.6667,
+      "MEDIAL COLLATERAL": 0.6667,
+      "PERONEAL": 0.6667
+    },
+    "two": {
+      "BONES": 0.6667,
+      "JOINTS": 0.6667,
+      "SOFT TISSUES": 0.4444
+    },
+    "type": {
+      "ACROMIOCLAVICULAR JOINT": 0.5385,
+      "BONES": 0.7692,
+      "GLENOHUMERAL JOINT": 0.5385,
+      "INFRASPINATUS": 0.4615,
+      "MUSCLES": 0.4615,
+      "SUBSCAPULARIS": 0.4615,
+      "SUPRASPINATUS": 0.4615,
+      "TERES MINOR": 0.4615
+    },
+    "ulna": {
+      "BONES": 1.0,
+      "JOINTS": 0.8571,
+      "SOFT TISSUES": 0.8571
+    },
+    "ulnar": {
+      "BONES": 1.0,
+      "JOINTS": 0.75,
+      "MUSCLES": 0.25,
+      "SOFT TISSUES": 0.4375
+    },
+    "ultrasound": {
+      "DEEP VEINS": 0.2667,
+      "SOFT TISSUES": 0.2667
+    },
+    "unchanged": {
+      "CARDIOVASCULAR": 0.4762,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4762,
+      "LUNGS/AIRWAYS/PLEURA": 0.2857,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.2857,
+      "UPPER ABDOMEN": 0.2857
+    },
+    "uncovertebral": {
+      "Alignment": 0.7143,
+      "C2-3": 0.6571,
+      "C3-4": 0.6571,
+      "C4-5": 0.7143,
+      "C5-6": 0.7143,
+      "C6-7": 0.7143,
+      "C7-T1": 0.6571,
+      "Spinal Cord": 0.7143
+    },
+    "underlying": {
+      "Articular Cartilage": 0.2727,
+      "BONES": 0.5455,
+      "Joint": 0.2727,
+      "MUSCLES": 0.2727,
+      "OTHER FINDINGS": 0.2727,
+      "Osseous Structures": 0.2727,
+      "SOFT TISSUES": 0.3636
+    },
+    "unremarkable": {
+      "BONES": 0.5052,
+      "JOINTS": 0.2732
+    },
+    "upper": {
+      "CARDIOVASCULAR": 0.5758,
+      "CHEST WALL/MUSCULOSKELETAL": 0.6061,
+      "LUNGS/AIRWAYS": 0.3131,
+      "LUNGS/AIRWAYS/PLEURA": 0.3131,
+      "MEDIASTINAL/HILAR LYMPH NODES": 0.303,
+      "OTHER FINDINGS": 0.3535,
+      "SUPRACLAVICULAR/AXILLARY/MEDIASTINAL/HILAR": 0.2525,
+      "UPPER ABDOMEN": 0.3333
+    },
+    "ureter": {
+      "ADRENAL GLANDS": 1.0,
+      "LIVER": 1.0,
+      "LYMPH NODES": 1.0,
+      "PANCREAS": 1.0,
+      "PERITONEUM": 1.0,
+      "REPRODUCTIVE": 1.0,
+      "SPLEEN": 1.0,
+      "STOMACH AND BOWEL": 1.0
+    },
+    "urinary": {
+      "BLADDER": 0.4545,
+      "BONES": 0.8636,
+      "LIVER": 0.3636,
+      "LYMPH NODES": 0.7273,
+      "OTHER FINDINGS": 0.3636,
+      "PANCREAS": 0.3182,
+      "REPRODUCTIVE": 0.7727,
+      "STOMACH AND BOWEL": 0.3636
+    },
+    "uterine": {
+      "ENDOMETRIUM": 0.5,
+      "FREE FLUID": 0.5,
+      "LEFT OVARY": 0.5,
+      "OTHER FINDINGS": 0.5,
+      "RIGHT OVARY": 0.5,
+      "UTERUS/CERVIX": 0.5
+    },
+    "uterus": {
+      "BONES": 0.5556,
+      "ENDOMETRIUM": 0.4444,
+      "FREE FLUID": 0.4444,
+      "LEFT OVARY": 0.4444,
+      "LYMPH NODES": 0.5556,
+      "OTHER FINDINGS": 0.4444,
+      "REPRODUCTIVE": 0.5556,
+      "RIGHT OVARY": 0.4444
+    },
+    "vacuum": {
+      "DISC SPACES": 1.0,
+      "SOFT TISSUES": 1.0,
+      "VERTEBRAE": 1.0
+    },
+    "valgus": {
+      "BONES": 0.9167,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.8333
+    },
+    "variance": {
+      "BONES": 1.0,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.5714
+    },
+    "vascular": {
+      "BONES": 0.6286,
+      "BRAIN": 0.3714,
+      "JOINTS": 0.3143,
+      "ORBITS": 0.2857,
+      "SINUSES AND MASTOIDS": 0.3714,
+      "SOFT TISSUES": 0.3429,
+      "VENTRICLES": 0.3143
+    },
+    "vascularity": {
+      "SOFT TISSUES": 0.4286,
+      "VASCULARITY": 0.4286
+    },
+    "vein": {
+      "DEEP VEINS": 0.7692,
+      "SOFT TISSUES": 0.3077
+    },
+    "veins": {
+      "DEEP VEINS": 0.9355,
+      "SOFT TISSUES": 0.6452,
+      "SUPERFICIAL VEINS": 0.5806
+    },
+    "venous": {
+      "DEEP VEINS": 0.931,
+      "SOFT TISSUES": 0.6724,
+      "SUPERFICIAL VEINS": 0.4828
+    },
+    "ventral": {
+      "Alignment": 0.5111,
+      "C4-5": 0.4889,
+      "C5-6": 0.4889,
+      "C6-7": 0.5111,
+      "DISCS/DEGENERATIVE CHANGES": 0.4889,
+      "Spinal Cord": 0.5111,
+      "VERTEBRAE": 0.4889,
+      "Vertebral Bodies": 0.4889
+    },
+    "ventricles": {
+      "BONES": 0.6667,
+      "BRAIN": 0.9524,
+      "ORBITS": 0.5238,
+      "SINUSES AND MASTOIDS": 0.7143,
+      "VENTRICLES": 0.7619
+    },
+    "ventricular": {
+      "BONES": 0.3571,
+      "BRAIN": 1.0,
+      "ORBITS": 0.4286,
+      "SINUSES AND MASTOIDS": 0.7143,
+      "VENTRICLES": 1.0
+    },
+    "vertebral": {
+      "ALIGNMENT": 0.2993,
+      "DISC SPACES": 0.3942,
+      "DISCS/DEGENERATIVE CHANGES": 0.2993,
+      "SOFT TISSUES": 0.3577,
+      "SPINAL CORD": 0.2774,
+      "VERTEBRAE": 0.7007
+    },
+    "vessel": {
+      "BONES": 0.4286,
+      "BRAIN": 1.0,
+      "ORBITS": 0.2857,
+      "SINUSES AND MASTOIDS": 0.5714,
+      "VENTRICLES": 0.5714
+    },
+    "vessels": {
+      "CARDIOVASCULAR": 0.4118,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4118,
+      "LUNGS/AIRWAYS/PLEURA": 0.2941
+    },
+    "view": {
+      "BONES": 0.6364,
+      "JOINTS": 0.3182,
+      "SOFT TISSUES": 0.3636
+    },
+    "views": {
+      "BONES": 0.5366,
+      "DISC SPACES": 0.2683,
+      "JOINTS": 0.4878,
+      "SOFT TISSUES": 0.5122,
+      "VERTEBRAE": 0.2683
+    },
+    "visualized": {
+      "BONES": 0.4379,
+      "SOFT TISSUES": 0.3069
+    },
+    "voids": {
+      "BONES": 0.5833,
+      "BRAIN": 0.875,
+      "ORBITS": 0.5833,
+      "SINUSES AND MASTOIDS": 0.8333,
+      "VENTRICLES": 0.7083
+    },
+    "volume": {
+      "BONES": 0.3636,
+      "BRAIN": 0.6667,
+      "ORBITS": 0.3636,
+      "SINUSES AND MASTOIDS": 0.3939,
+      "VENTRICLES": 0.5152
+    },
+    "wall": {
+      "BONES": 0.3077,
+      "CARDIOVASCULAR": 0.4103,
+      "CHEST WALL/MUSCULOSKELETAL": 0.4103,
+      "LIVER": 0.3333,
+      "LYMPH NODES": 0.4103,
+      "OTHER FINDINGS": 0.359,
+      "PANCREAS": 0.3333,
+      "SPLEEN": 0.3333
+    },
+    "waveforms": {
+      "DEEP VEINS": 0.75,
+      "SOFT TISSUES": 0.75,
+      "SUPERFICIAL VEINS": 0.5
+    },
+    "weight": {
+      "Articular Cartilage": 0.4286,
+      "Extensor Mechanism": 0.4286,
+      "Joint": 0.4286
+    },
+    "well": {
+      "BONES": 0.4348,
+      "LYMPH NODES": 0.3478
+    },
+    "were": {
+      "BONES": 0.4524,
+      "CHEST WALL/MUSCULOSKELETAL": 0.2857,
+      "JOINTS": 0.381,
+      "LUNGS/AIRWAYS/PLEURA": 0.2857,
+      "SOFT TISSUES": 0.3571,
+      "UPPER ABDOMEN": 0.2857
+    },
+    "where": {
+      "DEEP VEINS": 0.5,
+      "DISC SPACES": 0.4,
+      "SOFT TISSUES": 0.8,
+      "SUPERFICIAL VEINS": 0.5,
+      "VERTEBRAE": 0.5
+    },
+    "which": {
+      "BONES": 0.4118,
+      "JOINTS": 0.3235,
+      "SOFT TISSUES": 0.2941
+    },
+    "white": {
+      "BONES": 0.475,
+      "BRAIN": 1.0,
+      "ORBITS": 0.575,
+      "SINUSES AND MASTOIDS": 0.7,
+      "VENTRICLES": 0.8
+    },
+    "wrist": {
+      "BONES": 0.9048,
+      "JOINTS": 1.0,
+      "SOFT TISSUES": 0.619
+    },
+    "year": {
+      "BONES": 0.375,
+      "LUNGS": 0.25,
+      "SOFT TISSUES": 0.25
+    }
+  }
+}

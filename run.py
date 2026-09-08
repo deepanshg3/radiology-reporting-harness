@@ -99,6 +99,14 @@ def build_parser() -> argparse.ArgumentParser:
         default=config.OUTPUTS_DIR,
         help="Directory for predictions/failures/submission (default: outputs/).",
     )
+    parser.add_argument(
+        "--details-log",
+        type=Path,
+        default=None,
+        help="Optional JSONL path to record per-case experiment details (report, "
+             "edited-section count, impression change, latency). Never writes to "
+             "submission.csv.",
+    )
     return parser
 
 
@@ -195,6 +203,7 @@ def main(argv: list[str] | None = None) -> int:
         predictions_path=predictions_path,
         failures_path=failures_path,
         complete_marker_path=complete_marker_path,
+        details_log_path=args.details_log,
         logger=logger,
     )
 

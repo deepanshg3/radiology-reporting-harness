@@ -1,8 +1,16 @@
 """Prompt construction: system instruction + few-shot turns + the real case.
 
 The system prompt lives in ``prompts/system_prompt.txt`` (editable without
-touching code); the few-shot demonstrations live in
-``prompts/few_shot_examples.json`` (0..N, capped by ``max_examples``).
+touching code); the few-shot demonstrations come from ONE of two sources:
+
+* **Dynamic** (primary during real inference): ``ExampleRetriever`` selects up
+  to ``max_examples`` REAL rows from ``train.csv`` that are most relevant to
+  the current case (template similarity, modality/body_part, dictation, edited
+  sections). ``retrieval_prompt_builder`` wires this into the Gemini client.
+* **Static** (fallback): ``prompts/few_shot_examples.json`` is used for tests or
+  whenever the retrieval index is unavailable. The two sources are never
+  combined, so the model never sees unrelated extra context.
+
 Section labels are derived from the template itself via
 :func:`template_editor.parse_template`, never from train.csv or guesswork.
 """
@@ -15,10 +23,13 @@ from pathlib import Path
 
 from src.config import FEW_SHOT_EXAMPLES_PATH, SYSTEM_PROMPT_PATH
 from src.data_loader import TestCase
+from src.section_routing import RoutingModel
 from src.template_editor import WHOLE_BLOCK_KEY, parse_template
 
 USER_ROLE = "user"
 MODEL_ROLE = "model"
+
+DEFAULT_MAX_EXAMPLES = 3
 
 
 @dataclass(frozen=True)
@@ -78,10 +89,21 @@ def load_few_shot_examples(path: Path | str = FEW_SHOT_EXAMPLES_PATH) -> list[di
     return validated
 
 
-def _case_user_text(test_case: TestCase) -> str:
+def _case_user_text(test_case: TestCase, routing: RoutingModel | None = None) -> str:
     parsed = parse_template(test_case.template_content)
     labels = parsed.section_labels if parsed.is_sectioned else [WHOLE_BLOCK_KEY]
     labels_block = "\n".join(f"- {label}" for label in labels)
+
+    hint_block = ""
+    if routing is not None and routing.available and parsed.is_sectioned:
+        candidates = routing.candidate_sections(test_case)
+        if candidates:
+            hint_block = (
+                "\nCANDIDATE SECTIONS TO CONSIDER (suggested by training data — "
+                "a HINT only, not a restriction):\n"
+                + "\n".join(f"- {label}" for label in candidates)
+            )
+
     return (
         "TEMPLATE SECTION LABELS (use exactly these keys in findings_edits):\n"
         f"{labels_block}\n\n"
@@ -89,16 +111,19 @@ def _case_user_text(test_case: TestCase) -> str:
         f"{test_case.template_content}\n\n"
         "DICTATION:\n"
         f"{test_case.dictation}"
+        + hint_block
     )
 
 
-def _example_turns(example: dict) -> tuple[tuple[str, str], ...]:
+def _example_turns(example: dict, *, header: str | None = None) -> tuple[tuple[str, str], ...]:
     template = example["template"]
     parsed = parse_template(template)
     labels = parsed.section_labels if parsed.is_sectioned else [WHOLE_BLOCK_KEY]
     labels_block = "\n".join(f"- {label}" for label in labels)
+    header_block = f"{header}\n\n" if header else ""
     user_text = (
-        "TEMPLATE SECTION LABELS (use exactly these keys in findings_edits):\n"
+        header_block
+        + "TEMPLATE SECTION LABELS (use exactly these keys in findings_edits):\n"
         f"{labels_block}\n\n"
         "TEMPLATE_CONTENT:\n"
         f"{template}\n\n"
@@ -109,21 +134,96 @@ def _example_turns(example: dict) -> tuple[tuple[str, str], ...]:
     return (USER_ROLE, user_text), (MODEL_ROLE, model_text)
 
 
+_DEFAULT_ROUTING: RoutingModel | None = None
+_DEFAULT_RETRIEVER: object | None = None  # ExampleRetriever | None (lazy import)
+
+
+def _default_routing() -> RoutingModel | None:
+    """Lazily shared routing model (degraded to None if the artifact is absent)."""
+    global _DEFAULT_ROUTING
+    if _DEFAULT_ROUTING is None:
+        model = RoutingModel()
+        _DEFAULT_ROUTING = model if model.available else None
+    return _DEFAULT_ROUTING
+
+
+def default_retriever():
+    """The lazily-shared dynamic retrieval index (None when train.csv is absent)."""
+    global _DEFAULT_RETRIEVER
+    if _DEFAULT_RETRIEVER is None:
+        from src.example_retriever import ExampleRetriever  # lazy: needs train.csv
+
+        try:
+            _DEFAULT_RETRIEVER = ExampleRetriever()
+        except (OSError, ValueError):
+            # train.csv missing/malformed -> index unavailable -> static fallback.
+            _DEFAULT_RETRIEVER = None
+    return _DEFAULT_RETRIEVER
+
+
 def build_prompt(
     test_case: TestCase,
     *,
     system_prompt: str | None = None,
     few_shot: list[dict] | None = None,
-    max_examples: int = 5,
+    max_examples: int = DEFAULT_MAX_EXAMPLES,
+    routing_model: RoutingModel | None = None,
+    example_retriever=None,
 ) -> BuiltPrompt:
-    """Assemble the system instruction + few-shot turns + the real case."""
+    """Assemble the system instruction + few-shot turns + the real case.
+
+    Few-shot source resolution (never both sources at once):
+
+    * ``example_retriever`` provided  -> dynamic retrieval (top ``max_examples``
+      REAL examples from train.csv for THIS case).
+    * else ``few_shot`` provided      -> the given static examples.
+    * else                            -> static ``few_shot_examples.json``.
+
+    ``routing_model`` (optional) supplies candidate-section HINTS derived from
+    training data; they are suggestions only and never restrict the model. When
+    ``None``, a shared default routing model is used if the artifact exists,
+    otherwise hints are omitted.
+    """
     system = system_prompt if system_prompt is not None else load_system_prompt()
-    examples = few_shot if few_shot is not None else load_few_shot_examples()
-    examples = list(examples[: max(0, max_examples)])
+
+    dynamic = example_retriever is not None
+    if dynamic:
+        retrieved = example_retriever.retrieve(test_case, k=max_examples)
+        examples = [result.to_prompt_example() for result in retrieved]
+    elif few_shot is not None:
+        examples = list(few_shot)
+    else:
+        examples = load_few_shot_examples()
+    examples = examples[: max(0, max_examples)]
+
+    routing = routing_model if routing_model is not None else _default_routing()
 
     turns: list[tuple[str, str]] = []
-    for example in examples:
-        turns.extend(_example_turns(example))
-    turns.append((USER_ROLE, _case_user_text(test_case)))
+    for index, example in enumerate(examples):
+        header = f"REAL TRAINING EXAMPLE {index + 1}" if dynamic else None
+        turns.extend(_example_turns(example, header=header))
+    turns.append((USER_ROLE, _case_user_text(test_case, routing=routing)))
 
     return BuiltPrompt(system_instruction=system, turns=tuple(turns))
+
+
+def retrieval_prompt_builder(
+    test_case: TestCase,
+    *,
+    max_examples: int = DEFAULT_MAX_EXAMPLES,
+    routing_model: RoutingModel | None = None,
+) -> BuiltPrompt:
+    """Prompt builder wired to dynamic retrieval (used for real inference).
+
+    Falls back to the static few-shot prompt whenever the retrieval index is
+    unavailable (e.g. train.csv missing).
+    """
+    retriever = default_retriever()
+    if retriever is None or not retriever.available:
+        return build_prompt(test_case, routing_model=routing_model)
+    return build_prompt(
+        test_case,
+        max_examples=max_examples,
+        routing_model=routing_model,
+        example_retriever=retriever,
+    )

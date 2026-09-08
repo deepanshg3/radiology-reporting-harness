@@ -29,6 +29,11 @@ ALLOWED_KEYS = frozenset({"findings_edits", "impression"})
 
 _FENCE_RE = re.compile(r"^\s*(```+|~~~+)[a-zA-Z]*\s*$")
 
+# Guardrail: the model must never re-emit report block headers inside an edit
+# value. A whole-line ``FINDINGS:`` / ``IMPRESSION:`` inside a body would corrupt
+# the final report structure, so it is rejected as an invalid edit.
+_BLOCK_HEADER_RE = re.compile(r"(?m)^\s*(FINDINGS|IMPRESSION):\s*$")
+
 
 @dataclass(frozen=True)
 class Edits:
@@ -77,12 +82,23 @@ def parse_edits(payload: object) -> Edits:
                 f"value for label {label!r} must be a string, "
                 f"got {type(value).__name__}"
             )
-        normalized[label.strip()] = value.strip()
+        value = value.strip()
+        if _BLOCK_HEADER_RE.search(value):
+            raise InvalidModelOutput(
+                f"findings_edits value for label {label!r} contains a "
+                f"FINDINGS:/IMPRESSION: block header (edit values are body text only)"
+            )
+        normalized[label.strip()] = value
 
     impression = payload.get("impression")
     if impression is not None and not isinstance(impression, str):
         raise InvalidModelOutput(
             f"'impression' must be a string or null, got {type(impression).__name__}"
+        )
+    if isinstance(impression, str) and _BLOCK_HEADER_RE.search(impression):
+        raise InvalidModelOutput(
+            "impression value contains a FINDINGS:/IMPRESSION: block header "
+            "(the impression must be body text only)"
         )
 
     return Edits(

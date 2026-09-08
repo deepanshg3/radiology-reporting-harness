@@ -16,6 +16,7 @@ Behavior
 
 from __future__ import annotations
 
+import json
 import logging
 import time
 from dataclasses import dataclass
@@ -34,6 +35,43 @@ from src.template_editor import apply_edits
 from src.validator import build_submission, validate_report
 
 LOGGER = logging.getLogger("radiology_harness")
+
+
+def _edit_summary(template_content: str, report: str) -> dict:
+    """Deterministic per-case edit bookkeeping for experiment logging.
+
+    Returns the edited section count, whether IMPRESSION changed, and a
+    character-level edit ratio. Pure Python, safe to call on any report.
+    """
+    try:
+        from src.analyze_training_edits import _char_edit_ratio
+        from src.template_editor import parse_template
+
+        template = parse_template(template_content)
+        report_parsed = parse_template(report)
+        edited = [
+            s.label
+            for s in template.sections
+            if (s.label not in {r.label: r for r in report_parsed.sections})
+            or (
+                s.label in {r.label for r in report_parsed.sections}
+                and s.body.strip() != next(
+                    (r.body for r in report_parsed.sections if r.label == s.label), ""
+                ).strip()
+            )
+        ]
+        impression_changed = (
+            template.after_impression.strip()
+            != report_parsed.after_impression.strip()
+        )
+        return {
+            "edited_sections": edited,
+            "edited_section_count": len(edited),
+            "impression_changed": impression_changed,
+            "char_edit_ratio": round(_char_edit_ratio(template_content, report), 4),
+        }
+    except Exception:  # noqa: BLE001 — logging must never crash the pipeline
+        return {}
 
 
 @dataclass(frozen=True)
@@ -81,6 +119,7 @@ class Pipeline:
         predictions_path: Path,
         failures_path: Path,
         complete_marker_path: Path,
+        details_log_path: Path | None = None,
         logger=None,
     ):
         self.settings = settings
@@ -90,6 +129,7 @@ class Pipeline:
         self.predictions_path = Path(predictions_path)
         self.failures_path = Path(failures_path)
         self.complete_marker_path = Path(complete_marker_path)
+        self.details_log_path = Path(details_log_path) if details_log_path else None
         self.logger = logger or LOGGER
         # REQUEST_DELAY_SECONDS == 0 disables all sleeps (test mode).
         self.delay_enabled = settings.request_delay_seconds > 0
@@ -190,7 +230,7 @@ class Pipeline:
 
         if outcome is not None:
             report, warnings = outcome
-            return self.checkpoint_manager.record_success(
+            record = self.checkpoint_manager.record_success(
                 case_id=test_case.case_id,
                 row_index=row_index,
                 report=report,
@@ -199,13 +239,15 @@ class Pipeline:
                 model=self.generator.model_name,
                 warnings="\n".join(warnings),
             )
+            self._log_details(test_case, record, report=report, warnings=warnings)
+            return record
 
         category = classify_error(last_error) if last_error else ErrorCategory.GENERIC
         message = (
             f"{type(last_error).__name__}: {last_error}" if last_error
             else "all attempts exhausted without an exception"
         )
-        return self.checkpoint_manager.record_failure(
+        record = self.checkpoint_manager.record_failure(
             case_id=test_case.case_id,
             row_index=row_index,
             attempts=attempts,
@@ -213,6 +255,28 @@ class Pipeline:
             error_category=category,
             error_message=str(message)[:2000],
             model=self.generator.model_name,
+        )
+        self._log_details(test_case, record, report="", errors=message)
+        return record
+
+    def _log_details(self, test_case: TestCase, record: CaseRecord, *, report: str, warnings=None, errors: str = "") -> None:
+        """Append one line to the experiment details log, if configured."""
+        if self.details_log_path is None:
+            return
+        entry = {
+            "case_id": test_case.case_id,
+            "status": record.status,
+            "attempts": record.attempts,
+            "latency_seconds": record.latency_seconds,
+            "model": record.model,
+            "warnings": warnings or [],
+            "errors": errors,
+            "report": report,
+        }
+        entry.update(_edit_summary(test_case.template_content, report or ""))
+        self.details_log_path.parent.mkdir(parents=True, exist_ok=True)
+        self.details_log_path.open("a", encoding="utf-8").write(
+            json.dumps(entry, ensure_ascii=False) + "\n"
         )
 
     # ------------------------------------------------------- output refresh

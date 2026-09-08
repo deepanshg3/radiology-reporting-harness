@@ -1,27 +1,57 @@
 {
-"examples": [
-{
-"name": "prose-cervical-spine-xray",
-"template": "FINDINGS:\nThe spinal alignment is maintained without evidence of spondylolisthesis.\nThe vertebral body and disc space heights are preserved.\nNo acute fracture is identified.\nThe odontoid process is intact.\nNo lytic or blastic lesions.\nThe paravertebral soft tissues are normal.\n\nIMPRESSION:\nUnremarkable X-ray of the cervical spine.",
-"dictation": "straightened cervical lordosis, positional or myospasm\nno fracture listhesis\nno signfiicant neural foraminal stenosis",
-"output": {
-"findings_edits": {
-"FINDINGS": "Straightening of the cervical lordosis, likely positional or related to muscle spasm.\nNo fracture or listhesis is identified.\nNo significant neural foraminal stenosis is present.\nNo lytic or blastic lesions.\nThe paravertebral soft tissues are normal."
-},
-"impression": "Straightening of the cervical lordosis without fracture or listhesis. No significant neural foraminal stenosis."
+  "examples": [
+    {
+      "name": "no-edit-shoulder-normal",
+      "template": "FINDINGS:\nBONES: No fracture or focal lesion.\nJOINTS: No dislocation. The joint spaces and articular margins are normal.\nSOFT TISSUES: The soft tissues are unremarkable.\n\nIMPRESSION:\nNo acute osseous abnormality.",
+      "dictation": "norml",
+      "output": {
+        "findings_edits": {},
+        "impression": null
+      }
+    },
+    {
+      "name": "chest-right-basilar-opacity-and-trace-pleural-effusion",
+      "template": "FINDINGS:\nLUNGS: Lungs are clear. No focal air-space consolidation.\nPLEURAL SPACES: No pleural effusion or pneumothorax.\nHEART: Cardiac silhouette is within normal size limits.\nMEDIASTINUM/HILA: Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement.\nDIAPHRAGM: Diaphragms are unremarkable. No subdiaphragmatic free air.\nBONES: No acute osseous abnormality identified on this examination.\nSOFT TISSUES: No acute soft tissue abnormality identified on the provided images.\n\nIMPRESSION:\nNo acute abnormality.",
+      "dictation": "Chest radiographs, 2 views. 80-84-year-old male. Preoperative evaluation for carpal tunnel surgery. None. Cardiomediastinal silhouette is within normal size limits. Mild elevation/tenting of the right hemidiaphragm with adjacent mild linear right basilar subsegmental atelectatic/scarring change. Mild blunting of the right lateral costophrenic angle is favored to represent mild pleural scarring or trace chronic pleural effusion. No focal air-space consolidation. No pneumothorax. No acute osseous abnormality is identified on these radiographs. Mild elevation/tenting of the right hemidiaphragm with adjacent mild right basilar linear atelectatic/scarring change. Mild blunting of the right costophrenic angle is favored to represent chronic pleural scarring or a trace pleural effusion. No focal pneumonia or other acute cardiopulmonary abnormality.",
+      "output": {
+        "findings_edits": {
+          "LUNGS": "There is mild linear right basilar subsegmental atelectatic/scarring change. No focal air-space consolidation. The remaining lungs are clear.",
+          "PLEURAL SPACES": "There is mild blunting of the right lateral costophrenic angle, favored to represent mild pleural scarring or trace chronic pleural effusion. No pneumothorax.",
+          "DIAPHRAGM": "There is mild elevation/tenting of the right hemidiaphragm. The left hemidiaphragm is unremarkable. No subdiaphragmatic free air.",
+          "BONES": "No acute osseous abnormality is identified on this examination."
+        },
+        "impression": "1. Mild elevation/tenting of the right hemidiaphragm with adjacent mild right basilar linear atelectatic/scarring change.\n2. Mild blunting of the right costophrenic angle, favored to represent chronic pleural scarring or a trace pleural effusion.\n3. No focal pneumonia or other acute cardiopulmonary abnormality."
+      }
+    },
+    {
+      "name": "mri-lumbar-multilevel-measurements-and-degenerative-changes",
+      "template": "FINDINGS:\nVERTEBRAE: Normal vertebral body heights are maintained. No acute fracture or focal osseous lesion. Marrow signal is within normal limits for age.\nALIGNMENT: Anatomic lumbar lordosis is maintained. No spondylolisthesis.\nSPINAL CORD: The conus medullaris terminates at a normal level, demonstrating normal signal and contour. The cauda equina nerve roots are unremarkable.\nDISCS/DEGENERATIVE CHANGES: Intervertebral disc heights and hydration are preserved. No significant facet arthropathy or ligamentum flavum hypertrophy.\nL1-L2: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.\nL2-L3: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.\nL3-L4: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.\nL4-L5: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.\nL5-S1: No central canal or foraminal stenosis. The intervertebral disc is normal in appearance.\nPARASPINAL SOFT TISSUES: The visualized paravertebral soft tissues are symmetric and without abnormal signal.\n\nIMPRESSION:\nUnremarkable MR of the lumbar spine.",
+      "dictation": "Mild reversal of the normal lumbar lordosis with levoscoliosis of the lumbar spine. Multilevel degenerative spondylotic changes are noted with intervertebral disc desiccation, disc space narrowing and associated endplate degenerative changes. Multilevel Schmorl’s nodes are seen. STIR hyperintense signal changes are noted involving the L3, L4 endplate regions, likely representing degenerative/reactive marrow edema; there is reduced height of the L4 vertebral body, predominantly involving the superior aspect, with irregularity of the superior endplate and associated Schmorl’s node formation, likely chronic degenerative/compression-related in nature. Multilevel ligamentum flavum hypertrophy and facet joint arthropathy are noted, contributing to variable neural foraminal and spinal canal narrowing. L1-L2 shows mild diffuse disc bulge with associated degenerative changes. No significant central canal or neural foraminal stenosis. L2-L3 shows diffuse disc bulge causing mild indentation over the ventral thecal sac with right neural foraminal narrowing. Associated facet/ligamentum flavum hypertrophic changes. L3-L4 shows diffuse disc bulge with bilateral facet and ligamentum flavum hypertrophy causing bilateral neural foraminal narrowing. There is crowding of the traversing nerve roots with impingement of bilateral exiting nerve roots. Central spinal canal is narrowed, measuring approximately 8.5 mm in AP dimension, consistent with moderate central canal stenosis. L4-L5 shows diffuse disc bulge with associated facet arthropathy and ligamentum flavum hypertrophy. Left neural foraminal narrowing with impingement of the left exiting nerve root. Central canal measures approximately 9.1 mm in AP dimension, suggestive of mild-to-moderate central canal stenosis. Right-sided facet arthropathy is prominent. L5-S1 shows diffuse disc bulge with left neural foraminal narrowing and impingement of the left exiting nerve root. Associated bilateral facet arthropathy and ligamentum flavum hypertrophy. No significant central canal stenosis. Multilevel lumbar spondylotic/disc degenerative changes with associated facet arthropathy and ligamentum flavum hypertrophy, superimposed on lumbar levoscoliosis and mild reversal of lumbar lordosis. L3-L4 shows diffuse disc bulge with bilateral neural foraminal narrowing, bilateral exiting nerve-root impingement and moderate central canal stenosis (AP canal diameter ~8.5 mm), with nerve-root crowding. L4-L5 shows diffuse disc bulge with left neural foraminal narrowing and left exiting nerve-root impingement; mild-to-moderate central canal stenosis (AP diameter ~9.1 mm). L5-S1 shows diffuse disc bulge with left neural foraminal narrowing and left exiting nerve-root impingement. Multilevel Schmorl’s nodes and degenerative endplate changes with STIR hyperintense marrow signal at L3-L4, likely reactive/degenerative. Reduced L4 vertebral body height with superior endplate irregularity and Schmorl’s node formation, favoring chronic degenerative/compression-related change.",
+      "output": {
+        "findings_edits": {
+          "VERTEBRAE": "There is reduced height of the L4 vertebral body, predominantly involving the superior aspect, with irregularity of the superior endplate and associated Schmorl’s node formation, likely chronic degenerative/compression-related in nature. Multilevel Schmorl’s nodes are seen. The remaining vertebral body heights are maintained. STIR hyperintense signal changes are noted involving the L3, L4 endplate regions, likely representing degenerative/reactive marrow edema. The remaining marrow signal is within normal limits for age. No acute fracture or other focal osseous lesion.",
+          "ALIGNMENT": "Mild reversal of the normal lumbar lordosis with levoscoliosis of the lumbar spine is present. No spondylolisthesis.",
+          "DISCS/DEGENERATIVE CHANGES": "Multilevel degenerative spondylotic changes are noted with intervertebral disc desiccation, disc space narrowing and associated endplate degenerative changes. Multilevel ligamentum flavum hypertrophy and facet joint arthropathy are noted, contributing to variable neural foraminal and spinal canal narrowing.",
+          "L1-L2": "Mild diffuse disc bulge with associated degenerative changes. No significant central canal or neural foraminal stenosis.",
+          "L2-L3": "Diffuse disc bulge causing mild indentation over the ventral thecal sac with right neural foraminal narrowing. Associated facet/ligamentum flavum hypertrophic changes are present. There is no significant central canal stenosis. The left neural foramen is patent.",
+          "L3-L4": "Diffuse disc bulge with bilateral facet and ligamentum flavum hypertrophy causing bilateral neural foraminal narrowing. There is crowding of the traversing nerve roots with impingement of bilateral exiting nerve roots. The central spinal canal is narrowed, measuring approximately 8.5 mm in AP dimension, consistent with moderate central canal stenosis.",
+          "L4-L5": "Diffuse disc bulge with associated facet arthropathy and ligamentum flavum hypertrophy. Left neural foraminal narrowing with impingement of the left exiting nerve root is present. The central canal measures approximately 9.1 mm in AP dimension, suggestive of mild-to-moderate central canal stenosis. Right-sided facet arthropathy is prominent. The right neural foramen is patent.",
+          "L5-S1": "Diffuse disc bulge with left neural foraminal narrowing and impingement of the left exiting nerve root. Associated bilateral facet arthropathy and ligamentum flavum hypertrophy are present. No significant central canal stenosis. The right neural foramen is patent."
+        },
+        "impression": "1. Multilevel lumbar spondylotic/disc degenerative changes with associated facet arthropathy and ligamentum flavum hypertrophy, superimposed on lumbar levoscoliosis and mild reversal of lumbar lordosis.\n2. L3-L4: Diffuse disc bulge with bilateral neural foraminal narrowing, bilateral exiting nerve-root impingement and moderate central canal stenosis (AP canal diameter ~8.5 mm), with nerve-root crowding.\n3. L4-L5: Diffuse disc bulge with left neural foraminal narrowing and left exiting nerve-root impingement; mild-to-moderate central canal stenosis (AP diameter ~9.1 mm).\n4. L5-S1: Diffuse disc bulge with left neural foraminal narrowing and left exiting nerve-root impingement.\n5. Multilevel Schmorl’s nodes and degenerative endplate changes with STIR hyperintense marrow signal at L3-L4, likely reactive/degenerative.\n6. Reduced L4 vertebral body height with superior endplate irregularity and Schmorl’s node formation, favoring chronic degenerative/compression-related change."
+      }
+    },
+    {
+      "name": "shoulder-bones-and-joints-edited-soft-tissues-preserved-laterality",
+      "template": "FINDINGS:\nBONES: No acute fracture or focal osseous lesion.\nJOINTS: No dislocation. The joint spaces are normal.\nSOFT TISSUES: The soft tissues are unremarkable.\n\nIMPRESSION:\nNo acute osseous abnormality.",
+      "dictation": "moderate degennerative changs of the left ac and gh joitns \nno acutre fracture or dislcaiiton",
+      "output": {
+        "findings_edits": {
+          "BONES": "No acute fracture. No focal osseous lesion.",
+          "JOINTS": "There are moderate degenerative changes of the left acromioclavicular and glenohumeral joints. No dislocation."
+        },
+        "impression": "1. Moderate degenerative changes of the left acromioclavicular and glenohumeral joints.\n2. No acute fracture or dislocation."
+      }
+    }
+  ]
 }
-},
-{
-"name": "sectioned-lumbar-spine",
-"template": "FINDINGS:\nVERTEBRAE: Normal density and alignment. No fracture or osseous lesion.\nDISC SPACES: Preserved.\nSOFT TISSUES: Unremarkable.\n\nIMPRESSION:\nNo acute abnormality evident in the [generic] spine.",
-"dictation": "Mild lower lumbar facet degenerative changes.\n\nRest is normal.",
-"output": {
-"findings_edits": {
-"VERTEBRAE": "Normal alignment. Mild lower lumbar facet degenerative changes are present. No acute fracture or osseous lesion."
-},
-"impression": "Mild lower lumbar facet degenerative changes. No acute abnormality."
-}
-}
-]
-}
-

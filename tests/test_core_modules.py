@@ -429,13 +429,16 @@ def test_prompt_builder() -> None:
     check("prompt: prose case lists FINDINGS", "- FINDINGS" in prompt_prose.turns[-1][1])
 
     examples = load_few_shot_examples()
-    check("prompt: few-shot file loads", len(examples) == 2, repr(len(examples)))
+    check("prompt: few-shot file loads exactly 4 curated examples",
+          len(examples) == 4, repr(len(examples)))
     prompt_fs = build_prompt(make_case(), few_shot=examples, max_examples=5)
     roles = [r for r, _ in prompt_fs.turns]
     check("prompt: few-shot expands to user/model turns",
-          len(prompt_fs.turns) == 2 * 2 + 1
+          len(prompt_fs.turns) == 2 * len(examples) + 1
           and roles[:2] == ["user", "model"] and roles[-1] == "user",
           repr(roles))
+    check("prompt: each few-shot example has valid structure",
+          all(set(e) >= {"template", "dictation", "output"} for e in examples))
 
     many = [dict(examples[0]) | {"name": f"e{i}"} for i in range(6)]
     capped = build_prompt(make_case(), few_shot=many, max_examples=3)
